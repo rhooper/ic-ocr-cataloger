@@ -1,4 +1,4 @@
-code	family	vcc	tpd	iol	ioh	year	description
+# code	family	vcc	tpd	iol	ioh	year	description
 74	Standard TTL	5 V ±5%	22 ns	16 mA	−0.4 mA	1966	The original 7400 logic family. Contains no characters between the "74" and the part number. : 3–5 
 74ABT	Advanced BiCMOS	5 V ±10%	3.6 ns	20 mA	−15 mA	1991?	TTL logic levels.
 74AC	Advanced CMOS	2.0–6.0 V	8 ns	24 mA	−24 mA	1985	CMOS logic levels. Outputs may cause ground bounce.

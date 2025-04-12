@@ -1290,8 +1290,8 @@ BUF634A	210-MHz, 250-mA high-speed buffer	HSOIC,SOIC,VSON	8
 BUF802	Wide-bandwidth, 2.3-nV/√Hz, high-input impedance JFET buffer	VQFN	16
 CC2595	RF Front-End Transmit Power Amplifier for 2.4GHz ISM Band Systems	VQFN	16
 CC430F6127	20 MHz MCU with 32KB Flash, 4KB SRAM, Sub-1 GHz radio, AES-128, I2C/SPI/UART, 96 seg LCD	VQFN	64
-CC430F6135	20 MHz MCU with 16KB Flash, 2KB SRAM, Sub-1 GHz radio, AES-128, 12-bit ADC, I2C/SPI/UART, 96 seg 	VQFN	64
-CC430F6147	20 MHz MCU with 32KB Flash, 4KB SRAM, Sub-1 GHz radio, AES-128, 10-bit ADC, I2C/SPI/UART, 96 seg 	VQFN	64
+CC430F6135	20 MHz MCU with 16KB Flash, 2KB SRAM, Sub-1 GHz radio, AES-128, 12-bit ADC, I2C/SPI/UART, 96 seg	VQFN	64
+CC430F6147	20 MHz MCU with 32KB Flash, 4KB SRAM, Sub-1 GHz radio, AES-128, 10-bit ADC, I2C/SPI/UART, 96 seg	VQFN	64
 CD14538B	CMOS Dual Precision Monostable Multivibrator (125 C Operation)	PDIP,SOIC,SOP,TSSOP	16
 CD4001B	4-ch, 2-input, 3-V to 18-V NOR gates	PDIP,SOIC,SOP,TSSOP	14
 CD4001B-MIL	Military 4-ch, 2-input, 3-V to 18-V NOR gates	CDIP	14
@@ -2219,7 +2219,7 @@ DAC39RFS10-SP	Radiation-hardness-assured, 300krad, 16-bit, 1-ch, 10.4GSPS 12GHz 
 DAC39RFS10EF	16-bit, 1-channel, 20.48-GSPS 12-GHz RF digital-to-analog converter, input rate limited	FCBGA	256
 DAC39RFS12	16-bit, 1-channel, 24-GSPS 12-GHz RF digital-to-analog converter	FCBGA	256
 DAC43204	8-bit 4-channel voltage/current output smart DAC with Hi-Z, EEPROM and waveform generator	WQFN	16
-DAC43401	8-bit 1-channel voltage-output smart DAC with Hi-Z, EEPROM, waveform generator and comparator 	WSON	8
+DAC43401	8-bit 1-channel voltage-output smart DAC with Hi-Z, EEPROM, waveform generator and comparator	WSON	8
 DAC43401-Q1	Automotive, 8-bit 1-channel VOUT smart DAC with Hi-Z, EEPROM, waveform generator and comparator	WSON	8
 DAC43508	Octal, 8-bit, buffered-voltage-output DAC with SPI	WQFN	16
 DAC43608	8-bit, 8-channel, I2C, voltage-output DAC in tiny QFN package	WQFN	16
@@ -2249,7 +2249,7 @@ DAC539E4W	Four-channel 10-bit smart analog front end (AFE) with IF-THEN-ELSE con
 DAC539G2-Q1	Automotive, 10-bit look-up-table based GPI-to-PWM converter for a single-wire error communication	WQFN	16
 DAC5571	Low-power, 8-Bit DAC with high-speed I2C Input	SOT-23	6
 DAC5573	8-bit, quad DAC with I2C Interface in a tiny TSSOP package	TSSOP	16
-DAC5574	 8-bit, quad DAC with I2C interface in a tiny MSOP package	VSSOP	10
+DAC5574	8-bit, quad DAC with I2C interface in a tiny MSOP package	VSSOP	10
 DAC5578	8-bit, Octal Channel, Ultra-Low Glitch, Voltage Output, 2-Wire Interface DAC	TSSOP,VQFN	16,24
 DAC5652	Dual-Channel, 10-Bit, 275-MSPS Digital-to-Analog Converter (DAC)	TQFP	48
 DAC5652-EP	Enhanced-Product Dual-Channel, 10-Bit, 200-MSPS Digital-to-Analog Converter (DAC)	TQFP	48
@@ -2326,7 +2326,7 @@ DAC7563	12-Bit, Dual, Low Power, Ultra-low Glitch, Buffered Voltage Output DAC w
 DAC7563-Q1	Dual 12-Bit Ultralow-Glitch Low-Power Buff. Voltage-Output DAC	VSSOP	10
 DAC7563T	DAC7563T Dual,12-Bit,Low Power with 2.5-V,4ppm/C Internal Ref,Reset to Mid-scale and 5V TTL I/O	VSSOP,WSON	10
 DAC7564	12-bit, quad channel, ultra-low glitch, vout DAC with 2.5V, 2ppm/ ºC int. ref. and reset to ze	TSSOP	16
-DAC7565	 12-bit, quad channel, ultra-low glitch, vout DAC with 2.5V, 2ppm/ ºC int. ref. and reset	TSSOP	16
+DAC7565	12-bit, quad channel, ultra-low glitch, vout DAC with 2.5V, 2ppm/ ºC int. ref. and reset	TSSOP	16
 DAC7568	12-Bit, Octal Channel, Ultra-Low Glitch, Voltage Output DAC with 2.5V, 2ppm/°C Internal Reference	TSSOP	14,16
 DAC7571	Low-Power Rail-To-Rail Output 12-Bit I2C Input DAC	SOT-23	6
 DAC7573	Quad, 12-Bit, 10us, Digital-to-Analog Converter with I2C Digital Interface	TSSOP	16
@@ -2805,12 +2805,12 @@ DRV8813	45-V, 2.5-A bipolar stepper or dual H-bridge motor driver with current r
 DRV8814	47-V, 2.5-A dual brushed DC motor driver with inrush protection	HTSSOP	28
 DRV8816	40-V, Dual Half H-Bridge Motor Driver	HTSSOP	16
 DRV8818	35-V, 2.5-A bipolar stepper motor driver with current regulation and 1/8 microstepping	HTSSOP	28
-DRV8821	32-V, 1.5-A dual bipolar stepper motor driver with current regulation and 1/8 microstepping  	HTSSOP	48
+DRV8821	32-V, 1.5-A dual bipolar stepper motor driver with current regulation and 1/8 microstepping	HTSSOP	48
 DRV8823	32-V, 1-A dual bipolar stepper or quad H-bridge motor driver with current regulation	HTSSOP	48
 DRV8823-Q1	Automotive, 34-V, 1-A, bipolar dual stepper or quad H-bridge motor driver with current regulation	HTSSOP	48
-DRV8824	45-V, 1.6-A bipolar stepper motor driver with current regulation and 1/32 microstepping  	HTSSOP,VQFN	28
+DRV8824	45-V, 1.6-A bipolar stepper motor driver with current regulation and 1/32 microstepping	HTSSOP,VQFN	28
 DRV8824-Q1	Automotive, 47-V, 1.6-A, bipolar stepper motor driver with current regulation & 1/32 microstepping	HTSSOP	28
-DRV8825	45-V, 2.5-A bipolar stepper motor driver with current regulation and 1/32 microstepping  	HTSSOP	28
+DRV8825	45-V, 2.5-A bipolar stepper motor driver with current regulation and 1/32 microstepping	HTSSOP	28
 DRV8828	47-V, 3-A H-bridge motor driver with 32-level current regulation	HTSSOP	28
 DRV8829	50-V, 5-A half bipolar stepper motor driver with 32-level current regulation	HTSSOP	28
 DRV8830	7-V, 1-A H-bridge motor driver with speed regulation and I2C control	HVSSOP,VSON	10
@@ -2848,11 +2848,11 @@ DRV8873-Q1	Automotive, current sensing 40V, 10A H-bridge motor driver with integ
 DRV8874	40-V, 6-A H-bridge motor driver with integrated current sensing feedback	HTSSOP	16
 DRV8874-Q1	Automotive 40-V, 6-A H-bridge motor driver with integrated current sensing & current-sense feedback	HTSSOP	16
 DRV8876	40-V, 3.5-A H-bridge motor driver with integrated current sensing & current-sense feedback	HTSSOP,VQFN	16
-DRV8876-Q1	Automotive 40-V, 3.5-A H-bridge motor driver with integrated current sensing & current sense 	HTSSOP	16
+DRV8876-Q1	Automotive 40-V, 3.5-A H-bridge motor driver with integrated current sensing & current sense	HTSSOP	16
 DRV8876N	37-V, 3.5-A brushed DC motor driver	HTSSOP	16
-DRV8880	45-V, 2-A bipolar stepper motor driver with current regulation, 1/16 microstepping & smart tune  	HTSSOP,WQFN	28
+DRV8880	45-V, 2-A bipolar stepper motor driver with current regulation, 1/16 microstepping & smart tune	HTSSOP,WQFN	28
 DRV8881	45-V, 2-A bipolar stepper or dual h-bridge motor driver with current regulation & smart tune	HTSSOP,WQFN	28
-DRV8884	37-V, 1-A bipolar stepper motor driver with current regulation & 1/16 microstepping  	HTSSOP,WQFN	24,28
+DRV8884	37-V, 1-A bipolar stepper motor driver with current regulation & 1/16 microstepping	HTSSOP,WQFN	24,28
 DRV8885	37-V, 1.5-A bipolar stepper motor driver with integrated current sensing & 1/16 microstepping	HTSSOP,WQFN	24,28
 DRV8886	37-V, 2-A bipolar stepper motor driver with integrated current sensing & 1/16 microstepping	HTSSOP,WQFN	24,28
 DRV8886AT	37-V, 2-A bipolar stepper motor driver with integrated current sensing & smart tune technology	HTSSOP,WQFN	24,28
@@ -3426,7 +3426,7 @@ INA333-HT	High Temperature Low Power, Precision Instrumentation Amplifier	B0QFN,
 INA333-Q1	Automotive low-power, zero-drift, precision instrumentation amplifier	VSSOP	8
 INA337	Wide-Temperature, Precision Instrumentation Amplifier	VSSOP	8
 INA338	Wide-Temperature, Precision Instrumentation Amplifier with Shutdown	VSSOP	10
-INA350	Low-power (100 µA) selectable-gain instrumentation amplifier available in 8-pin WSON (2 mm by 2 mm) 	SOT-23-THN,WSON,X2QFN	8,10
+INA350	Low-power (100 µA) selectable-gain instrumentation amplifier available in 8-pin WSON (2 mm by 2 mm)	SOT-23-THN,WSON,X2QFN	8,10
 INA351	Tiny (1.5-mm × 2-mm) low-power (110 µA) instrumentation amplifier with integrated reference buffer	SOT-23-THN,WSON,X2QFN	8,10
 INA351A	Low-power (110 µA) instrumentation amplifier with integrated reference amp to enable calibration	WSON	8
 INA381	26-V, 350-kHz current sense amplifier with integrated over-current comparator	VSSOP,WSON	8,10
@@ -3499,7 +3499,7 @@ ISO5851	5.7kVrms, 2.5A/5A single-channel isolated gate driver with active protec
 ISO5851-Q1	Automotive 5.7kVrms, 2.5A/5A single-channel isolated gate driver with active protection features	SOIC	16
 ISO5852S	5.7kVrms, 2.5A/5A single-channel isolated gate driver w/ split output, STO & protection features	SOIC	16
 ISO5852S-EP	5.7kVrms, 2.5A/5A enhanced 1-channel isolated gate driver w/split output, active protection features	SOIC	16
-ISO5852S-Q1	Automotive 5.7kVrms 2.5A/5A single-channel isolated gate driver w/split output & active protection 	SOIC	16
+ISO5852S-Q1	Automotive 5.7kVrms 2.5A/5A single-channel isolated gate driver w/split output & active protection	SOIC	16
 ISO6163	Low-power six-channel 3/3 digital isolator	SOIC	16
 ISO6441	General-purpose quad-channel 3/1 digital isolator	SOIC	16
 ISO6520	Functional isolation dual-channel 2/0 digital isolator	SOIC,VSON	8
@@ -4415,7 +4415,7 @@ LM3639A	LM3639A Single chip 40V backlight + 1.5A flash LED driver	DSBGA	20
 LM3642	1.5A Synchronous Boost LED flash driver w/ high-side current	DSBGA	9
 LM3643	Dual LED flash driver Capable of up to 1.5A	DSBGA	12
 LM3644	Dual 1.5A current source Camera flash LED driver	DSBGA	12
-LM3645	Synchronous boost quad LED flash driver with 2A high-side current sources 	DSBGA	25
+LM3645	Synchronous boost quad LED flash driver with 2A high-side current sources	DSBGA	25
 LM3648	LM3648 Synchronous Boost LED flash driver with 1.5-A high-side current source	DSBGA	12
 LM3670	Miniature Step-Down DC-DC Converter for Ultra Low Voltage Circuits	SOT-23	5
 LM3671	2MHz, 600mA Step-Down DC-DC Converter	DSBGA,SOT-23,USON	5,6
@@ -4946,7 +4946,7 @@ LM95071	±1°C Temperature Sensor with SPI Interface	SOT-23	5
 LM95071-Q1	Automotive Grade, ±1°C Temperature Sensor with SPI Interface	SOT-23	5
 LM95172-Q1	Automotive Grade, ±1°C Temperature Sensor with 200°C Capability and SPI Interface	CFP	10
 LM95214	±2°C Quad Remote and Local Temperature Sensor with SMBus Interface	WSON	14
-LM95221	±3 ºC dual remote & local temperature sensor with beta compensation and SMBus, I2C 	VSSOP	8
+LM95221	±3 ºC dual remote & local temperature sensor with beta compensation and SMBus, I2C	VSSOP	8
 LM95231	Dual Remote and Local Temperature Sensor with TruTherm Technology and SMBus Interface	VSSOP	8
 LM95233	±2°C Dual Remote and Local Temperature Sensor with TruTherm Technology and SMBus Interface	WSON	14
 LM95234	±2°C Quad Remote and Local Temperature Sensor with TruTherm Technology and SMBus Interface	WSON	14
@@ -5282,7 +5282,7 @@ LMK5B12204	Ultra-low jitter clock generator with network synchronization and BAW
 LMK5B12212	Ultra-low-jitter, 12-output, one DPLL, two APLL network synchronizer with integrated 2.5-GHz BAW VCO	VQFN	64
 LMK5B33216	16-output, three DPLL and APLL, network synchronizer with integrated 2.5-GHz bulk-acoustic-wave VCO	VQFN	64
 LMK5B33414	14-output, three DPLL and APLL, network synchronizer with integrated 2.5-GHz bulk-acoustic-wave VCO	VQFN	64
-LMK5C22212A	Three DPLL, two APLL, two-input and 12-output network synchronizer with BAW VCO 	VQFN	64
+LMK5C22212A	Three DPLL, two APLL, two-input and 12-output network synchronizer with BAW VCO	VQFN	64
 LMK5C22212AS1	Three DPLL, two APLL, two-input, 12-output network synchronizer with BAW VCO and IEEE-1588 support	VQFN	64
 LMK5C33216	Ultra-low jitter clock synchronizer with JESD204B for wireless communications with BAW	VQFN	64
 LMK5C33216A	Three DPLL, three APLL, two-input and 16-output network synchronizer with JESD204B/C and BAW VCO	VQFN	64
@@ -6055,7 +6055,7 @@ LV14360	4.3-V to 60-V, 3-A, step down converter with 300-µA standby IQ and +/-0
 LV14540	40V 5A 2.2MHz step-down converter	HSOIC	8
 LV2862	4.5-V to 60-V, 600-mA buck converter in ultra-small SOT23 package	SOT-23-THN	6
 LV3842	4-V to 36-V, 600-mA synchronous step-down converter	SOT-23	6
-LV5144	95-V synchronous DC/DC buck controller 	VQFN	20
+LV5144	95-V synchronous DC/DC buck controller	VQFN	20
 MAX202	5-V dual channel 120kbps RS-232 line driver/receiver with +/-9V output & +/-15-kV ESD protection	SOIC,TSSOP	16
 MAX207	5-V multichannel 120kbps RS-232 line driver/receiver with +/-9V output & +/-15-kV ESD protection	SOIC,SSOP	24
 MAX211	5-V multichannel 120kbps RS-232 line driver/receiver with +/-9V output & +/-15-kV ESD protection	SOIC,SSOP	28
@@ -6481,7 +6481,7 @@ MSP430FG477	8 MHz MCU with 32KB Flash, 2KB SRAM, 16-bit sigma-delta ADC, Dual DA
 MSP430FG478	8 MHz MCU with 48KB Flash, 2KB SRAM, 16-bit sigma-delta ADC, Dual DAC, 2 OpAmp, 128 seg LCD	JRBGA,LQFP,NFBGA	80,113
 MSP430FG479	8 MHz MCU with 60KB Flash, 2KB SRAM, 16-bit sigma-delta ADC, Dual DAC, 2 OpAmp, 128 seg LCD	JRBGA,LQFP,NFBGA	80,113
 MSP430FG6425	20 MHz MCU with 64KB Flash, 10KB SRAM, 16-bit Sigma-Delta ADC, dual DAC, DMA, 2 OpAmp, 160 s	LQFP	100
-MSP430FG6426	20 MHz MCU with 128KB Flash, 10KB SRAM, 16-bit Sigma-Delta ADC, dual DAC, DMA, 2 OpAmp, 160 	LQFP	100
+MSP430FG6426	20 MHz MCU with 128KB Flash, 10KB SRAM, 16-bit Sigma-Delta ADC, dual DAC, DMA, 2 OpAmp, 160	LQFP	100
 MSP430FG6625	20 MHz MCU with 64KB Flash, 10KB SRAM, 16-bit Sigma-Delta ADC, dual DAC, DMA, 2 OpAmp, 160 s	LQFP	100
 MSP430FG6626	20 MHz MCU with 128KB Flash, 10KB SRAM, 16-bit Sigma-Delta ADC, dual DAC, DMA, 2 OpAmp, 160 seg L	LQFP,NFBGA	100,113
 MSP430FR2000	16 MHz MCU with 0.5KB FRAM, 0.5KB SRAM, comparator, UART/SPI, timer	TSSOP,VQFN	16,24
@@ -7296,7 +7296,7 @@ OPT4001-Q1	Automotive high-speed high-precision digital ambient light sensor (AL
 OPT4003-Q1	Automotive high-speed high-precision digital light sensor	USON	6
 OPT4041	High-speed dual-channel high-precision digital-ambient light sensor	SOT-5X3	8
 OPT4048	High-speed high-precision tristimulus XYZ color sensor	SOT-5X3	8
-OPT4060	 High-speed high-sensitivity RGBW color sensor	SOT-5X3	8
+OPT4060	High-speed high-sensitivity RGBW color sensor	SOT-5X3	8
 OPT8241	QVGA-Resolution 3D Time-of-Flight (ToF) Sensor	COG	78
 OPT8320	3D time-of-flight (ToF) sensor and controller	COG	56
 OPT9221	Time-of-Flight (ToF) Controller for OPT8241	NFBGA	256
@@ -8618,7 +8618,7 @@ SN7407	Six-channel, 4.75-V to 5.25-V bipolar buffers with 30-V tolerant open-col
 SN74121	Monostable multivibrator with Schmitt-trigger inputs	PDIP,SOIC	14
 SN74221	Dual monostable multivibrators with Schmitt-trigger inputs	PDIP	16
 SN7432	4-ch, 2-input 4.75-V to 5.25-V bipolar OR gate	PDIP	14
-SN7442A/SN7443A/SN7444A	4-LlNE-TO-10-LlNE DECODERS (1-0F-10)
+SN7442A/SN7443A/SN7444A	4-LINE-TO-10-LINE DECODERS (1-0F-10)
 SN7445	BCD-To-Decimal Decoders/Drivers	PDIP	16
 SN7447A	BCD-To-Seven-Segment Decoders/Drivers	PDIP	16
 SN74ABT125	4-ch, 4.5-V to 5.5-V buffers with TTL-compatible CMOS inputs and 3-state outputs	PDIP,SOIC,SOP,SSOP,TSSOP,VQFN	14
@@ -8741,7 +8741,7 @@ SN74AC00	4-ch, 2-input, 2-V to 6-V NAND gates	PDIP,SOIC,SOP,TSSOP	14
 SN74AC04	6-ch, 2-V to 6-V inverters	PDIP,SOIC,SOP,SSOP,TSSOP,WQFN	14
 SN74AC04-EP	Enhanced product 6-ch, 2-V to 6-V inverters	SOIC	14
 SN74AC04-Q1	Automotive 6-ch, 2-V to 6-V inverters	TSSOP,WQFN	14
-SN74AC05-Q1	Automotive 8-ch 1.5V to 5.5V inverters with open-drain outputs 	TSSOP,WQFN	14
+SN74AC05-Q1	Automotive 8-ch 1.5V to 5.5V inverters with open-drain outputs	TSSOP,WQFN	14
 SN74AC07	1.5V-to-6V, six channel buffer	TSSOP,WQFN	14
 SN74AC07-Q1	Automotive, 1.5V-to-6V, six channel buffer	TSSOP,WQFN	14
 SN74AC08	4-ch, 2-input, 2V to 6V high-speed (7 ns) 24-mA drive strength AND gate	PDIP,SOIC,SOP,SSOP,TSSOP,WQFN	14
@@ -8804,7 +8804,7 @@ SN74AC86	4-ch, 2-input, 2-V to 5.5-V XOR (exclusive OR) gates	PDIP,SOIC,SOP,SSOP
 SN74ACT00	4-ch, 2-input, 4.5-V to 5.5-V NAND gates with TTL-compatible CMOS inputs	PDIP,SOIC,SOP,SSOP,TSSOP	14
 SN74ACT04	6-ch, 4.5-V to 5.5-V inverters with TTL-compatible CMOS inputs	PDIP,SOIC,SOP,SSOP,TSSOP,WQFN	14
 SN74ACT04-EP	Enhanced product 6-ch, 4.5-V to 5.5-V inverters with TTL-compatible CMOS inputs	SOIC	14
-SN74ACT04-Q1	Automotive, 4.5V-to-5.5V, hex inverter with TTL compatible inputs 	TSSOP,WQFN	14
+SN74ACT04-Q1	Automotive, 4.5V-to-5.5V, hex inverter with TTL compatible inputs	TSSOP,WQFN	14
 SN74ACT05-Q1	Automotive, 6-channel inverter with open-drain output	TSSOP,WQFN	14
 SN74ACT07	4.5V-to-5.5V, six channel buffers with TTL compatible inputs	TSSOP,WQFN	14
 SN74ACT07-Q1	Automotive, 4.5V-to-5.5V, six channel buffers with TTL compatible inputs	TSSOP	14
@@ -8819,7 +8819,7 @@ SN74ACT138-Q1	Automotive 3-Line to 8-Line inverting Decoders/Demultiplexers	TSSO
 SN74ACT139	Dual 2-line to 4-line decoder and demultiplexer	TSSOP,WQFN	16
 SN74ACT139-Q1	Automotive dual 2-line to 4-line decoder and demultiplexer	TSSOP,WQFN	16
 SN74ACT14	6-ch, 4.5-V to 5.5-V inverters with Schmitt-Trigger inputs	PDIP,SOIC,SOP,SSOP,TSSOP,WQFN	14
-SN74ACT14-Q1	Automotive 6-ch 4.5V to 5.5V inverters with Schmitt-trigger inputs 	TSSOP,WQFN	14
+SN74ACT14-Q1	Automotive 6-ch 4.5V to 5.5V inverters with Schmitt-trigger inputs	TSSOP,WQFN	14
 SN74ACT16	4.5V to 5.5V inverter with Schmitt-trigger, TTL-compatible inputs and open-drain outputs	TSSOP,WQFN	14
 SN74ACT16-Q1	Automotive, 4.5V to 5.5V inverter, Schmitt-trigger, TTL-compatible inputs and open-drain outputs	TSSOP,WQFN	14
 SN74ACT16245-EP	Enhanced product 16-ch, 4.5-V to 5.5-V inverters with Schmitt-Trigger inputs	SSOP	48
@@ -9553,7 +9553,7 @@ SN74HCS03	Schmitt-trigger inputs quadruple 2-input positive-NAND gates with open
 SN74HCS03-Q1	Automotive Schmitt-trigger inputs, quadruple 2-input positive-NAND gates	SOIC,TSSOP	14
 SN74HCS04	Hex inverter with Schmitt-trigger inputs	SOIC,TSSOP,WQFN	14
 SN74HCS04-Q1	Automotive 6-ch, 2-V to 6-V low power inverters with Schmitt-Trigger inputs	SOIC,TSSOP,WQFN	14
-SN74HCS05	6-ch, 2-V to 6-V inverters with Schmitt-Trigger inputs and open-drain outputs 	SOIC,TSSOP	14
+SN74HCS05	6-ch, 2-V to 6-V inverters with Schmitt-Trigger inputs and open-drain outputs	SOIC,TSSOP	14
 SN74HCS05-Q1	Automotive hex inverters with open-drain outputs	SOIC,TSSOP	14
 SN74HCS08	4-ch, 2-input 2-V to 6-V high-speed (12 ns) AND gate with Schmitt trigger inputs	SOIC,SOT-23-THN,TSSOP,WQFN	14
 SN74HCS08-Q1	Automotive, 4-ch, 2-input 2-V to 6-V high-speed (12 ns) AND gate with Schmitt trigger inputs	SOIC,SOT-23-THN,TSSOP,WQFN	14
@@ -9677,7 +9677,7 @@ SN74HCT374	Octal D-type Edge-Triggered Flip-Flops With 3-State Outputs	PDIP,SOIC
 SN74HCT540	8-ch, 4.5-V to 5.5-V inverters with TTL-compatible CMOS inputs and 3-state outputs	PDIP,SOIC	20
 SN74HCT541	8-ch, 4.5-V to 5.5-V buffers with TTL-compatible CMOS inputs and 3-state outputs	PDIP,SOIC,SOP,SSOP,TSSOP	20
 SN74HCT573	Octal Transparent D-Type Latches With 3-State Outputs	PDIP,SOIC,SOP,SSOP,TSSOP	20
-SN74HCT574	Octal edge-triggered D-type flip-flops with 3-state outputs 	PDIP,SOIC,SOP,SSOP,TSSOP,VSSOP	20
+SN74HCT574	Octal edge-triggered D-type flip-flops with 3-state outputs	PDIP,SOIC,SOP,SSOP,TSSOP,VSSOP	20
 SN74HCT595	8-bit shift register with TLL-compatible CMOS inputs and 3-state output registers	TSSOP	16
 SN74HCT595-Q1	Automotive 8-bit shift register with TLL-compatible CMOS inputs and 3-state output registers	TSSOP	16
 SN74HCT74	Dual D-Type Positive-Edge-Triggered Flip-Flops With Clear and Preset	PDIP,SOIC,SOP,SSOP,TSSOP	14
@@ -9891,7 +9891,7 @@ SN74LV8T157-EP	Enhanced-product quad 2-input multiplexers with logic-level shift
 SN74LV8T164	1.65-V to 5.5-V 8-bit, parallel-out serial shift registers with logic level shifter	TSSOP,WQFN	14
 SN74LV8T164-EP	Enhanced-product 8-bit shift register with logic-level shifter	TSSOP	14
 SN74LV8T164-Q1	Automotive, 1.65-V to 5.5-V 8-bit, parallel-out serial shift registers with logic level shifter</	TSSOP,WQFN	14
-SN74LV8T165	 1.65-V to 5.5-V 8-bit parallel-load shift register with voltage translation	TSSOP,WQFN	16
+SN74LV8T165	1.65-V to 5.5-V 8-bit parallel-load shift register with voltage translation	TSSOP,WQFN	16
 SN74LV8T165-EP	Enhanced-product 8-bit shift register with logic-level shifter	TSSOP	16
 SN74LV8T165-Q1	Automotive, 1.65 V to 5 V parallel-load eight-channel shift register with logic level shifter	TSSOP,WQFN	16
 SN74LV8T240-EP	Enhanced product 8-bit inverting fixed-direction level translator with 3-state outputs	TSSOP	20
@@ -10218,7 +10218,7 @@ SN74LVCZ240A	8-ch, 2.7-V to 3.6-V inverters with 3-state outputs	SOIC,SOP,TSSOP	
 SN74LVCZ244A	8-ch, 2.7-V to 3.6-V buffers with 3-state outputs	SOIC,SOP,SSOP,TSSOP	20
 SN74LVCZ245A	Octal Bus Transceiver With 3-State Outputs	SOIC,SOP,SSOP,TSSOP	20
 SN74LVT125	4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SOIC,SOP,SSOP,TSSOP	14
-SN74LVT125-EP	Enhanced product 4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state 	TSSOP	14
+SN74LVT125-EP	Enhanced product 4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state	TSSOP	14
 SN74LVT125-Q1	Automotive 4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state output	SOIC,TSSOP	14
 SN74LVT162240	16-ch, 2.7-V to 3.6-V inverters with TTL-compatible CMOS inputs and 3-state outputs	SSOP,TSSOP,TVSOP	48
 SN74LVT162244A	16-ch, 2.7-V to 3.6-V buffers with TTL-compatible CMOS inputs and 3-state outputs	SSOP,TSSOP,TVSOP	48
@@ -10243,7 +10243,7 @@ SN74LVT8980A-EP	Enhanced Product Embedded Test-Bus Controllers Ieee Std 1149.1 (
 SN74LVT8996	3.3-V ABT 10-Bit Addressable Scan Ports Multidrop-Addressable IEEE STD 1149.1 (JTAG) TAP Transceiver	SOIC,TSSOP	24
 SN74LVT8996-EP	Enhanced Product 3.3-V Abt 10-Bit Multidrop-Addressable Ieee Std 1149.1 Tap Transceiver	TSSOP	24
 SN74LVTH125	4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SOIC,SOP,SSOP,TSSOP,TVSOP,VQFN	14
-SN74LVTH125-EP	Enhanced product 4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state 	TSSOP	14
+SN74LVTH125-EP	Enhanced product 4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state	TSSOP	14
 SN74LVTH126	4-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SOIC,SOP,SSOP,TSSOP,TVSOP	14
 SN74LVTH162240	16-ch, 2.7-V to 3.6-V inverters with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SSOP,TSSOP	48
 SN74LVTH162241	16-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SSOP,TSSOP	48
@@ -10292,7 +10292,7 @@ SN74LVTH2245	3.3-V ABT Octal Bus Transceivers With 3-State Outputs	SOIC,SSOP,TSS
 SN74LVTH240	8-ch, 2.7-V to 3.6-V inverters with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SOIC,SOP,SSOP,TSSOP	20
 SN74LVTH241	8-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SOIC,SSOP,TSSOP	20
 SN74LVTH244A	8-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state outputs	SOIC,SOP,SSOP,TSSOP,VQFN	20
-SN74LVTH244A-EP	Enhanced product 8-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state 	SSOP,TSSOP	20
+SN74LVTH244A-EP	Enhanced product 8-ch, 2.7-V to 3.6-V buffers with bus-hold, TTL-compatible CMOS inputs and 3-state	SSOP,TSSOP	20
 SN74LVTH245A	3.3-V ABT Octal Bus Transceivers With 3-State Outputs	SOIC,SOP,SSOP,TSSOP,VQFN	20
 SN74LVTH245A-EP	Enhanced Product 3.3-V Abt Octal Bus Transceiver With 3-State Outputs	SSOP,TSSOP	20
 SN74LVTH273	3.3-V ABT Octal D-Type Flip-Flops With Clear	SOIC,SOP,SSOP,TSSOP	20
@@ -10654,7 +10654,7 @@ TCA9802	2-bit level-translating 400-kHz I2C/SMBus buffer/repeater with internal 
 TCA9803	2-bit level-translating 400-kHz I2C/SMBus buffer/repeater with internal 3-mA current source	VSSOP	8
 TCAL6408	8-bit translating I²C-bus/SMBus I/O expander with interrupt, reset, and agile I/O	TSSOP,UQFN,X2QFN	16
 TCAL6416	16-bit translating I²C-bus/SMBus I/O expander with interrupt, reset and agile I/O configuration</	TSSOP,VSSOP,WQFN	24
-TCAL6416R	16-bit translating I²C-bus/SMBus I/O expander with interrupt, reset, sticky registers, and agile 	X2QFN	24
+TCAL6416R	16-bit translating I²C-bus/SMBus I/O expander with interrupt, reset, sticky registers, and agile	X2QFN	24
 TCAL9538	Low-voltage 8-bit I²C-bus/SMBus I/O expander with interrupt, reset and agile I/O configuration	TSSOP,UQFN,X2QFN	16
 TCAL9539	16-bit low-voltage I²C-bus and SMBus I/O expander with interrupt, reset and agile I/O configuration	TSSOP,WQFN	24
 TCAL9539-Q1	Automotive 16-bit low voltage I²C/SMBus I/O expander w/interrupt, reset and agile I/O configuration	WQFN	24
@@ -10731,20 +10731,20 @@ TCAN4550-Q1	Automotive system basis chip (SBC) with integrated CAN FD controller
 TCAN4551-Q1	Automotive control area network flexible data rate (CAN FD) controller with integrated transceiver	VQFN	20
 TCAN844-Q1	Automotive CAN transceiver with standby for cost-optimized designs	SOIC,SOT-23-THN,VSON	8
 TCAN857-Q1	Automotive CAN transceiver with silent mode for cost-optimized designs	SOIC,SOT-23-THN,VSON	8
-TCM1501A	Ringer - 2 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1506A	Ringer - 0.5 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1512A	Ringer - 1.250 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1520A,AP	Ring Detector TTL/MOS Output - 40-150 Vac	  8 	BIDFET,PDIP
-TCM1531	Ringer - 2 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1531A	Ringer - 2 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1532	Ringer - 1.250 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1532A	Ringer - 1.250 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1536	Ringer - 0.5 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1536A	Ringer - 0.5 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1539	Ringer - 1.8 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM1539A	Ringer - 1.8 kHz Output  40-150 Vac	  8 	BIDFET,PDIP
-TCM5087	DTMF Encoder-Standard  	  16	CMOS,PDIP
-TCM5089	DTMF Encoder-Electronic Input  	  16	CMOS,PDIP
+TCM1501A	Ringer - 2 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1506A	Ringer - 0.5 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1512A	Ringer - 1.250 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1520A,AP	Ring Detector TTL/MOS Output - 40-150 Vac	8	BIDFET,PDIP
+TCM1531	Ringer - 2 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1531A	Ringer - 2 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1532	Ringer - 1.250 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1532A	Ringer - 1.250 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1536	Ringer - 0.5 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1536A	Ringer - 0.5 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1539	Ringer - 1.8 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM1539A	Ringer - 1.8 kHz Output  40-150 Vac	8	BIDFET,PDIP
+TCM5087	DTMF Encoder-Standard	  16	CMOS,PDIP
+TCM5089	DTMF Encoder-Electronic Input	  16	CMOS,PDIP
 TDA2E	SoC processors with graphics and video acceleration for ADAS applications (23mm package)	FCBGA	760
 TDA2EG-17	SoC processors with graphics and video acceleration for ADAS applications (17mm package)	FCCSP	538
 TDA2HF	SoC processor w/ full-featured video & vision acceleration for ADAS applications	FCBGA	760
@@ -10781,7 +10781,7 @@ TDES4940	4K V³Link™ to DP/eDP deserializer for high-resolution panels	VQFNP	8
 TDES954	4.16-Gbps MIPI® CSI-2 V³Link deserializer dual hub for high speed sensors	VQFN	48
 TDES960	4.16-Gbps MIPI® CSI-2 V³Link deserializer quad hub for high speed sensors	VQFNP	64
 TDES9640	7.55-Gbps MIPI® CSI-2 V³Link™ deserializer quad hub for high speed sensors	VQFNP	88
-TDP0604	DP++ 6-Gbps HDMI 2.0 redriver 	WQFN	40
+TDP0604	DP++ 6-Gbps HDMI 2.0 redriver	WQFN	40
 TDP1204	12-Gbps DP++ 1.1 to HDMI 2.1 source redriver	WQFN	40
 TDP142	8.1 Gbps DP1.4 linear redriver	WQFN	40
 TDP142-Q1	Automotive 8.1Gbps DP1.4 linear redriver	VQFN	40
@@ -10909,7 +10909,7 @@ THVD1410	3.3-V to 5-V RS-485 transceiver with ±18-kV IEC ESD protection	SOIC,VS
 THVD1419	3.3-V to 5-V RS-485 transceiver with surge protection	SOIC	8
 THVD1420	3.3-V to 5-V, 12-Mbps, RS-485 transceiver in small package option with ±12-kV IEC ESD prot	SOIC,SOT-5X3	8
 THVD1424	RS-485 transceiver with slew-rate control, integrated switchable termination and duplex switching	VQFN	16
-THVD1426	3.3-V to 5-V 12-Mbps half-duplex RS-485 transceiver auto-direction control ±12-kV IEC ESD 	SOIC,SOT-5X3	8
+THVD1426	3.3-V to 5-V 12-Mbps half-duplex RS-485 transceiver auto-direction control ±12-kV IEC ESD	SOIC,SOT-5X3	8
 THVD1428	3.3-V to 5-V RS-485 transceiver with surge protection	SOIC	8
 THVD1429	3.3-V to 5-V RS-485 transceiver with surge protection	SOIC	8
 THVD1439	3.3-V to 5-V, 250-Kbps, RS-485 transceiver with integrated 4-kV IEC surge and IEC ESD/EFT protection	SOIC	8
@@ -10931,11 +10931,11 @@ THVD1552	5V RS-485 Transceivers With ±18kV IEC ESD Protection	SOIC,VSSOP	10,14
 THVD2410	±70-V fault-protected 3.3-V to 5-V RS-485 transceiver with IEC ESD	SOIC,VSON,VSSOP	8
 THVD2410V	3-V to 5.5-V, 1-Mbps, half-duplex RS-485 transceiver with flexible IO and 70-V bus-fault protection	VSON	10
 THVD2410V-EP	Enhanced-product 3V to 5.5V 1Mbps half-duplex RS-485 transceiver with flexible IO and 70V bus fault	VSON	10
-THVD2412	3.3-V to 5-V, 250-Kbps, full-duplex RS-485 transceiver with IEC ESD and ±70-V fault-protected 	VSON	10
+THVD2412	3.3-V to 5-V, 250-Kbps, full-duplex RS-485 transceiver with IEC ESD and ±70-V fault-protected	VSON	10
 THVD2412V	3V to 5.5V, 1Mbps full-duplex RS-485 transceiver with flexible IO and 70V protected bus-fault	SOIC	14
 THVD2419	3V-to-5.5V 250Kbps RS-485 transceiver with up to 3kV IEC surge and ±42V fault protection	SOIC,VSON	8,10
 THVD2429	3V-to-5.5V 20Mbps RS-485 transceiver with up to 3kV IEC surge and ±42V fault protection	SOIC,VSON	8,10
-THVD2442	3.3-V to 5-V, 20-Mbps, full-duplex RS-485 transceiver with IEC ESD and ±70-V fault-protected 	VSON	10
+THVD2442	3.3-V to 5-V, 20-Mbps, full-duplex RS-485 transceiver with IEC ESD and ±70-V fault-protected	VSON	10
 THVD2450	±70-V fault-protected 3.3-V to 5-V RS-485 transceiver with IEC ESD	SOIC,VSON,VSSOP	8
 THVD2450V	70-V bus-fault protected, flexible IO, 3-V to 5.5-V 50-Mbps half-duplex RS-485 transceiver	VSON	10
 THVD2450V-EP	Enhanced-product 3V to 5.5V 50Mbps half-duplex RS-485 transceiver with flexible IO and 70V bus fault	VSON	10
@@ -10959,7 +10959,7 @@ TIBPAL20R8-20M	High-Performance Impact<TM> PAL<R> Circuits	CDIP	24
 TIC10024-Q1	Automotive 35-V multi-switch detection interface (MSDI) with SPI	HTSSOP	38
 TIC12400	24-input sensor monitor with integrated 1:1 (SPST), 10-channel ADC & SPI	HTSSOP	38
 TIC12400-Q1	Automotive 35-V multi-switch detection interface (MSDI) with SPI & integrated ADC	HTSSOP	38
-TIL181	Optocoupler 12V	  6 	Bipolar,CP-7
+TIL181	Optocoupler 12V	6	Bipolar,CP-7
 TIOL111	IO-Link device transceiver with integrated surge protection	VSON	10
 TIOL1113	IO-Link device transceiver with integrated surge protection and 3.3-V LDO output	VSON	10
 TIOL1115	IO-Link device transceiver with integrated surge protection and 5-V LDO output	VSON	10
@@ -10973,10 +10973,10 @@ TIOS1015	Digital sensor output driver with integrated surge protection and 5-V L
 TIOS102	Digital sensor output driver with low residual voltage and integrated surge protection	DSBGA,VSON	10,12
 TIOS1023	Digital sensor output driver with low residual voltage, integrated surge protection, and 3.3-V LDO	DSBGA,VSON	10,12
 TIOS1025	Digital sensor output driver with low residual voltage, integrated surge protection, and 5-V LDO	VSON	10
-TISP108A	Transient Voltage Suppressor  58 V	  3 	Bipolar,TO-220
-TISP218A	Transient Voltage Suppressor  120 V	  3 	Bipolar,TO-220
-TISP229A	Transient Voltage Suppressor  200 V	  3 	Bipolar,TO-220
-TISP318A	Transient Voltage Suppressor  120 V	  3 	Bipolar,TO-220
+TISP108A	Transient Voltage Suppressor  58 V	3	Bipolar,TO-220
+TISP218A	Transient Voltage Suppressor  120 V	3	Bipolar,TO-220
+TISP229A	Transient Voltage Suppressor  200 V	3	Bipolar,TO-220
+TISP318A	Transient Voltage Suppressor  120 V	3	Bipolar,TO-220
 TL022	Dual, 30-V, 500-kHz operational amplifier	PDIP,SOIC,SOP	8
 TL026	Single, 16V differential high-frequency amplifier with AGC	PDIP,SOIC,SOP	8
 TL031	Single, 30-V, 1.1-MHz, 1.5-mV offset voltage, In to V+, JFET-input operational amplifier	PDIP,SOIC	8
@@ -11431,7 +11431,7 @@ TLC69652-Q1	Automotive 32 mini-LED matrix local dimming backlight driver with 16
 TLC69654	64 mini-LED matrix local dimming backlight driver with 16-channel integrated current sink	DSBGA,WQFN	24
 TLC69654-Q1	Automotive 64 mini-LED matrix local dimming backlight driver with 16-channel integrated current sink	HTSSOP,WQFN	24,28
 TLC69658	128 mini-LED matrix local dimming backlight driver with 16-channel integrated current sink	DSBGA,WQFN	24
-TLC69658-Q1	Automotive 128 mini-LED matrix local dimming backlight driver with 16-channel integrated current 	HTSSOP,WQFN	24,28
+TLC69658-Q1	Automotive 128 mini-LED matrix local dimming backlight driver with 16-channel integrated current	HTSSOP,WQFN	24,28
 TLC69660	8-scan MOSFET controller	DSBGA,WQFN	24
 TLC69660-Q1	Automotive 8-scan MOSFET controller for mini-LED matrix local dimming backlight applications	HTSSOP,WQFN	24,28
 TLC69661	Mini-LED local dimming backlight driver with 60-mA 16-channel integrated current sink	DSBGA,WQFN	24
@@ -11474,7 +11474,7 @@ TLE2022A	Excalibur High-Speed Low-Power Precision Dual Operational Amplifier	PDI
 TLE2022A-Q1	Automotive excalibur high-speed low-power dual precision operational amplifier	SOIC	8
 TLE2022AM	High-Speed, Low-Power, Precision Dual Operational Amplifier	SOIC	8
 TLE2022BM	High-Speed, Low-Power, Precision Dual Operational Amplifier	CDIP,LCCC	8,20
-TLE2022M	Excalibur high-speed low-power precision dual operational amplifier with wide temperature ranges 	SOIC	8
+TLE2022M	Excalibur high-speed low-power precision dual operational amplifier with wide temperature ranges	SOIC	8
 TLE2024	Quad Precision Low-Power Single Supply Operational Amplifier	PDIP,SOIC	14,16
 TLE2024-EP	Enhanced Product Excalibur High-Speed Low-Power Precision Op Amps	SOIC	16
 TLE2024A	Excalibur high-speed low-power quad precision operational amplifier	PDIP,SOIC	14,16
@@ -12239,7 +12239,7 @@ TM4C123GE6PM	32-bit Arm Cortex-M4F based MCU with 80-MHz, 128-kb Flash, 32-kb RA
 TM4C123GE6PZ	32-bit Arm Cortex-M4F based MCU with 80-MHz, 128-kb Flash, 32-kb RAM, 2x CAN, RTC, USB, 100-pin LQFP	LQFP	100
 TM4C123GH6NMR	32-bit Arm® Cortex®-M4F-based MCU with 80-MHz, 256-kb flash, 32-kb RAM, 2x CAN, RTC, USB	NFBGA	157
 TM4C123GH6PGE	32-bit Arm Cortex-M4F based MCU with 80-MHz, 256-kb Flash, 32-kb RAM, 2x CAN, RTC, USB, 144-pin LQFP	LQFP	144
-TM4C123GH6PM	32-bit Arm Cortex-M4F based MCU with 80 -MHz, 256 -KB Flash, 32 -KB RAM, 2 CAN, RTC, USB, 64-Pin 	LQFP	64
+TM4C123GH6PM	32-bit Arm Cortex-M4F based MCU with 80 -MHz, 256 -KB Flash, 32 -KB RAM, 2 CAN, RTC, USB, 64-Pin	LQFP	64
 TM4C123GH6PZ	32-bit Arm Cortex-M4F based MCU with 80-MHz, 256-kb Flash, 32-kb RAM, 2x CAN, RTC, USB, 100-pin LQFP	LQFP	100
 TM4C123GH6ZXR	32-bit Arm Cortex-M4F based MCU with 80-MHz, 256-kb Flash, 32-kb RAM, 2x CAN, RTC, USB, 168-pin BGA	NFBGA	168
 TM4C1290NCPDT	32-bit Arm Cortex-M4F based MCU with 120-MHz, 1-MB Flash, 256-kb RAM, USB	TQFP	128
@@ -12301,7 +12301,7 @@ TMCS1127	80ARMS 250kHz Hall-effect current sensor with AFR	SOIC	10
 TMCS1127-Q1	AEC-Q100 80ARMS 250kHz Hall-effect current sensor with AFR	SOIC	10
 TMCS1133	80ARMS 1MHz Hall-effect current sensor with AFR and ALERT	SOIC	10
 TMCS1133-Q1	Automotive 1MHz Hall-effect current sensor with AFR and ALERT	SOIC	10
-TMDS1204	12-Gbps HDMI 2.1 sink redriver 	WQFN	40
+TMDS1204	12-Gbps HDMI 2.1 sink redriver	WQFN	40
 TMDS141	2.25-Gbps HDMI 1.3a TMDS redriver	VQFN	40
 TMDS171	3.4-Gbps HDMI 1.4b TMDS retimer	VQFN	48
 TMDS181	6-Gbps HDMI 2.0 TMDS retimer	VQFN	48
@@ -12319,7 +12319,7 @@ TMP102-Q1	Automotive ±2 ºC 1.4V to 3.6V digital temperature sensor with I2C/SM
 TMP103	±2 ºC Digital temperature sensor with I2C/SMBus capable of 1.4V in WCSP	DSBGA	4
 TMP104	±2 ºC Temperature sensor with daisy-chain UART interface with up to 16 devices	DSBGA	4
 TMP105	±2 ºC, 2.6V to 3.3V digital temperature sensor with I2C/SMBus interface & Alert fun	DSBGA	6
-TMP106	±2 ºC, 2.7V to 5.5V digital temperature sensor with I2C/SMBus interface & alert in 	DSBGA	6
+TMP106	±2 ºC, 2.7V to 5.5V digital temperature sensor with I2C/SMBus interface & alert in	DSBGA	6
 TMP107	±0.4°C Temperature Sensor with Daisy-Chain UART, EEPROM, and Alert Function	SOIC	8
 TMP107-Q1	Automotive Grade, ±0.4°C Temperature Sensor with Daisy-Chain UART, EEPROM, and Alert Function	SOIC	8
 TMP1075	1°C I²C temperature sensor with performance upgrades to industry standard LM75 / TMP75	SOIC,SOT-5X3,VSSOP,WSON	6,8
@@ -12726,7 +12726,7 @@ TMS570LS3134	16/32 Bit RISC Flash MCU, Arm Cortex-R4F	LQFP,NFBGA	144,337
 TMS570LS3135	16/32 Bit RISC Flash MCU, Arm Cortex-R4F, FlexRay	LQFP	144
 TMS570LS3137	16/32 Bit RISC Flash MCU, Arm Cortex-R4F, EMAC, FlexRay	LQFP,NFBGA	144,337
 TMS570LS3137-EP	Enhanced Product 16/32 Bit RISC Flash Arm Cortex-R4F, EMAC, FlexRay	NFBGA	337
-TMS99531	Tone/Pulse Dialer  	  14	NMOS,PDIP
+TMS99531	Tone/Pulse Dialer	  14	NMOS,PDIP
 TMUX1072	5-V, 2:1 (SPDT), 2-channel analog switch with powered-off protection	UQFN,VSSOP	10,12
 TMUX1101	3-pA on-state leakage current, 5-V, 1:1 (SPST), 1-channel precision switch (active high)	SOT-23,SOT-SC70	5
 TMUX1102	3-pA on-state leakage current, 5-V, 1:1 (SPST), 1-channel precision switch (active low)	SOT-23,SOT-SC70	5
@@ -13196,7 +13196,7 @@ TPS22980	Thunderbolt Host/Peripheral Power Multiplexer	VQFN	20
 TPS22981	Thunderbolt™ Host/Peripheral Power Mux (Optimized for Thunderbolt 2)	VQFN	20
 TPS22986	Thunderbolt™ Cable Power Mux (Also supports Thunderbolt 2)	DSBGA	16
 TPS22990	5.5-V, 10-A, 3.9-mΩ load switch with adj. rise time, power good and optional output discharge	WSON	10
-TPS22991	5V, 3A, 25mΩ load switch with optional output discharge 	UQFN-HR	4
+TPS22991	5V, 3A, 25mΩ load switch with optional output discharge	UQFN-HR	4
 TPS22992	5.5V 6A 8.7mΩ load switch with adjustable rise time and adjustable output discharge	WQFN-HR	8
 TPS22993	4-ch, 3.6-V, 1.2-A, 15-mΩ load switch with I2C control	WQFN-HR	20
 TPS22994	4-ch, 3.6-V, 1-A, 41-mΩ load switch with I2C control	WQFN	20
@@ -13249,7 +13249,7 @@ TPS23841	Type-2 non-standard wide VIN 4-channel PoE PSE with integrated FET & cu
 TPS23861	2-pair, type-2, 4-channel PoE PSE with autonomous mode	TSSOP	28
 TPS2388	2-pair, type-2, 8-channel PoE PSE	VQFN	56
 TPS23880	4-pair, type-4, 8-channel PoE PSE with programmable SRAM	VQFN	56
-TPS23881	4-pair, type-4, 8-channel PoE PSE with 200-mΩ RSENSE 	VQFN	56
+TPS23881	4-pair, type-4, 8-channel PoE PSE with 200-mΩ RSENSE	VQFN	56
 TPS23881B	Type-4, four-pair, 8-channel PoE PSE controller with autonomous mode	VQFN	56
 TPS23882	Type-3, 2-pair, 8-channel PoE PSE controller with SRAM and 200-mΩ RSENSE	VQFN	56
 TPS23882B	Type-3, two-pair, 8-channel PoE PSE controller with autonomous mode, SRAM and 200-mΩ RSENSE	VQFN	56
@@ -13264,8 +13264,8 @@ TPS2419	0.8-V to 16.5-V 1.2A IQ 291-uA Igate source N+1 and OR-ing power rail co
 TPS2420	3-V to 20-V, 30mΩ, 1-5A eFuse	VQFN	16
 TPS2421-1	3-V to 20-V, 33mΩ, 1.8-5.5A eFuse	HSOIC	8
 TPS2421-2	3-V to 20-V, 33mΩ, 1.8-5.5A eFuse with thermal shutdown	HSOIC	8
-TPS2456	8.5-V to 15-V dual channelHot Swap with Oring	VQFN	36
-TPS2456A	8.5-V to 15-V dual channelHot Swap with Oring and Impro-Ved Slew Rate Immunity	VQFN	36
+TPS2456	8.5-V to 15-V dual channel Hot Swap with Oring	VQFN	36
+TPS2456A	8.5-V to 15-V dual channel Hot Swap with Oring and Impro-Ved Slew Rate Immunity	VQFN	36
 TPS2458	3-V to 15-V hot swap controller with Oring and Load current monitor	VQFN	32
 TPS2459	3-V to 15-V hot swap controller with Oring and I2C	VQFN	32
 TPS24700	2.5-V to 18-V hot swap controller	VSSOP	8
@@ -13408,7 +13408,7 @@ TPS2660	4.2-V to 60-V, 150mΩ, 0.1-2.23A eFuse with integrated input reverse po
 TPS2661	50-V, universal 4-20-mA, ±20-mA current loop protector	SOT-23-THN	8
 TPS2662	4.5-V to 60-V, 478mΩ, 0.025-0.88A eFuse with integrated input and output reverse polarity protection	VSON	10
 TPS2663	4.5-V to 60-V, 31mΩ, 0.6-6A eFuse with output power limiting and surge protection	HTSSOP,VQFN	20,24
-TPS26750	USB Type-C® and USB Power Delivery (PD) 3.1 controller with 240-W extended power range support 	VQFN	32
+TPS26750	USB Type-C® and USB Power Delivery (PD) 3.1 controller with 240-W extended power range support	VQFN	32
 TPS27081A	8-V, 3-A, 44-mΩ load switch with adj. rise time	SOT-23-THN	6
 TPS272C45	36-V, 45-mΩ, 3-A, 2-ch, Industrial high-side switch with adjustable current limit	VQFN	24
 TPS274160	36-V, 160-mΩ, 1.35-A, 4-ch, Industrial high-side switch with adjustable current limit	WQFN	28
@@ -13673,7 +13673,7 @@ TPS51367	3-V to 22-V, 12-A synchronous buck converter with ultra-low quiescent c
 TPS51375	4.5V to 24V input, 12A continuous, 26A (max) synchronous buck converter	WQFN-FCRLF	19
 TPS51383	4.5-V to 24-V input, 8-A synchronous buck converter	VQFN-HR	12
 TPS51385	4.5-V to 24-V input, 7-A synchronous step-down voltage regulator with on-time D-CAP3 control	VQFN-HR	12
-TPS51386	4.5-V to 24-V input, 8-A synchronous buck converter 	VQFN-HR	12
+TPS51386	4.5-V to 24-V input, 8-A synchronous buck converter	VQFN-HR	12
 TPS51388	4.5-V to 24-V input, 12-A synchronous buck converter with adjustable output	VQFN-HR	13
 TPS513885	5.5V to 24V input, 12A synchronous buck converter with fixed 5.15V output	VQFN-HR	13
 TPS51396A	4.5-V to 24-V, 8-A synchronous step-down voltage regulator	VQFN-HR	20
@@ -13713,7 +13713,7 @@ TPS53125	4.5-V to 24-V, 350 kHz synchronous dual-D-CAP2 buck controller	TSSOP,VQ
 TPS53129	4.5-V to 24-V, synchronous dual-D-CAP2 buck controller	TSSOP,VQFN	24
 TPS53211	1.5-V to 19-V, single phase PWM buck controller with light-load efficiency	VQFN	16
 TPS53219A	3-V to 28-V, 20-A, synchronous D-CAP buck controller with Eco Mode	VQFN	16
-TPS53310	 2.9V to 6V, 3-A Step-Down Converter with Integrated MOSFETs	VQFN	16
+TPS53310	2.9V to 6V, 3-A Step-Down Converter with Integrated MOSFETs	VQFN	16
 TPS53311	2.9V to 6V Input, 3A Synchronous Step-Down Converter with Eco-Mode and Smooth PWM	VQFN	16
 TPS53314	4.5-V to 25-V, 6-A synchronous buck converter	VQFN	40
 TPS53315	3-V to 15-V, 12-A synchronous buck converter with optimized light load efficiency	VQFN	40
@@ -13722,7 +13722,7 @@ TPS53317	Low Input Voltage, 6A Synchronous Step-Down SWIFT™ Converter for DDR 
 TPS53317A	0.9V-6V Input, 6-A Output, D-CAP+ Mode, SWIFT Synchronous Step-Down Converter for DDR VTT	VQFN	20
 TPS53318	1.5-V to 22-V, 8-A synchronous buck converter with eco-mode	LSON-CLIP	22
 TPS53319	1.5-V to 22-V, 14-A synchronous buck converter with eco-mode	LSON-CLIP	22
-TPS53321	 2.9V to 6V, 5-A Step-Down Converter with Integrated MOSFETs	VQFN	16
+TPS53321	2.9V to 6V, 5-A Step-Down Converter with Integrated MOSFETs	VQFN	16
 TPS53353	High-efficiency 1.5-V to 15-V, 20-A synchronous SWIFT™ buck converter with eco-mode	LSON-CLIP	22
 TPS53355	High-efficiency 1.5-V to 15-V, 30-A synchronous SWIFT™ buck converter with eco-mode	LSON-CLIP	22
 TPS53511	1.5A Step-Down Regulator with Integrated MOSFETs	VQFN	16
@@ -13749,11 +13749,11 @@ TPS53681	Dual-Channel 6+2/5+3 D-CAP+TM Multiphase Step-Down Controller with PMBu
 TPS53685	Eight-phase digital step-down multiphase controller with SVI3 and PMBus for AMD platform	WQFN	40
 TPS53688	Dual-channel, 8 phase step-down, digital multiphase D-CAP+™ controller with VR13.HC SVID and PMBus	WQFN	40
 TPS53689	Dual-channel, 8 phase step-down, digital multiphase D-CAP+™ controller with VR14 SVID and PMBus	WQFN	40
-TPS53689T	 Dual-channel, 8-phase step-down digital multiphase D-CAP+™ controller with VR14 SVID and PMBus	WQFN	40
+TPS53689T	Dual-channel, 8-phase step-down digital multiphase D-CAP+™ controller with VR14 SVID and PMBus	WQFN	40
 TPS536C5	12-phase digital step-down multiphase controller with SVI3 and PMBus for AMD platform	VQFN	48
 TPS536C7	Dual-channel D-CAP+™, PMBus (N+M ≤ 12 phases) step-down, multiphase PWM controller	VQFN	48
 TPS536C9	Dual-channel, 12 phase step-down, digital multiphase D-CAP+™ controller with VR14 SVID and PMBus	VQFN	48
-TPS536C9T	 Dual-channel, 12-phase step-down digital multiphase D-CAP+™ controller with VR14 SVID and PMBus	VQFN	48
+TPS536C9T	Dual-channel, 12-phase step-down digital multiphase D-CAP+™ controller with VR14 SVID and PMBus	VQFN	48
 TPS53819A	3-V to 28-V, 40-A, synchronous D-CAP2 buck controller with PMBus	VQFN	16
 TPS53820	Integrated step-down converter with SVID for Intel CPU power	VQFN-HR	35
 TPS53830	High current PMIC for DDR5 server DIMMs	VQFN-HR	35
@@ -13777,7 +13777,7 @@ TPS54060A	3.5V to 60V Input, 0.5A Step-Down Converter with Eco-Mode	HVSSOP,VSON	
 TPS54061	4.7V to 60V Input, 200mA Synchronous Step-Down Converter with Low IQ	VSON	8
 TPS54061-Q1	Automotive Catalog, 4.7V -60-V, 200-mA Synchronous Step-Down DC-DC Converter	VSON	8
 TPS54062	4.7V to 60V Input, 50mA Synchronous Step-Down Converter with Low IQ	VSON,VSSOP	8
-TPS54073	3V to 4V Input, 14A Synchronous Step-Down Converter for Pre-biased Outputs 	HTSSOP	28
+TPS54073	3V to 4V Input, 14A Synchronous Step-Down Converter for Pre-biased Outputs	HTSSOP	28
 TPS5410	5.5V to 36V Input, 1A, 500kHz Step Down Converter	SOIC	8
 TPS5410-EP	Enhanced Product 5.5V to 36V, 1A, 500kHz Step Down Converter	SOIC	8
 TPS5410-Q1	Automotive 5.5V to 36V, 500kHz Fixed Frequency 1A Buck Converter	SOIC	8
@@ -13938,7 +13938,7 @@ TPS54561-Q1	Automotive 4.5V to 60V Input 5A Step-Down DC-DC Converter With Soft-
 TPS54610	3V to 6V Input, 6A Synchronous Step-Down Converter	HTSSOP	28
 TPS54610-EP	Enhanced Product 3-V To 6-V Input, 6-A Output Synchronous Buck Pwm Switcher W/ Integr. Fets	HTSSOP	28
 TPS54615-EP	Enhanced Product 3-V To 6-V Input, 6-A Output Synchronous Buck Pwm Switcher W/Integr. Fets	HTSSOP	28
-TPS54616	3V to 6V Input, 6A Synchronous Step-Down SWIFT™ Converter with 3.3V Output 	HTSSOP	28
+TPS54616	3V to 6V Input, 6A Synchronous Step-Down SWIFT™ Converter with 3.3V Output	HTSSOP	28
 TPS54617	3V to 6V Input, 6A Synchronous Step-Down Converter	VQFN	34
 TPS54618	2.95V to 6V Input, 6A, Synchronous Step-Down SWIFT™ Converter	WQFN	16
 TPS54618C-Q1	Automotive 2.95-V to 6-V, 6-A, 2-MHz synchronous buck converter	WQFN	16
@@ -13952,7 +13952,7 @@ TPS54627	4.5-V to 18-V, 6-A synchronous buck converter in HTSSOP package	HSOIC	8
 TPS54628	4.5-V to 18-V, 6-A synchronous buck converter with eco-mode in HTSSOP package	HSOIC	8
 TPS54672	6-A Active Bus Termination/ DDR Memory SWIFT™ Converter	HTSSOP	28
 TPS54678	2.95V to 6V Input, 6A Synchronous Step-Down SWIFT™ Converter with Hiccup Current Limit	WQFN	16
-TPS54680-EP	 Enhanced Product 3V to 6V Input Tracking Synchronous Buck Pwm Switcher 	HTSSOP	28
+TPS54680-EP	Enhanced Product 3V to 6V Input Tracking Synchronous Buck Pwm Switcher	HTSSOP	28
 TPS546A24A	2.95-V to 18-V, stackable 10-A synchronous SWIFT™ buck converter with pin-strapping and PMBus	LQFN-CLIP	40
 TPS546A24S	2.95-V to 16-V stackable 10-A synchronous SWIFT™ step-down PMBus converter with extended security	LQFN-CLIP	40
 TPS546B24A	2.95-V to 18-V, stackable 20-A synchronous SWIFT™ buck converter with pin-strapping and PMBus	LQFN-CLIP	40
@@ -14025,7 +14025,7 @@ TPS560430-Q1	Automotive qualified SIMPLE SWITCHER® 4-V to 36-V, 600-mA synchron
 TPS561201	4.5V to 17V Input, 1A Synchronous Step-Down Voltage Regulator in 6-pin SOT-23	SOT-23-THN	6
 TPS561208	4.5V to 17V Input, 1A Output, Synchronous Step-Down Converter	SOT-23-THN	6
 TPS56121	4.5-V to 14-V, 15-A synchronous SWIFT™ buck converter	LSON-CLIP	22
-TPS561243	4.2V to 17V input voltage, 1A, 1.2MHz synchronous buck converter in SOT563 with Eco-mode 	SOT-5X3	6
+TPS561243	4.2V to 17V input voltage, 1A, 1.2MHz synchronous buck converter in SOT563 with Eco-mode	SOT-5X3	6
 TPS561246	4.2V to 17V input voltage, 1A, 1.2MHz synchronous buck converter in SOT563 with FCCM mode	SOT-5X3	6
 TPS561300	4.5V to 30V input, 1A, 1.2MHz synchronous buck converter	SOT-23-THN	6
 TPS562200	17 V Input, 2A Synchronous Step-Down Regulator in SOT-23 with Advanced Eco-mode™	SOT-23-THN	6
@@ -14604,7 +14604,7 @@ TPS62871	6V, 9A stackable synchronous buck converter with frequency-synchronizat
 TPS62871-Q1	Automotive, 2.7V to 6V input, 9A stackable synchronous buck converter	VQFN-FCRLF	16
 TPS62872	6V, 12A stackable synchronous buck converter	VQFN-FCRLF	16
 TPS62872-Q1	Automotive, 2.7V-to-6V input, 12A stackable synchronous buck converter	VQFN-FCRLF	16
-TPS62873	6-V, 15-A, stackable, synchronous buck converter 	VQFN-FCRLF	16
+TPS62873	6-V, 15-A, stackable, synchronous buck converter	VQFN-FCRLF	16
 TPS62873-Q1	Automotive 2.7-V to 6-V input, 15-A, stackable, synchronous buck converter	VQFN-FCRLF	16
 TPS62874-Q1	Automotive, 2.7V to 6V input, 15A stackable synchronous buck converter	WQFN-FCRLF	24
 TPS62875-Q1	Automotive, 2.7V to 6V input, 20A stackable synchronous buck converter	WQFN-FCRLF	24
@@ -14776,7 +14776,7 @@ TPS65136	Single Inductor Multiple Outputs (SIMO) for Positive and Negative Outpu
 TPS65137AS	250mA Dual Outputs AMOLED Display Power Supply	WSON	10
 TPS65138	Dual Output AMOLED Display Power Supply	VSON	10
 TPS65142	LCD Bias Solution For LCD Panels with 6ch WLED Driver	WQFN	32
-TPS65146	3-CH LCD Bias w/ LDO, GPM, VCOM Buffer & Reset IC 	VQFN	24
+TPS65146	3-CH LCD Bias w/ LDO, GPM, VCOM Buffer & Reset IC	VQFN	24
 TPS65148	4-CH LCD Bias w/ GPM, VCOM, Reset, LCD Discharge, HVS, Ext. Isolation Switch & LDO for Gamma	VQFN	32
 TPS65149	LCD Bias Solution For LCD Panels Using ASG/GIP Technology	VQFN	56
 TPS65150	Universal, compact LCD bias Power Supply with integrated VCOM Buffer	HTSSOP,VQFN	24
@@ -15053,7 +15053,7 @@ TPS761	100-mA, 16-V, low-dropout voltage regulator with reverse current protecti
 TPS76201	100-mA, 10-V, low-IQ, adjustable low-dropout voltage regulator with enable	SOT-23	5
 TPS763	150-mA, 10-V, low-dropout voltage regulator with enable	SOT-23	5
 TPS763-Q1	Automotive 150mA, 10V, low-dropout voltage regulator with enable	SOT-23	5
-TPS766	 250-mA ultra-low IQ low-dropout voltage regulator	SOIC	8
+TPS766	250-mA ultra-low IQ low-dropout voltage regulator	SOIC	8
 TPS767	1-A, 10-V, low-dropout voltage regulator with enable & RESET with delay	HTSSOP,SOIC	8,20
 TPS767-Q1	Automotive 1-A, 10-V, low-dropout voltage regulator with enable	HTSSOP	20
 TPS76701-EP	Enhanced product, fast transient response 1-A low-dropout voltage regular	HTSSOP	20
@@ -15805,7 +15805,7 @@ TUSB217-Q1	Automotive USB 2.0 high speed signal conditioner with DC boost, integ
 TUSB217A	USB 2.0 high-speed signal conditioner with DCP and CDP controllers	X2QFN	12
 TUSB217A-Q1	USB 2.0 high-speed signal conditioner with DCP and CDP controllers	X2QFN	12
 TUSB2551A	Advanced Universal Serial Bus Transceiver	VQFN	16
-TUSB2E11	USB 2.0-eUSB2 one-port repeater 	DSBGA	15
+TUSB2E11	USB 2.0-eUSB2 one-port repeater	DSBGA	15
 TUSB2E22	eUSB2 to USB 2.0 Dual repeater	DSBGA,VQFN-FCRLF	20,25
 TUSB2E221	Two-port eUSB2 (rev 1.2) to USB 2.0 repeater	DSBGA,WQFN-FCRLF	20,25
 TUSB319-Q1	Automotive USB Type-C DFP Port Controller	WSON	8
@@ -15868,7 +15868,7 @@ TWL6041	8-Channel High Quality Low-Power Audio Codec For Portable Applications	D
 TX08D	8 linear amplifiers and DAC integrated with 5-level pulser, T/R switch and on-chip beamforrmer	FCCSP	196
 TX7316	16-channel 3-level or 8-channel 5-level transmitter with integrated transmit beamformer	NFBGA	216
 TX7332	32-channel 3-level transmitter with integrated transmit beamformer	NFBGA	260
-TX7364	" 64-channel, three-level transmitter with 1A pulser and integrated transmit beamformer 	"	FCCSP	196
+TX7364	" 64-channel, three-level transmitter with 1A pulser and integrated transmit beamformer	"	FCCSP	196
 TX73H32	32-channel, three -level transmitter with 2A pulser and integrated transmit beamformer
 TX7516	16-channel five-level transmitter	FCCSP	144
 TX75E16	16-channel five-level transmitter with enhanced damping feature	FCCSP	144

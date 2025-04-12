@@ -5,7 +5,7 @@ I8284	 Clock Generator and Driver for 8086,8088,8089 Processors
 2148	 1024 x 4 Bit Static RAM
 2716	 16K (2K x 8) UV Erasable PROM
 2732	 32K (4K x 8) UV Erasable PROM
-2758	 8K (l K x 8) UV Erasable Low Power PROM
+2758	 8K (1K x 8) UV Erasable Low Power PROM
 8041A/8741A	 Universal Peripheral Interface 8-Bit Microcomputer
 8086/8086-2/8086-4	 8086 series 8/16 bit CPU with 16-bit bus	40	HMOS
 8088	8086 series 6/16 bit CPU with 8-bit bus	40	HMOS
@@ -47,6 +47,6 @@ D8748H/D8749H	HMOS-E Single-Component 8-Bit Microcontroller
 P8049KB	HMOS Single-Component 8-Bit Microcontroller
 8214	Priority Interrupt Encoder
 8251	Serial Communications Interface
-8255	General Purpose Programmable lIO
+8255	General Purpose Programmable I/O
 8279	Keyboard/Display Interface
 8254	Interval Timer

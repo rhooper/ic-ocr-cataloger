@@ -1,0 +1,36 @@
+# Part	Description				Flags	Pins
+S5101	 AMI CMOS RAM 256x4
+S6508	 AMI CMOS RAM 1Kx1
+S6514	 AMI CMOS RAM 1Kx4
+S6504	 AMI CMOS RAM 4Kx1
+S68308	 AMI Byte-wide NMOSX ROMs 1Kx8 24 Pin
+S6831B	 AMI Byte-wide NMOSX ROMs 2Kx8 24 Pin
+S68332	 AMI Byte-wide NMOSX ROMs 4Kx8 24 Pin
+S2333	 AMI Byte-wide NMOSX ROMs 4Kx8 24 Pin
+S68A364	 AMI Byte-wide NMOSX ROMs 8Kx8 24 Pin
+S2364	 AMI Byte-wide NMOSX ROMs 8Kx8 28 Pin
+S6800/S68A00/S68B00	 8-Bit Microprocessor (1.0/1.5/2.0MHz Clock)
+S6801/S6801E	 Single Chip Microcomputer 2K ROM, 128X8 RAM, 31 I/O Lines, Enhanced Instruction Set (External IE) or Internal Clock)
+S6802,A,B	 Microprocessor with Clock and RAM (1.0/1.5/2.0MHz Clock) (S6808 Models-No RAM)
+S6808,A,B	 Microprocessor with Clock and RAM (1.0/1.5/2.0MHz Clock) (S6808 Models-No RAM)
+S6803,N,R	 S6801 CPU Without ROM (N/R Model - No ROM and RAM)
+S6805	 Single Chip Microcomputer 1,152X8 ROM, 64X8 RAM, Timer, Pre-scaler, Bit Level Instructions.
+S6809,E	 Pseudo I6-Bit Microprocessor 1.0Mhz (E Models - External Clock Mode)
+S68A09,E	 Pseudo I6-Bit Microprocessor 1.5MHz Clock (E Models - External Clock Mode)
+S68B09,E	 Pseudo I6-Bit Microprocessor 2.0MHz Clock (E Models - External Clock Mode)
+S1602	 Universal Asynchronous Receiver/Transmitter (UART)
+S2350	 Universal Synchronous Receiver/Transmitter (USRT)
+S6551/S68051	 UART With Baud Rate Generator
+86821/868A21/S68B21	 Peripheral Interface Adapter (PIA) (1.0/1.5/2.0MHz Clock)
+S6840/868A40/868B40	 Programmable Timer (1.0/1.5/2.0MHz)
+868045	 CRT Controller (CRTC)
+86846	 2K ROM, Parallel I/O, Programmable Timer
+S6850/868A50/868B50	 Asynchronous Communication Interface Adapter (ACIA)
+S6852/868A52/868B52	 Synchronous Serial Data Adapter (SSDA) (1.0/1.5/2.0MHz Clock)
+S6854/868A54/868B54	 Advanced Data Link Controller (ADLC) (1.0/1.5/2.0MHz Clock)
+S68488	 IEEE - 488 Bus Interface
+S2811	 Signal Processing Peripheral
+S2814A	 Fast Fourier Transformer
+S2815	 Digital Filter/Utility Peripheral
+82816	 Echo Cancellor Processor
+S6810/S68A10/S68B10	 128 X 8 Static RAM (450/360/250ns Access Time)

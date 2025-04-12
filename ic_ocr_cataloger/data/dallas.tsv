@@ -1,0 +1,174 @@
+DS0065	TeleMicro Interface System Software
+DS1000	5-Tap SilIcon Delay LIne
+DS1003	4-Tap Silicon Delay Une for RISC Applications
+DS1005	5-Tap Silicon Delay Line
+DS1007	7-in-1 Silicon Delay Line
+DS1010	10-Tap Silicon Delay Une
+DS1012	2-in-1 Sub-Miniature Silicon Delay Line with Logic
+DS1013	3-in-1 Silicon Delay Line
+DS102O	Programmable 8-Bit Silicon Delay Une
+DS104O	Programmable.one-Shot Pulse Generator
+DS1200	Serial RAM Chip
+DS1201	Electronic Tag
+DS1202,S	Serial TTimekeeping Chip
+DS1203S-B1	MicroPower Receiver Chip
+DS1204U	Electronic Key
+DS1205S	MultiKey Chip
+DS1205U	MultiKey
+DS1206	Phantom Serial Interface Chip
+DS1207	TimeKey
+DS1209S-B1	Wireless to 3-Wire Converter Chip
+DS1210	Nonvolatile Controller Chip
+DS1211	Nonvolatile Controller X 8 Chip
+DS1212	Nonvolatile Controller X 16 Chip
+DS1213B	SmartSocket 16K/64K
+DS1213C	SmartSocket 64K/256K
+DS1213D	SmartSocket 64K/256K/1M
+DS1215	Phantom Time Chip
+DS1216B	SmartWatch/RAM 16K/64K
+DS1216C	SmartWatch/RAM 64K/256K
+DS1216D	SmartWatch/RAM 256K/1M
+DS1216E	SmartWatch/ROM 64K/256K
+DS1216F	SmartWatch/ROM 64K/256K/1M
+DS1217A	Nonvolatile Read/Write Cartridge
+DS1217M	Nonvolatile Read/Write Cartridge
+DS1218	Nonvolatile Controller
+DS122OAB,AD	16K Nonvolatile SRAM
+DS1220Y	16K Nonvolatile SRAM
+DS1221,S	Nonvolatile Controller x 4 Chip
+DS1222	BankSwitch Chip
+DS1225AB,AD	64K Nonvolatile SRAM
+DS1225D,E	64K Nonvolatile SRAM
+DS1225Y	64K Nonvolatile SRAM
+DS1227	KickStarter Chip
+DS1228	+5V Powered Dual RS-232 Transmitter/Receiver
+DS1229	+5V Powered Triple RS-232 Transmitter/Receiver
+DS1230Y,AB	256K Nonvolatile SRAM
+DS1231,S	Power MonitOr Chip
+DS1232	MicroMonitor Chip
+DS1232LP,LPS	Low Power Micro Monitor Chip
+DS1233	5V EconoReset
+DS1233A	3.3V EconoReset
+DS1234	Conditional Nonvolatile Controller Chip
+DS1236	Micro Manager Chip
+DS1237	DRAM Nonvolatizer Chip
+DS1238	MicroManager
+DS1239	Micro Manager Chip
+DS1243Y	64K NV SRAM with Phantom Clock
+DS1244Y	256K NV SRAM with Phantom Clock
+DS1245EE	1M Write-Protected NV SRAM
+DS1245Y/AB	1024K Nonvolatile SRAM
+DS1248Y	1024K NV SRAM with Phantom Clock
+DS1250	Key Ring
+DS1255U	Printer Port Key Ring
+DS1258K-001	CyberCard Portable Data Carrier Evaluation Kit
+DS1258K-002	CyberKey Carrier Evaluation Kit
+DS1259	Battery Manager Chip
+DS1260	5mart Battery
+DS1262	Serial DRAM Nonvolatizer Chip
+DS1267	Dual Digital Potentiometer Chill
+DS1275	Line-Powered RS-232 Transceiver Chip
+DS1277	8-Channel Crosspoint Switch
+DS1280	3-Wire to Bytewide Converter Chip
+DS1283	Watchdog Timekeeper Chip DS1284 Watchdog Timekeeper Chip DS1285,Q Real Time Clock
+DS1286	Watchdog Timekeeper
+DS1287	Real Time Clock
+DS1287A	Real Time Clock
+DS12885,Q	Real Time Clock
+DS12887	Real Time Clock
+DS12887A	Real Time Clock
+DS129x	Eliminator
+DS1310/DS1311	Super Socket
+DS1336	Afterburner Chip
+DS1360	Phantom DAA Chip
+DS1380,S	RAMport
+DS1381	NV RAMport
+DS1385/DS1387	RAMified Real Time Clock 4K X 8
+DS1386	RAMified Watch Timekeeper
+DS1395/DS1397	RAMified Real Time Clock
+DS1485/DS1488	RAMified Real Time Clock 8K X 8 DS1486 RAMified Watchdog Timekeeper
+DS1494L-F5	Time-In-a-Can DS1495/DS1497 RAMified Real Time Clock
+DS1585/DS1587	Serialized Real Time Clocks
+DS1602	Elapsed Time Counter
+DS1603	Elapsed Time Counter Module
+DS1609	Dual Port RAM
+DS1610	Partitioned NV Controller
+DS1613C	Partitioned 5martSocket 256K
+DS16130	Partitioned 5martSocket 1M
+DS1630Y,AB	Partitioned 256K NV 5RAM
+DS1632	PC Power Fail and Reset Controller
+DS1633x	High Speed Battery Recharger
+DS1640,C	Personal Computer Power FET
+DS1642	Nonvolatile Timekeeping RAM
+DS1643	Nonvolatile Timekeeping RAM
+DS1645Y,AB	Partitioned 1024K NV 5RAM
+DS1645EE	Partitioned 1024K NV 5RAM
+DS1650Y,AB	Partitioned 4096K NV 5RAM
+DS1651	3-Code Lock (Use w/DS1652 Key Match Memory)
+DS1652,B	KeyCode Memory
+DS1653	DS1653 4-Code Lock (Use w/DS1652 Key Match Memory)
+DS1666,S	Audio Digital Resistor
+DS1667	Digital Resistor with OP AMP
+DS1668/DS1669/DS1669S	Dallastat™ Electronic Digital Rheostat
+DS1990	Touch Serial Number
+DS1991	Touch MultiKey DS1992/DS1993/DS1994 Time-In-a-Can
+DS2009	512x9 FIFO Chip
+DS2010	1024x9 FIFO Chip
+DS2011	2048x9 FIFO Chip DS2012 4096x9 FIFO Chip
+DS2013	8192x9 FIFO Chip
+DS2015	Quad Port serial RAM Chip
+DS2016,S	2Kx8 3V Operation Static RAM
+DS2064,S	8Kx8 3V Operation Static RAM
+DS21075	SCSI Terminator
+DS2130	Voice Messaging Processor
+DS2132	Digital Answering Machine Processor
+DS2141	T1/ISDN Primary Rate Controller
+DS2145/DS2146	T1/CEPT Medium Haul PCM Line Interface
+DS2165	16/24132Kbps ADPCM Processor
+DS2167/DS2168	ADPCM Processor
+DS2175	T1/CEPT Elastic Store
+DS2176	T1 Elastic Store with Signalling Buffer
+DS2180A	T1/ISDN Primary Rate Transceiver
+DS2181A	CEPT Primary Rate Transceiver
+DS2182	T1 Line Monitor
+DS2186	T1/CEPT Transmit Line Interface
+DS2187	T1/CEPT Receive Line Interface
+DS2188	T1/CEPT Jitter Attenuator
+DS2190-003	T1 Network Interface Unit
+DS2219	Nonvolatile DRAM Stik 1M x 9
+DS2223/DS2224	EconoRAM
+DS2227	Flexible NV SRAM Stik
+DS2229	Word-Wide 8 Meg SRAM Stik
+DS2230	Dual Port NV SRAM Stik (See DS6071 A/K)
+DS2244T	TeleMicro Stik
+DS2245	Soft Modem Stik
+DS2245K	Soft Modem PC Evaluation Kit
+DS2245M	Soft Modem w/MNP
+DS2249	Data Access Arrangement (OM) Stik
+DS2249PH/EU	Phantom/European OM Stik
+DS2250	128K Micro Stik
+DS2251	Soft Micro Stik
+DS2252	Secure Micro Stik
+DS2257,S	32K x 8 3V Operation Static RAM
+DS2262	MegaStore Stik TM
+DS2264/DS2268	ADPCM Stik
+DS2271	Speech Stik
+DS2271DK	Speech Stik Design Kit
+DS2280/DS2281	T1 Line Card Stik/CEPT Line Card Stik
+DS2282	T1 FOL Controller/Monitor Stik
+DS2283	Enhanced T1 Line Card Stik
+DS2284	Enhanced CEPT Line Card Stik
+DS2290	T1 Isolation Stik
+DS2291	T1 Long Loop Stik
+DS2340(T)	Soft V40 Flip Stik
+DS2400	Silicon Serial Number (48bit + CRC)
+DS2404	EconoRAM Time Chip
+DS2569	Touch/Proximity Memory Chip
+DS5000	Soft Microcontroller
+O55000FP	Micro Chip
+DS5000T	Time Soft Microcontroller
+DS5000TK	Time Micro Evaluation Kit
+DS5001FP	128K Micro Chip
+O55002FP	Secure Micro Chip
+DS5311FP	68HC11 Softener Chip
+DS534OFP	V40 Softener Chip
