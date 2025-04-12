@@ -1,0 +1,421 @@
+3N128 single-gate amplifier
+3N138 single-gate chopper and multiplexer 
+3N140 dual-gate rf amplifier 285
+3N141 dual-gate mixer 285
+3N142 single-gate rf amplifier 286
+3N143 single-gate vhf mixer/oscillator 309 
+3N152 single-gate vhf amplifier 314 
+3N153 single-gate chopper/multiplexer 320 
+3N154 single-gate vhf amplifier 335 
+3N159 dual-gate rf amplifier 326 
+3N187 dual-gate rf amplifier 436 
+3N200 dual-gate rf amplifier 437 
+32139 single-gate af and rf amplifier 284
+40467A single-gate vhf amplifier
+40468A single-gate rf amplifier
+40559A single-gate mixer
+40600 dual-gate rf amplifier
+40601 dual-gate if amplifier
+40602 dual-gate mixer
+40603 dual-gate rf amplifier
+40604 dual-gate mixer
+40673 dual-gate rf amplifier
+40819 dual-gate rf amplifier
+40820 dual-gate rf amplifier
+40821 dual-gate mixer
+40822 dual-gate rf amplifier
+40823 dual-gate mixer
+40841 dual-gate general-purpose type
+CA101A Operational Amplifier
+CA101AT Operational Amplifier, General·Purpose
+CA101T Operational Amplifier, General·Purpose
+CA107 operational amplifier
+CA107T Operational Amplifier, General-Purpose
+CA108 precision operational amplifier
+CA108A precision operational amplifier
+CA108AT Operational Amplifier. Precision
+CA108T Operational Amplifier, Precision
+CA101 operational amplifier
+CA111 Voltage Comparator
+CA111 voltage comparator
+CA111T Voltage Comparator
+CA1310 RC phase-lock-loop stereo decoder
+CA1352 TV video amplifier
+CA1398 TV chroma processor
+CA1458 operational amplifier
+CA1458T Operational Amplifier, General-Purpose
+CA1541 memory sense amplifier
+CA1541D Dual-Input Memory Sense Amplifier
+CA1558 operational amplifier
+CA1558T Operational Amplifier, General·Purpose
+CA201 operational amplifier
+CA201A operational amplifier
+CA207 operational amplifier
+CA208 precision operational amplifier
+CA208A precision operational amplifier
+CA211 voltage comparator
+CA2111A FM if subsystem
+CA3000 DC Amplifier
+CA3000 dc amplifier
+CA3001 Video and Wide-Band Amplifier
+CA3001 video amplifier
+CA3002 IF amplifier
+CA3002 IF amplifier
+CA3004 RF amplifier
+CA3004 RF amplifier
+CA3005 RF amplifier
+CA3005 RF amplifier
+CA3006 RF amplifier
+CA3006 RF amplifier
+CA3007 AF amplifier
+CA3008 operational amplifier
+CA3008A operational amplifier
+CA3010 Operational Amplifier
+CA3010 operational amplifier
+CA3010A Operational Amplifier
+CA3010A operational amplifier
+CA3011 FM IF Amplifier
+CA3011 wide-band amplifier
+CA3012 FM IF Amplifier
+CA3012 wide-band amplifier
+CA3013 Wide-Band Amplifier/Limiter/FM Detector
+CA3013 wide-band amplifier-discriminator
+CA3014 Wide-Band Amplifier/Limiter/FM Detector
+CA3014 wide-band amplifier-discriminator
+CA3015 Operational Amplifier
+CA3015 operational amplifier
+CA3015A Operational Amplifier
+CA3015A operational amplifier
+CA3016 operational amplifier
+CA3016A operational amplifier
+CA3018 General·Purpose Transistor Array
+CA3018 transistor array
+CA3018A General·Purpose Transistor Array
+CA3018A Transistor Arrays
+CA3018A transistor array
+CA3019 diode array
+CA301A operational amplifier
+CA3020 Multipurpose Wide-Band Power Amplifier
+CA3020 wide-band power amplifier
+CA3020A Multipurpose WideBand Power Amplifier
+CA3020A wide-band power amplifier
+CA3021 low-power video amplifier
+CA3022 low-power video amplifier
+CA3023 low-power video amplifier
+CA3026 Dual Independent Differential Amplifier
+CA3026 dual differential amplifier
+CA3028A Differential/Cascode Amplifier
+CA3028A differential/cascade amplifier
+CA3028B Differential/Cascode Amplifier
+CA3028B differential/cascade amplifier
+CA3029 operational amplifier
+CA3029A operational amplifier
+CA3030 operational amplifier
+CA3030A operational amplifier
+CA3033 operational amplifier
+CA3033A operational amplifier
+CA3035 wide-band amplifier array
+CA3036 Dual Darlington Array
+CA3036 dual Darlington array
+CA3037 Operational Amplifier
+CA3037 operational amplifier
+CA3037A Operational Amplifier
+CA3037A operational amplifier
+CA3038 Operational Amplifier
+CA3038 operational amplifier
+CA3038A Operational Amplifier
+CA3038A operational amplifier
+CA3039 Diode Array (Six Matched Diodes)
+CA3039 diode array
+CA3040 wide-band amplifier
+CA3041 TV if sound subsystem
+CA3042 TV if sound subsystem
+CA3043 FM I/F Subsystem
+CA3043 FM if subsystem
+CA3044 TV automatic-fine-tuning subsystem
+CA3045 General-Purpose Transistor Array
+CA3045 Transistor Arrays
+CA3045 transistor array
+CA3046 General·Purpose Transistor Array
+CA3046 transistor array
+CA3047 operational amplifier
+CA3047A operational amplifier
+CA3048 amplifier array
+CA3049 dual differential amplifier
+CA3049T Dual Independent Differential RF/IF Amplifier
+CA3050 dual differential amplifier
+CA3051 dual differential amplifier
+CA3052 stereo preamplifier
+CA3053 Differential/Cascode Amplifier
+CA3053 differential/cascode amplifier
+CA3054 dual differential amplifier
+CA3058 Zero· Voltage Switch
+CA3058 zero-voltage switch
+CA3059 zero-voltage switch
+CA3060 OTA array
+CA3060A OTA array
+CA3060AD Triple Operational Transconductance Amplifier Array
+CA3060B OTA array
+CA3060BD Triple Operational Transconductance Amplifier Array
+CA3060D Triple Operational Transconductance Amplifier Array
+CA3062 photo detector and power amplifier
+CA3064 TV automatic-fine-tuning subsystem
+CA3065 TV if sound system
+CA3066 TV chroma signal processor
+CA3067 TV chroma demodulator
+CA3068 TV video if system
+CA307 operational amplifier
+CA3070 TV chroma signal processor
+CA3071 TV chroma amplifier
+CA3072 TV chroma demodulator
+CA3075 FM if subsystem
+CA3076  High-Gain Wide-Band IF Amplifier-Limiter
+CA3076 FM if gain block
+CA3078 micropower operational amplifier
+CA3078A micropower operational amplifier
+CA3078AT  Micropower Operational Amplifier
+CA3078T  Micropower Operational Amplifier
+CA3079 zero-voltage switch
+CA308 precision operational amplifier
+CA3080  Operational Transconductance Amplifier
+CA3080 operational transconductance amplifier
+CA3080A  Operational Transconductance Amplifier
+CA3080A operational transconductance amplifier
+CA3081 transistor array (n-p-n)
+CA3082 transistor array (n--p-n)
+CA3083 transistor array (n-p-n)
+CA3084 transistor array (p-n-p)
+CA3085  Positive Voltage Regulator
+CA3085 positive voltage regulator
+CA3085A  Positive Voltage Regulator
+CA3085A positive voltage regulator
+CA3085B  Positive Voltage Regulator
+CA3085B positive voltage regulator
+CA3086  General·Purpose N-P-N Transistor Array
+CA3086 transistor array (n-p-n)
+CA3088 AM receiver subsystem
+CA3089 FM if system
+CA308A precision operational amplifier
+CA3090A stereo multiplex decoder
+CA3091 four-quadrant multiplier
+CA3091D  Four-Quadrant Multiplier
+CA3093 transistor-diode array
+CA3094 programmable power-switch/amplifier
+CA3094A programmable power-switch/amplifier
+CA3094AT  Programmable Power Switch/Amplifier
+CA3094B programmable power-switch/amplifier
+CA3094BT  Programmable Power Switch/Amplifier
+CA3094T  Programmable Power Switch/Amplifier
+CA3095 super-beta transistor array
+CA3096 n-p-n/p-n-p transistor array
+CA3096A n-p-n/p-n-p transistor array
+CA3097 thyristor/transistor array
+CA3099 programmable comparator
+CA30i9 Diode Array (Quad and Two Individual Diodes)
+CA3100 wide-band operational amplifier
+CA3100T  Wide-Band Operational Amplifier
+CA3102 dual differential amplifier
+CA311 voltage comparator
+CA3118 high-voltage transistor array In-p-n)
+CA3118A high-voltage transistor array (n-p-n)
+CA3118AT  High-Voltage Transistor Array
+CA3118T  High-Voltage Transistor Array
+CA3120 TV signal processor
+CA3121 TV chroma amplifier/demodulator 
+CA3123 AM radio receiver subsystem 631 
+CA3125 TV chroma demodulator.
+CA3126 TV chroma processor
+CA3127 high-frequency n-p-n transistor array
+CA3128 TV chroma processor for PAL systems
+CA3130 COS/MOS operational amplifier
+CA3130AT  COS/MOS Operational Amplifier
+CA3130BT  COS/MOS Operational Amplifier
+CA3130T  COS/MOS Operational Amplifier
+CA3131 S-W audio amplifier
+CA3132 5-W audio amplifier
+CA3134 TV sound if and audio output subsystem
+CA3146 high-voltage transistor array (n-p-n)
+CA3146A high-voltage transistor array (n-p-n)
+CA3183 high-voltage transistor array (n-p-n)
+CA3183A high-voltage transistor array (n-p-n)
+CA339 quad voltage comparator
+CA339A quad voltage comparator
+CA3401 quad operational amplifier
+CA3600 COS/MaS transistor array
+CA3724G high-current transistor array (n-p-n)
+CA3725G high-current transistor array In-p-n)
+CA521 Memory Sense Amplifier
+CA555 timer
+CA555C timer
+CA6078A low-noise operational amplifier
+CA6741 low-noise operational amplifier
+CA723 Voltage Regulator
+CA723 voltage regulator
+CA723C voltage regulator
+CA723T Voltage Regulator
+CA741 Operational Amplifier
+CA741 operational amplifier
+CA741C operational amplifier
+CA741CT Operational Amplifier, General-Purpose
+CA741T Operational Amplifier, General-Purpose
+CA747 Operational Amplifier
+CA747 operational amplifier
+CA747C operational amplifier
+CA747CT Operational Amplifier, General-Purpose
+CA747T Operational Amplifier, General-Purpose
+CA748 operational amplifier
+CA748C operational amplifier
+CA748CT Operational Amplifier, General·Purpose
+CA748T Operational Amplifier, General-Purpose
+CA75361A Memory Driver
+CA758 RC phase-lock-loop stereo decoder
+CA7800 Voltage Regulator Series
+CA810 7-W audio power amplifier
+CA1488 Quad Line Driver
+CA1489,A Quad Line Receivers
+CD2500 BCD-to-7-segment decoder/driver
+CD2501 BCD-to-7-segment decoder/driver
+CD2502 BCD-to-7-segment decoder/driver
+CD2503 BCD-to-7-segment decoder/driver
+CD4000A Dual 3-input NOR Gate Plus Inverter
+CD4001A Quad 2-input NOR Gate
+CD4002A Dual 4-input NOR Gate
+CD4006A 18-Stage Static Shift Register
+CD4007A Dual Complementary Pair Plus Inverter
+CD4008A 4-Bit Full Adder With Parallel Carry-out
+CD4009A Hex Buffer/Converter (Inverting Type)
+CD40100 32-Bit Left/Right Shift Register
+CD40101 Parity Generator/Checker
+CD40102 Presettable 8·Bit BCD Down Counter
+CD40103 Presettable 8-Bit Binary Down Counter
+CD40104 3-Sta18. 4-Bit Left/Right Shift Register
+CD40105 FIFO Buffer Register
+CD40107 Dual 2-input NAND Buffer/Driver
+CD40108 4 X 4 Multiport Register
+CD40109 quad Low-to-High Voltage Level Shifter
+CD4010A Hex Buffer/Converter (Non-Inverting Type)
+CD4011A Quad 2-input NAND Gate
+CD4012A Dual4-input NAND Gate
+CD4013A Dual "D" Type Flip-Flop With Set/Reset Capability
+CD4014A 8-Stage Static Shift Register (Synchronous)
+CD4015A Dual 4-Stage Static Shift Register
+CD4016A Dual Bilateral Switch
+CD4017A Decade Counter/Divider
+CD40181 4-Bit Arithmetic Logic Unit
+CD40182 Look-Ahead-Carry Block Arithmetic Logic Unit
+CD4018A Presettable Divide-By-"N" Counter
+CD40192 Synchronous 4-Bit Up/Down 3 BCD Counter
+CD40193 Synchronous 4-Bit Up/Down Binary Counter
+CD40194 4-Bit Left/Right Shift Register
+CD4019A Quad AND-OR Select Gate
+CD4020A 14-Stage Ripple-Carry Binary Counter/Divider
+CD4021A 8-Stage Static Shift Register (Asynchronous)
+CD4022A Divide-By-8 Counter/Divider With 8 Decoded Outputs
+CD4023A Triple 3-input NAND Gate
+CD4024A 7-Stage Binary Ripple Counter
+CD40257 Quad 2-line-to-1-line Data Selector Multiplexer
+CD4025A Triple 3-input NOR Gate
+CD4026A Decade Counter/Divider
+CD4027A Dual J-K Master-Slave Flip-Flop With Set/Reset Capability
+CD4028A BCD-TO-Decimal Decoder
+CD4029A Presettable Up/Down Counter
+CD4030A Quad Exclusive-OR Gate
+CD4031A 64-Stage Static Shift Register
+CD4033A Decade Counter/Divider
+CD4034A 8-Stage Parallel-In/Parallel-Out Bidirectional Static Shift Register
+CD4035A 4-Stage Parallel-In/Parallel-Out Shift Register
+CD4036A 4-Word X 8-Bit RAM (Binary Addressing)
+CD4039A 4-Word X 8-Bit RAM (Direct Word-Line Addressing)
+CD4040A 12-Stage Binary/Ripple Counter
+CD4041A Quad True/Complement Buffer
+CD4042A Quad Clocked "D" Latch
+CD4043A Quad 3-State NOR R/S Latch
+CD4044A Quad 3-State NAND R/S Latch
+CD4045A 21-Stage Clock-Timer Counter
+CD4046A Micropower Phase-Locked Loop
+CD4047A Low-Power Monostable/Astable Multivibrator
+CD4048A Multi-Function Expandable 8-input Gate
+CD4049A Hex Buffer/Converter (Inverting Type)
+CD4050A Hex Buffer /Converter (Non-Inverting Type)
+CD4051A Single 8-Channel Analog Multiplexer
+CD4052A Differential 4-Channel Anglog Multiplexer
+CD4053A Triple 2-Channel Analog Mutliplexer
+CD4057A LSI 4-Bit Arithmetic Array
+CD4059A Divide-by-N Counter (Programmable)
+CD4060A 14-Stage Binary Counter and Oscillator
+CD4061A 256-Bit RAM
+CD4061A 256-Bit Static Random-Access Memory
+CD4061AD 256Xl Bit RAM Std. COS/MOS
+CD4061AD 256Xl Bit RAM Std. COS/MOS
+CD4062A 200-Stage Dynamic Shift Register
+CD4063B 4-Bit Magnitude Comparator
+CD4066A Ouad Bilateral Switch
+CD4067B Single 16-Channel Multiplexer/Demultiplexer
+CD4068B 8-input NAND Gate
+CD4069B Hex Inverter
+CD4070B Ouad Exclusive-OR Gate
+CD4071B Ouad 2-input OR Gate
+CD4072B Dual 4-input OR Gate
+CD4073B Triple 3-input AND Gate
+CD4075B Triple 3-input OR Gate
+CD4076B 3-State 4-Bit "0" Type Register
+CD4077B Ouad Exclusive-NOR Gate
+CD4078B 8-input NOR Gate
+CD4081B Ouad 2-input AND Gate
+CD4082B Dual 4-input AND Gate
+CD4085B Dual2-Wide 2-input AND-OR-Invert Gate
+CD4086B Expandable 4-Wide 2-input AND-OR-Invert Gate
+CD4089B Binary Rate Multiplier
+CD4093B Ouad 2-input NAND Schmitt Trigger
+CD4094B 8-Bit Bus Register With Shift and Store
+CD4095B Gated JK Flip-Flop (Non-Inverting J and K Inputs)
+CD4096B Gated JK Flip-Flop (Inverting and Non-Inverting J and K Inputs)
+CD4097B Differential 8-Channel Multiplexer/Demultiplexer
+CD4098B Dual Retiggerable/Resettable Monostable Multivibrator
+CD4099B 8-Bit Addressable latch
+CD4502B Strobed Hex Inverter/Buffer
+CD4508B Dual 4-Bit latch
+CD4510B 4-Bit BCD Up/Down Counter
+CD4511B BCD-to-Seven-Segment latch Decoder Driver
+CD4514B 4-Bit latch/4-to-16 Line Decoder (Outputs Higll)
+CD4515B 4 Bit latch/4-to-16 Line Decoder (Outputs Low) ,
+CD4516B 4-Bit Binary Up/Down Counter
+CD4518B Dual BCD Up Counter
+CD4520B Dual Binary Up Counter
+CD4527B BCD Rate Multiplier
+CD4532B 8-input Priority Encoder
+CD4555B Dual l-of-4 Decoder/Demultiplexer (OutPuts High)
+CD4556B Dual l-of-4 Decoder/Demultiplexer (Ouputs Low)
+CDP1801RD CDP1800 COSMAC Series Register Chip
+CDP1801UD CDP1800 COSMAC Series Processor Chip
+CDP1802,C,D Complete Processor Microprocessor
+CDP1821S CDP1800 RAM - 1024 x 1, 4 to 10 V
+CDP1821SC CDP1800 RAM - 1024 x 1, 4 to 6 V
+CDP1821SD CDP1800 1024 x 1 RAM
+CDP1822S CDP1800 RAM - 256 x 4, 4 to 10 V
+CDP1822SC CDP1800 RAM - 256 x 4, 4 to 6 V
+CDP1824 CDP1800 RAM - 32 x 8, 3 to 12 V
+CDP1824C CDP1800 RAM - 32 x 8, 4 to 6 V
+CDP1824D 32 x 8 RAM
+CDP1831 CDP1800 ROM - 512 x 8, 3 to 12 V
+CDP1831C CDP1800 ROM - 512 x 8, 4 to 6 V
+CDP1831D 512 x 8 ROM (COSMAC Compatible)
+CDP1832 CDP1800 ROM - 512 x 8, 3 to 12 V
+CDP1832C CDP1800 ROM - 512 x 8, 4 to 6 V
+CDP1832D 512 x 8 ROM (Intel PROM Compatible)
+CDP1852 CDP1800 IO - Byte I/O, 3 to 12 V
+CDP1852C CDP1800 IO - Byte I/O,4 to 6 V
+CDP1852D BYTE I/O
+CDP1853D 1-of-8 Latch Decoder
+CDP1854D UART
+CDP1855D Multiply/Divide Chip
+HR3N187 Dual-Gate FET
+HR3N200 Dual-Gate FET
+MSW5501D 1024Xl Bit (10V) SOS/CMOS
+MSW5501D 1024Xl Bit (10V) SOS/CMOS
+MW4050D 4096Xl Bit/1B Pin NMOS
+MW4050D 4096Xl Bit/1B Pin NMOS
+MW4060D 4096X1 Bit/22 Pin NMOS
+MW4060D 4096X1 Bit/22 Pin NMOS
+MWS5540D 256X4 Bit (10V) SOS/CMOS
+MWS5540D 256X4 Bit (10V) SOS/CMOS

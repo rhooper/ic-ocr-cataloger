@@ -1,0 +1,302 @@
+74135	Quad XOR/XNOR gate, two inputs to select logic type	16
+2N6545	High voltage NPN transistor, 2N6545	3	TO-3
+CA3096,A,E,AE	N-P-N/P-N-P Transistor-Array IC
+6N138/6N139/MCC670/MCC671	High Gain Split-Darlington Opto-isolator ~ 1µS	8	DIP
+YM3014B/Y3014B	Serial Input Floating D/A Converter (DAC-SS)	8	Yamaha
+YM3812	FM OPERATOR TYPE-LII (OPL II) 5V	24	CMOS,PDIP,Yamaha
+AAA2801P-06	256Kx1 Static column mode RAM - 60ns 4.4ms	8	CMOS,PDIP,NMBS
+AAA2801P-07	256Kx1 Static column mode RAM - 70ns 4.4ms	8	CMOS,PDIP,NMBS
+AAA2801P-08	256Kx1 Static column mode RAM - 80ns 4.4ms	8	CMOS,PDIP,NMBS
+XR558CP	Quad Timer	16	Exar
+D416C	NEC 4116 16Kx1 RAM chip	8	NEC
+ULQ2801/2802/2803/2804	8-Darlington transistor array	18	stm
+PT2395	Princetown digital delay (ext DRAM)	40
+PT2396	Princetown digital delay (48Kb) 2mhz CLK Reqd  	24
+PT2399	Princetown digital delay (44kb, int timer)	16
+PC817	1-channel IRED optocoupler	4
+PC827	2-channel IRED optocoupler	8
+PC837	3-channel IRED optocoupler	12
+PC847	4-channel IRED optocoupler	16
+TDA2822	Dual Power Amplifier	8
+TDA2030	14W Hi-Fi amplifier	5
+7400	Quad 2 Input NAND Gate	14
+7401	Quad 2 Input NAND Gate (OC)	14
+7402	Quad 2 Input Positive NOR Gate	14
+7403	Quad 2 Input Positive NAND Gate	14
+7404	Hex Inverter	14
+7405	Hex Inverter (0C)	14
+7406	Hex Inverter Buffer/Driver (OC)	14
+7407	30V 40mA Hex Buffer Driver (0C)	14
+7408	Quad 2 Input Positive AND Gate	14
+7409	Quad 2 Input Positive AND Gate (0C)	14
+7410	Triple 3 Input Positive NAND Gate	14
+7411	Triple 3 Input Positive AND Gate	14
+7412	Triple 3-Input Nand (Open Collector)	14
+7413	Dual 4-Input Schmitt Trig. Nand	14
+7414	Hex Schmitt Trigger	14
+7416	Hex Inverter Buffer/Driver (OC)	14
+7417	15V 40mA Hex Buffer/Driver (OC)	14
+7419	Hex Schmitt-Trigger Inverter	14
+7420	Dual 4 Input Positive NAND Gate	14
+7421	Dual 4 Input Positive AND Gate	14
+7422	Dual 4-Input Nand Gate (Open Collector)	14
+7423	Expandable Dual 4-Input Nor Gate	16
+7425	Dual 4 Input Positive NOR Gate	14
+7426	Quad 2 Input NAND Gate (OC)	14
+7427	Triple 3 Input NOR Gate	14
+7428	Quad 2 Input NOR Buffer	14
+7430	8 Input Positive NAND Gate	14
+7431	Delay Element	16
+7432	Quad 2 Input Positive OR Gate	14
+7433	Quad 2 Input NOR Buffer (OC)	14
+7434	Hex Non-Inverter	14
+7435	Hex Non-Inverter (OC)	14
+7437	Quad 2 Input Positive NAND Buffer	14
+7438	Quad 2 Input NAND Buffer (OC)	14
+7440	Dual 4-Input Nand Buffer Gates	14
+7441	Bcd to decimal Decoder/Driver (Nixie)	16
+7442	Excess-3 Decimal Decoder	16
+7443	Excess-3-Gray Decimal Decoder	16
+7444	Excess-3-Gray Decimal Decoder	16
+7445	BCD to Decimal Decoder/Driver (OC)	16
+7446	BCD to 7 Segment Decoder/Driver (30V)	16
+7447	BCD to 7 Segment Decoder/Driver (15V)	16
+7448	BCD to 7 Segment Decoder/Driver	16
+7450	Xpan. Dual 2-Wide 2in A-O-I Gate	14
+7451	Dual 2 Wide 2 Input AND/OR Inv. Gate	14
+7453	Xpan. 4-Wide 2in And/Or Inverter	14
+7454	4 Wide 2-Input And/Or Inverter	14
+7459	2 Wide 2-3 In And/Or Inverter Gate	14
+7460	Dual 4-Input Expanders	14
+7470	Edge Triggered Jk Flip Flop	14
+7472	J-K Master Slave Flip Flop	14
+7473	Dual J-K Master Slave Flip/Flop	14
+7474	Dual D Type Edge Triggered Flip/Flop	14
+7475	Quad Bi-Stable Latch	16
+7476	Dual J-K Master Slave Flip/Flop	16
+7477	4 Bit Bi-Stable Latch	14
+7479	Dual D-type Flip Flop	14
+7480	Gated Full Adder	14
+7482	2-Bit Full Adder	14
+7483	4 Bit Binary Full Adder	16
+7485	4 Bit Magnitude Comparator	16
+7486	Quad 2 Input XOR Gate	14
+7489	64-Bit RAM	16
+7490	Decade Counter	14
+7491	8-Bit shift register	14
+7492	Divide-by-12 Decade Counter	14
+7493	4 Bit Binary Counter	14
+7494	4-Bitshift register Par. In/Ser. Out	16
+7495	4-Bit Right Shift Leftshift register	14
+7496	5-Bit Parallel In/Parallel out shift register	16
+7497	6 Bit Asynchronous Binary Rate Multiplier	16
+74100	Dual 4-Bit Bistable Latch	24
+74104	Gated J-K Master Slave Flip Flop	14
+74107	Dual J-K Master Slave Flip/Flop	14
+74109	Dual J-K Positive Edge Triggered Flip/Flop	16
+74112	Dual J-K Negative Edge Triggered Flip/Flop	16
+74121	One Shot Multivibrator	14
+74122	Re-triggerable Monostable Multivibrator	14
+74123	Dual One Shot Multivibrator	16
+74124	Dual Voltage Controlled Oscillator	16
+74125	Tri-State Quad Buffer	14
+74126	Tri-State Quad Buffer	14
+74128	Quad 2 Input NOR Line Driver	14
+74132	Quad Schmitt Trigger	14
+74133	13 Input NAND Gate	16
+74136	Quad Exclusive OR Gate (OC)	14
+74137	3/8 Decoder Multiplexer	16
+74138	Expandable 3/8 Decoder	16
+74139	Dual 2 to 4 Decoder Demultiplexer	16
+74140	Dual 4 Input NAND Line Driver	14
+74141	Bcd to decimal Decoder/Driver (Nixie)	16
+74145	BCD to Decimal Decoder/Driver (OC)	16
+74147	10 to 4 Line Priority Encoder	16
+74148	8 to 3 Priority Encoder	16
+74150	16 Line Multiplexer	24
+74151	8 Line Multiplexer	16
+74152	8-Channel Data Selector	14
+74153	Dual 4 Input Multiplexer	16
+74154	4 Line to 16 Line Decoder Demultiplexer	24
+74155	Dual 2 to 4 Demultiplexer	18
+74156	Dual 2 to 4 Demultiplexer (OC)	16
+74157	Quad 2 Input Multiplexer (9322)	16
+74158	Quad 2 Input Data Selector/Multiplexer	16
+74159	4 to 16 Line Decoder	24
+74160	Synchronous 4 Bit Decade Counter	16
+74161	Synchronous 4 Bit Binary Counter	16
+74162	Synchronous 4 Bit Binary Counter	16
+74163	Binary Synchronous 4 Bit Counter	16
+74164	8 Bit Serial In/Parallel Out shift register	14
+74165	8 Bit Parallel In/Serial Out shift register	16
+74166	8 Bit Parallel In/Serial Out shift register	16
+74169	Synchronous 4 Bit Binary Up/Down Counter	16
+74170	4 X 4 Register File (O/C)	16
+74173	Tri-State Quad D Flip/Flop	16
+74174	Hex D Type Flip/Flop with Clear	16
+74175	Quad D Type Edge Triggered Flip/Flop	16
+74176	Pre-settable 35-Mhz Decade Counter	14
+74177	Pre-settable 35-Mhz 4-Bit Binary Counter	14
+74180	8-Bit Odd/Even Parity Generator/Checker	14
+74181	Arithmetic Logic Unit / Function Generator	24
+74182	Look-Ahead Carry Generator	16
+74189	64 Bit BIPOLAR Scratch Pad Memory	16
+74190	Synchronous Decade Up/Down Counter	16
+74191	Synchronous Binary Up/Down Counter	16
+74192	Synchronous Bcd Decade Up/Down Counter	16
+74193	Synchronous Binary Up/Down Counter	16
+74194	4 Bit Bi-Directional Universal shift register	16
+74195	4 Bit Parallel Access shift register	16
+74196	Pre-settable 50-Mhz 4-Bit Decade Counter	14
+74197	Pre-settable 50-Mhz 4-Bit Binary Counter	14
+74199	8-Bit Bidirectional Universal shift register	24
+74221	Dual Monostable Multivibrator with Clear	16
+74224	16 x 4 Synchronous FIFO with 3-state outputs	16
+74229	16 x 5 synchronous FIFO memory	20
+74232	16 x 4 synchronous FIFO memory	16
+74236	64 x 4 synchronous FIFO memory	16
+74237	3 to 8 Line Latched Decoder	16
+74238	3 to 8 Line Non-Inverting Decoder	16
+74240	Octal Tri-State Inverter Buffer	20
+74241	Octal Tri-State Buffer	20
+74243	Quad Bus Transceiver	14
+74244	Octal Tri-State Buffer	20
+74245	Octal Tri-State Transceiver	20
+74247	BCD to 7-segment Decoder/Driver	16
+74251	Data Selector/Multiplexer	16
+74253	Tri-State Dual 4 Input Multiplexer	16
+74257	Tri-State Quad 2 Input Multiplexer	16
+74258	Tri-State Quad 2 Input Multiplexer	16
+74259	8 Bit Addressable Latch	16
+74260	Dual 5 Bit Input NOR Gate	14
+74265	Quad Complementary-Output Elements	16
+74266	Quad 2-Input exclusive-NOR Gate O/C outputs	14
+74269	8 Bit Up/Down Counter	24
+74273	Octal D Type Flip/Flop with Clear	20
+74276	Quad J-K Flip Flop	20
+74279	Quad R-S Latch	16
+74280	9 Bit Parity Generator/Checker	14
+74283	4 Bit Binary Adder	16
+74284	Tri-State 4-Bit Multiplexer (Multiplier?)	16
+74285	Tri-State 4-Bit Multiplexer (Multiplier?)	16
+74286	9 Bit Parity Generator/Checker	14
+74292	16 Bit Programmable Frequency Divider	16
+74293	4-bit Binary Counters	14
+74294	16 Bit Programmable Frequency Divider	16
+74297	Digital Phase Locked Loop	16
+74298	Quad 2-input Multiplexers with storage	16
+74299	8 Bit Shift/Storage Register	20
+74321	Crystal Oscillator	16
+74323	8 Bit Shift/Storage Register	20
+74348	8 to 3 Priority Encoder	16
+74351	Dual Data Selector/Multiplexer T.S. Output	20
+74365	Tri-State Hex Buffer	16
+74366	Hex Inverting Bus Drivers	16
+74367	Tri-State Hex Buffer	16
+74368	Tri-State Hex Inverter	16
+74373	Tri-State Octal Transparent Latch	20
+74374	Tri-State Octal D Flip/Flop	20
+74375	Quad Latch	16
+74377	Octal D Type Flip/Flop with Enable	20
+74378	Hex D Flip/Flop with Enable	16
+74379	Hex D Flip/Flop with Enable Inverted Outputs	16
+74390	Dual Decade Ripple Counter	16
+74393	Dual 4 Bit Binary Ripple Counter	14
+74399	Quad 2 Input Multiplexer	16
+74423	Multivibrator (no trigger from clear)	16
+74442	Quad tri-directional bus drivers	20
+74465	Octal Buffer Tri-State Output	20
+74518	Octal Comparator	20
+74520	Octal Comparator	20
+74521	Octal Comparator	20
+74533	Octal Transparent latch Tri-State Output	20
+74534	Inverting Octal D Flip/Flop	20
+Dual 1-of-4 Decoder with 3-STATE Outputs
+74540	Octal Buffer and Line DR/RX Inverted	20
+74541	Octal Buffer and Line DR/RX Non- Inverting	20
+74543	Octal Registered Transceiver	24
+74545	Octal Tri-State Transceiver	24
+74561	Synchronous 4-bit counters	 3-state	20
+74563	Inverted Octal D Type Latch	20
+74564	Octal D Type Latch	20
+74569	Synchronous Bi-Directional Binary Counter	20
+74573	Octal D Type Latches	20
+74574	Octal D Type Flip/Flop	20
+74575	Octal D Type Flip/Flop	20
+74576	Inverting Octal D Type Flip/Flop	20
+74577	Octal D Type Flip/Flop	20
+74579	8 Bit Up/Down Counter	20
+74580	Inverting Octal D Type Latch	20
+74589	8 Bit shift register with Input Latch	16
+74590	8 Bit Binary Counter	 O/P Register 3-state	16
+74592	8 Bit Binary Counter with Input Register	16
+74593	8 Bit Binary Counter	 O/P Register TS I/O	16
+74594	8 Bit Binary Counter	 O/P Register TS I/O	16
+74595	8 Bit shift register with Output Latch	16
+74596	8 Bit shift register with Output Latch	16
+74597	8 Bit shift register with Input Latch	16
+74598	8 Bit shift register with Input Latch	16
+74604	16 to 8 Multiplexer (High Speed)	28
+74620	Octal Bus Transceivers	20
+74621	Octal Bus Transceivers	20
+74623	Octal Bus Transceivers	20
+74624	Voltage Controlled Oscillator	14
+74628	Voltage Controlled Oscillator	14
+74629	Voltage Controlled Oscillator	16
+74638	Octal Bus Transceivers	20
+74639	Octal Bus Transceivers	20
+74640	Octal Bus Transceiver	20
+74641	Octal Bus Transceiver	20
+74642	Octal Bus Transceiver	20
+74645	Octal Bus Transceiver	20
+74646	Octal TS Bus Transceiver Non-Inverting	24
+74648	Octal TS Bus Transceiver Inverting	24
+74651	Octal Bus Transceiver Non-Inverting	24
+74652	Octal Bus Transceiver Non-Inverting	24
+74653	Octal Bus Transceiver	24
+74654	Octal Bus Transceiver	24
+74666	Octal D Type Latch	 3-state	24
+74667	Octal D Type Latch	 3-state	24
+74669	Synchronous 4-Bit Up/Down Binary Counter	16
+74670	Tri-State 4 4 Register File	16
+74673	16 Bit shift register	16 Bit Parallel Output	24
+74674	16 Bit shift register	16 Bit Parallel Output	24
+74675	16 Bit shift register	16 Bit Parallel Output	24
+74676	16 Bit shift register	16 Bit Parallel Output	24
+74679	12-Bit Address Comparators	20
+74682	8 Bit Magnitude Comparator	20
+74684	8 Bit Magnitude Comparator	20
+74688	8 Bit Magnitude Comparator	20
+74697	Synchronous 4-Bit Up/Down Binary Counter	20
+74760	Octal Buffer & Line Driver	 OC	20
+74779	8-bit bidirectional binary counter	 3-state	16
+74804	Hex 2-input NAND drivers	20
+74805	Hex 2-input NOR drivers	20
+74821	10 Bit D Type Flip/Flop	24
+74823	9 Bit D Type Flip/Flop	24
+74825	8 Bit D Type Flip/Flop	24
+74827	10 Bit Buffer/Line Driver	24
+74832	Hex 2-input OR drivers	20
+74841	10 Bit Transparent Latch	24
+74843	9 Bit Transparent Latch	24
+74857	Hex 2-line to 1-line multiplexer	 3-state	24
+74867	Synchronous 8-bit up/down Binary Counter	20
+74869	Synchronous 8-bit up/down Binary Counter	20
+74870	Dual 16 by 4 register files	24
+74873	Dual 4-bit latches	 3-state	24
+74874	Dual 4-bit D-type flip flops	 3-state	24
+74876	Dual 4-bit D-type flip flops	 3-state	24
+74899	9-Bit Latchable Transceiver with parity checker/generator	28
+74902	Hex Buffer (TTL Interface)	14
+74906	Open Drain Buffer (Active Pull Down)	14
+74908	Dual High Voltage CMOS Driver	8
+74912	Display Controller 6 Digit	8 Segment	28
+74914	Hex Schmitt Trigger	 External Voltage Inputs	14
+74917	6-Digit Hex Display Controller
+74922	16 Key Keyboard Encoder	18
+74923	20 Key Keyboard Encoder	20
+74925	4 Digit Counter	 Multiplexed 7 Segment Drive	16
+74990	Octal D-type Latch	 3-state	20
+74992	9-Bit D-type read-back latch	 3-state	24
+74994	10-Bit D-type read-back latch	24
+74996	Octal D-type read-back latch	24

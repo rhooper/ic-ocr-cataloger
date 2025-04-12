@@ -1,0 +1,253 @@
+D123 SPST 6-Channel JFET Switch Driver
+D125 SPST 6-Channel JFET Switch Driver
+D129 4-Channel Decoded JFET Switch Driver
+DG118 SPST 4-Channel Driver With Switch
+DG123 SPST 5-Channel Driver With Switch
+DG125 SPST 5-Channel Driver With Switch
+DG126 Dual DPST 80 Ohm JFET Analog Switch
+DG129 Dual DPST 30 Ohm JFET Analog Switch
+DG133 Dual SPST 30/35 Ohm JFET Analog Switch
+DG134 Dual SPST 80 Ohm JFET Analog Switch
+DG140 Dual DPST 10/15 Ohm JFETAnalog Switch
+DG141 Dual ~PST 10 Ohm JFET Analog Switch
+DG151 Dual SPST 15 Ohm JFET Analog Switch
+DG152 Dual SPST 50 Ohm JFET Analog Switch
+DG153 Dual DPST 15 Ohm JFET Analog Switch
+DG154 Dual DPST 50 Ohm JFET Analog Switch
+DG139 DPDT 30 Ohm Differentially Driven JFET Switch
+DG142 DPDT 80 Ohm Differentially Driven JFET Switch
+DG143 SPDT 80 Ohm Differentially Driven JFET Switch
+DG144 SPDT 30 Ohm Differentially Driven JFET Switch
+DG145 DPDT 10 Ohm Differentially Driven JFET Switch
+DG146 SPDT 10 Ohm Differentially Driven JFET Switch
+DG161 SPDT 15 Ohm Differentially Driven JFET Switch
+DG162 SPDT 50 Ohm Differentially Driven JFET Switch
+DG163 DPDT 15 Ohm Differentially Driven JFET Switch
+DG164 DPDT 50 Ohm Differentially Driven JFET Switch
+DG180 Dual SPST 10 Ohm High-Speed Driver With JFET Switch
+DG181 Dual SPST 30 Ohm High-Speed Driver With JFET Switch
+DG182 Dual SPST 75 Ohm High-Speed Driver With JFET Switch
+DG183 Dual DPST 10 Ohm High-Speed Driver With JFET Switch
+DG184 Dual DPST 30 Ohm High-Speed Driver With JFET Switch
+DG185 Dual DPST 75 Ohm High-Speed Driver With JFET Switch
+DG186 SPDT10 Ohm High-Speed Driver With JFET Switch
+OG187 SPDT 30 Ohm High-Speed Driver With JFET Switch
+DG188 SPDT 75 Ohm High-Speed Driver With JFET Switch
+DG189 Dual SPDT10 Ohm High-Speed Driver With JFET Switch
+DG190 Dual SPDT 30 Ohm High-Speed Driver With JFETSwitch
+DG191 Dual SPOT 75 Ohm High-Speed Driver With JFET Switch
+DG200 Dual SPST CMOS Analog Switch
+IH5200 Dual SPST CMOS Analog Switch
+DG201 Quad SPST CMOS Analog Switch
+IH5201 Quad SPST CMOS Analog Switch
+DG211 SPST 4-Channel Analog Switch
+DG212 SPST 4-Channel Analog Switch
+DGM181 Dual SPST 50 Ohm High-Speed CMOS Analog Switch
+DGM182 Dual SPST 50/75 Ohm High-Speed CMOS Analog Switch
+DGM184 Dual DPST 50 Ohm High-Speed CMOS Analog Switch
+DGM185 Dual DPST 50/75 Ohm High-Speed CMOS Analog Switch
+DGM187 SPOT 50 Ohm High-Speed CMOS Analog Switch
+DGM188 SPOT 50/75 Ohm High-Speed CMOS Analog Switch
+DGM190 Dual SPOT 50 Ohm High-Speed CMOS Analog Swi.tch
+DGM191 Dual SPOT 50/75 Ohm High-Speed CMOS Analog Switch
+G115 6-Channel MOSFET Switch
+G123 4-Channel MOSFET Switch
+G116 5 Channel MOSFET Switch
+G118 6 Channel MOSFET Switch
+G119 6 Channel MOSFET Switch
+IH311 High Speed SPST 4-Channel Analog Switch
+IH312 High Speed SPST 4-Channel Analog Switch
+IH401 QUAD Varafet Analog Switch
+IH401A QUAD Varafet Analog Switch
+IH5009 Quad 100 Ohm Virtual Ground Analog Switch
+IH5010 Quad 150 Ohm Virtual Ground Analog Switch
+IH5011 Quad 100 Ohm Virtual Ground Analog Switch
+IH5012 Quad 150 Ohm Virtual Ground Analog Switch
+IH5013 Triple 100 Ohm Virtual Ground Analog Switch
+IH5014 Triple 150 Ohm Virtual Ground Analog Switch
+IH5015 Triple 100 Ohm Virtual Groung Analog .Switch
+IH5016 Triple 150 Ohm Virtual Ground Analog Switch
+IH5017 Dual 100 Ohm Virtual Ground Analog Switch
+lH5018 Dual 150 Ohm Virtual Ground Analog Switch
+IH5019 Dual 100 Ohm Virtual Ground Analog Switch
+IH5020 Dual 150 Ohm Virtual Ground Analog Switch
+IH5021 Single 100 Ohm Virtual Ground Analog Switch
+IH5022 Single 150 Ohm Virtual Ground Analog Switch
+IH5023 Single 100 Ohm Virtual Ground Analog Switch
+IH5024 Single 150 Ohm Virtual Ground Analog Switch
+IH5025 Quad 100 Ohm Positive Signal Analog Switch
+IH5026 Quad 150 Ohm Positive Signal Analog Switch
+IH5027 Quad 100 Ohm Positive Signal Analog Switch
+IH5028 Quad 150 Ohm Positive Signal Analog Switch
+IH5029 Triple 100 Ohm Positive Signal Analog Switch
+IH5030 Triple 150 Ohm Positive Signal Analog Switch
+IH5031 Triple 100 Ohm Positive Signal Analog Switch
+IH5032 Triple 150 Ohm Positive Signal Analog Switch
+IH5033 Dual 100 Ohm Positive Signal Analog Switch
+IH5034 Dual 150 Ohm Positive Signal Analog Switch
+IH5035 Dual 100 Ohm Positive Signal Analog Switch
+IH5036 Dual 150 Ohm Positive Signal Analog Switch
+IH5037 Single 100 Ohm Positive Signal Analog Switch
+IH5038 Single 1'50 Ohm Positive Signal Analog Switch
+IH5040 SPST 75 Ohm High-Level CMOS Analog Switch
+IH5041 Dual SPST 75 Ohm High-Level CMOS Analog Switch
+IH5042 SPOT 75 Ohm High-Level CMOS Analog Switch
+IH5043 Dual SPOT 75 Ohm High-Level CMOS Analog Switch
+IH5044 DPST 75 Ohm High-Level CMOS Analog Switch
+IH5045 Dual DPST 75 Ohm High-Level CMOS Analog Switch
+IH5046 DPDT 75 Ohm High-Level CMOS Analog Switch
+IH5047 4PST 75 Ohm High-Level CMOS Analog Switch
+IH5048 Dual SPST 35 Ohm High-Level CMOS Analog Switch
+IH5049 Dual DPST 35 Ohm High-Level CMOS Analog Switch
+IH5050 SPOT 35 Ohm High-Level CMOS Analog Switch
+IH5051 Dual SPOT 35 Ohm High-Level CMOS Analog Switch
+IH5052 QUAD CMOS Analog Switch
+IH5053 QUAD CMOS Analog Switch
+IH5108 8-Ch~nnel Fault Protected Analog Multiplexer
+IH5116 16-Channel Fault Protected Analog Multiplexer
+IH5140 SPST High-Level CMOS Analog Switch
+IH5141 Dual SPST High-Level CMOS Analog Switch
+IH5142 SPOT Hig~-Level CMOS Analqg Switch
+IH5f43 Dual SPOT High-Level CMOS Analog Switch
+IH5144 DPST High-Level CMOS Analog Switch
+IH5145 Dual DPST High-Level CMOS Analog Switch
+IH5148 Dual SPST High-Level CMOS Analog Switch
+IH5149 Dual DPST High-Level CMOS Analog Switch
+IH5150 SPOT High-Level CMOS Analog Switch
+IH5151 Dual SPOT High-Level CMOS Analog Switch
+IH5208 4-Channel Differential Fault Protectbu Analog Multiplexer
+IH5216 8-Channel Differential Fault Protected Analog Multiplexer
+IH5341 Dual SPST CMOS RFlVideo Switch
+IH5352 QUAD SPST CMOS RFlVideo Switch
+IH6108 8-Channel CMOS Analog Multiplexer
+IH6116 16-Channel CMOS Analog Multiplexer
+IH6201 Dual CMOS DriverlVoltage Translator
+IH6208 4-Channel Differential CMOS Analog Multiplexer
+IH6216 8-Channel Differential CMOS Analog Multiplexer
+MM450 Dual Differential High Voltage Analog Switch
+MM550 Dual Differential High Voltage Analog Switch
+MM451 Four Channel High Voltage Multiplexer
+MM551 Four Channel High Voltage Multiplexer
+MM452 Quad SPST High Voltage Analog Switch
+MM552 Quad SPST High Voltage Analog Switch
+MM455 Three SPST High Voltage Analog Switch
+MM555 Three SPST High Voltage Analog Switch
+ICH8500,A Ultra Low Input-Bias Operational Amplifier
+ICH8510 Power Operational Amplifier
+ICH8520 Power Operational Amplifier
+ICH8530 Power Operational Amplifier
+ICH8515 Power Operational Amplifier
+ICL7605 Commutating Auto-Zero (CAZ) Instrumentation Amplifier
+ICL7606 Commutating Auto-Zero (CAD) Instrumentation Amplifier
+ICL76XX Series Low Power CMOS Operational Amplifiers
+ICL7650 Chopper-Stabilized Operational Amplifier
+ICL7652 Chopper-Stabilized Low-Noise Operational Amplifier
+ICL8007 JFET Input Operational Amplifier
+ICL8021 Low Power Bipolar Operational Amplifier
+ICL8022 Dual Low Power Bipolar Operational Amplifier
+ICL8023 Triple Low Power Bipolar Operational Amplifier
+ICL8043 Dual JFET Input Operational Amplifier
+ICL8048 Logarithmic Amplifier
+ICL8049 Antilog Amplifier
+ICL8063 Power Transistor Driver/Amplifier
+LH2108 Dual Super-Beta Operational Amplifier
+LH2308 Dual Super-Beta Operational Amplifier
+LM108,A Super-Beta Operational Amplifier
+LM308,A Super-Beta Operational Amplifier
+NE592 Video Amplifier
+SE592 Video Amplifier
+AD590 2-Wire Current Output Temperature Transducer
+ICL7660 CMOS Voltage Converter
+ICL7662 CMOS Voltage Converter
+ICL7663 CMOS Programmable Micropower Positive Voltage Regulator
+ICL7664 CMOS Programmable Micropower Negative Voltage Regulator
+ICL7665 Micropower Under/Over Voltage Detector
+ICL7667 Dual Power MOSFET Driver
+ICL7673 Automatic Battery Back-up Switch
+ICL8013 Four Quadrant Analog Multiplier
+ICL8038 Precision Waveform Generator/Voltage Controlled Oscillator
+ICL8069 Low Voltage Reference
+ICL8211 Programmable Voltage Detector
+ICL8212 Programmable Voltage Detector
+IH5110 General Purpose Sample & Hold
+IH5111 General Purpose Sample & Hold
+IH5112 General Purpose Sample & Hold
+IH5113 General Purpose Sample & Hold
+IH5114 General Purpose Sample & Hold
+IH5115 General Purpose Sample & Hold
+AD7520 10/ 12-Bit Multiplying D/ A Converter
+AD7521 10/12-Bit Multiplying D/ A Converter
+AD7530 10/12-Bit Multiplying D/A Converter
+AD7531 10/12-Bit Multiplying D/ A Converter
+AD7523 8-Bit Multiplying D/ A Converter
+AD7533 10-Bit Multiplying D/ A Converter
+AD7541 12-Bit Multiplying D/A Converter
+ADC0802 8-Bjt J,LP-Compatible AID Converter
+ADC0803 8-Bit J,LP-Compatible AID Converter
+ADC0804 8-Bit J,LP-Compatible AID Converter
+ICL7106 3 Y2-Digit LCD Single-Chip AID Converter
+ICL7107 3 Y2-Digit LED Single-Chip AID Converter
+ICL7109 12-Bit J,LP-Compatible AID Converter
+ICL7115 14-Bit High-Speed CMOS J,LP-Compatible AID Converter
+ICL7116 3 Y2-Digit with Display Hold Single-Chip AID Converter
+ICL7117 3 Y2-Digit with Display Hold Single-Chip AID Converter
+ICL7126 3 Y2-Digit Low-Power Single-Chip AID Converter
+ICL7129 4 Y2 Digit I.CD Single-Chip AID Converter
+ICL7134 14-Bit Multiplying J,LP-Gompatible D/A Converter
+ICL7135 4 Y2-Digit BCD Output AID Converter
+ICL7136 3 Y2-Digit LCD Low Power AID Converter
+ICL71373 Y2-Digit LED Low Power Single-Chip AID Converter
+ICL8018A 4-Bit Expandable Current Switch
+ICL8019A 4-Bit Expandable Current Switch
+ICL8020A 4-Bit Expandable ~urrent Switch
+ICL7104/ICL8052 12/14/16-Bit J,LP-Compatible 2-Chip AID Converter
+ICL7104/1CL8068 12/14/16-Bit J,LP-Gompatible 2-Chip AID Converter
+ICM7206 CMOS Touch-Tone Encoder
+ICM7207,A CMOS Timebase Generator
+ICM7208 7-Digit LED Display Counter
+ICM7209 Timebase Generator
+ICM7213 One Second/One Minute Timebase Generator
+ICM7215 6-Digit LED Display 4-Function Stopwatch
+ICM7216A 8-Digit Multi-Function Frequency Counter/Timer
+ICM7216B 8-Digit Multi-Function Frequency Counter/Timer
+ICM7216C 8-Digit Multi-Function Frequency Counter/Timer
+ICM7216D 8-Digit Multi-Function Frequency Counter/Timer
+ICM7217 4-Digit LED Display Programmable Up/Down Counter
+ICM7227 4-Digit LED Display Programmable Up/Down. Counter
+ICM7224 4 Y2-Digit LCD/LED Display Counter
+ICM7225 4 Y2-Digit LCD/LED Display Counter
+ICM7226A,B 8-Digit Multi-Function Frequency Counter/Timer
+ICM7236 4 Y2-Digit CounterlVacuum Fluorescent Display Driver
+ICM7240 Programmable Timer
+ICM7250 Programmable Timer
+ICM7260 Programmable Timer
+ICM7241 Timebase Generator
+ICM7242 Long-Range Fixed Timer
+ICM7245 Stepper Motor Quartz Clock
+IGM7249 S-Y2 Digit LCD µ-Power Event/Hour Meter
+ICM7555 General Purpose Timer
+ICM7556 Dual General Purpose Timer
+ICM7211 4-Digit LCD/LED Display Driver
+ICM7212 4-Digit LCD/LED Display Driver
+ICM7218 8-Digit LED Multiplexed Display Driver
+ICM7231 Numeric Triplexed LCD Display Driver
+ICM7232 Numeric Triplexed LCD Display Driver
+ICM7233 Alphanumeric Triplexed LCD Display Driver
+ICM7234 Alphanumeric Triplexed LCD Display Driver
+ICM7235 4-Digit Vacuum Fluorescent Display Driver
+ICM7243 8'-Character LED µP-Compatible Display Driver
+ICM7280 Dot Matrix LCD Controller/Row Driver
+ICM7281 40-Column LCD Dot Matrix Display Driver
+ICM7283 LCD Dot Matrix Controller/Row Driver
+ICM7170 µP-Compatible Real-Time Clock
+IM4702 Baud Rate Generator
+IM4712 Baud Rate Generator
+IM6402 Universal Asynchronous Receiver Transmitter (UART)
+IM6403 Universal Asynchronous Receiver Transmitter (UART)
+IM6653 4096-Bit CMOS UV EPROM
+IM6654 4096-Bit CMOS UV EPROM
+IM80C35 B-Bit CMOS Microcontroller
+IM80C39 B-Bit CMOS Microcontroller
+IM80C48 B-Bit CMOS Microcontroller
+IM80C49 B-Bit CMOS Microcontroller
+IM82C43 CMOS I/O Expander

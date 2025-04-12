@@ -1,0 +1,53 @@
+UM2332 4KxS NMOS ROM (2532) ~PD 2332 Access Time 450, 350, 250 ns
+UM2333 4KxS NMOS ROM (2732) AM 9233 Access Time 450,350, 250 ns
+UM2364 8KxS NMOS ROM (2564) SYP 2364 Access Time 450, 300, 200 ns
+UM2366,A SKxS NMOS ROM (2764) SYP 2366 Access Time 450,300,200 ns
+UM2312S,A 16KxS NMOS ROM (2712S) SYP2312S Access Time 450,300,200 ns
+UM23256,A 32Kx8 NMOS ROM (27256) SYP 23256 Access Ti me 450, 30O,200 ns
+UM2147 4Kxl High Speed NMOS SRAM SYP 2147 Access Time 70, 55,45 ns
+UM2148 1 Kx4 High Speed NMOS SRAM SYP 2148 Access Time 70,55,45 ns
+UM2149 1 Kx4 High Speed NMOS SRAM Syp 2149 Access Time 70, 55, 45 ns
+UM6104 1 Kx4 CMOS SRAM HM 4334 Access Time 250, 200, 150, 120 ns for 5V, 2IJ.s for 2.5V Operating
+UM6104-1 1 Kx4 CMOS SRAM TC 5047AP
+UM6114 1 Kx4 CMOS SRAM Access Time 100, 70, 55,45 ns
+UM6116-,2,3,4 2Kx8 High Speed CMOS SRAM lOT 6116 Access Time 70, 90, 120 ns
+UM6116-5 2Kx8 High Speed CMOS SRAM lOT 6116 Access Time 55 ns
+UM6164 8Kx8 H'igh Speed CMOS SRAM IOT7164 Access Time 70, 55,45 ns
+UM6167 16K.xl High Speed CMOS SRAM HM 6167 Access Time 70,55,45 ns
+UM6168 4Kx4 High Speed CMOS SRAM HM 6168 Access Time 70,55,45 ns
+UM8048/35/49/39 8 Bit Single Chip NMOS MC 8048/35/49/39 Intel 6, 8, 11 MHz Version
+UM8051/31 8 Bit Single Chip NMOS IC
+UM6502 8 Bit CPU Syp 6502 1,2,3,4 MHz Version
+UM6507 8 Bit CPU Syp 6507 1, 2 MHz Version
+UM6512 8 Bit CPU SYP 6512 1, 2, 3 MHz Version
+UM6845,A,B CRT Controller HD 6845S 1,1.5,2 MHz Version.
+UM6845R CRT Controller Syp 6845R 1,2,3 MHz Version
+UM6845E CRT Controller Syp 6845E 1,2, 3 MHz Version
+UM9007 CRT Controller SMC 9007 -
+UM8321 Video Attributes Controller SMC 9021 30,28.5 MHz Version
+UM8312 Double Row Buffer SMC 9212 -
+UM8272A Floppy Disk Controller J.lPD 765A 4,8 MHz Version
+UM9228-1 Floppy Data Separator - Special Design for IBM PC
+UM8326,B Floppy Data Separator WD 9216 4,8 MHz Version
+UM8329,T,B,BT Floppy Data Separator SMC 9229 Clock/TTL Input 8,16 MHz Version
+UM2661 EPCI SCN 2661 Three Kinds of Baud Rate
+UM2681 DUART SCN 2681
+UM6520,A PIA SYP 6520 1,2 MHz Version
+UM6521,A PIA Enhance 6520 SYP 6521 1,2 MHz Version
+UM6522,A VIA SYP 6522 1, 2 MHz Version
+UM6532,A RAM I/O Timer Array SYP 6532 1,2 MHz Version
+UM6551,A ACIA SYP 6551 1,2 MHz Version
+UM82C01 Capacitance Keyboard Encoder
+UM82C284 Clock Generator and Ready Interface for iAPX 286 Processor Intel 82284
+UM82C288 Bus Controller for iAPX 286 Processors Intel 82288
+UM82C55A CMOS Programmable Peripheral Interface HARRIS 82C55A
+UM82C84A Clock Generator & Driver HAR R IS 82C84A
+UM82C88 Bus Contro Iler HARRIS 82C88
+UM8237A,-4,-5 DMA Controller Intel 8237A 3,4, 5 MHz Version
+UM8253/8253-5 Programmable Interval Timer Intel 8253/8253-5
+UM8254 Programmable Interval Timer Intel 8254
+UM8259A Programmable Interrupt ControllerIntel 8259A
+UM82C6818 Real Timer Clock Plus RAM (RTC) MC 146818
+UM82C8167 Microprocessor Real Time Clock MM 58167A
+UM82450 ACE NS 16450
+UM8250 ACE NS 8250

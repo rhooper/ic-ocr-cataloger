@@ -1,0 +1,1139 @@
+{
+  "A": [
+    "Fairchild",
+    "National Semiconductor",
+    "AMD",
+    "Allegro Microsystems"
+  ],
+  "ACF": [
+    "General Instrument"
+  ],
+  "AD": [
+    "Analog Devices",
+    "Harris"
+  ],
+  "ADC": [
+    "National Semiconductor"
+  ],
+  "ADEL": [
+    "Analog Devices"
+  ],
+  "ADG": [
+    "Analog Devices"
+  ],
+  "ADLH": [
+    "Analog Devices"
+  ],
+  "ADM": [
+    "Analog Devices"
+  ],
+  "ADS": [
+    "Burr-Brown"
+  ],
+  "ADVFC": [
+    "Analog Devices"
+  ],
+  "AH": [
+    "Optical Electronics Inc."
+  ],
+  "ALD": [
+    "Burr-Brown"
+  ],
+  "AM": [
+    "Advanced Micro Devices",
+    "Datel"
+  ],
+  "AMP": [
+    "Analog Devices"
+  ],
+  "AMPAL": [
+    "AMD"
+  ],
+  "AMSREF": [
+    "Advanced Monolithic Systems"
+  ],
+  "AN": [
+    "Panasonic"
+  ],
+  "AT": [
+    "Atmel"
+  ],
+  "ATT": [
+    "Lucent Technologies"
+  ],
+  "ATV": [
+    "Atmel"
+  ],
+  "AVS": [
+    "ON Semiconductor (previously Thomson))"
+  ],
+  "AY": [
+    "General Instrument"
+  ],
+  "Am": [
+    "AMD"
+  ],
+  "BQ": [
+    "Benchmarq Microelectronics Inc."
+  ],
+  "BT": [
+    "Brooktree"
+  ],
+  "BUF": [
+    "Analog Devices",
+    "Burr-Brown",
+    "Precision Monolithic"
+  ],
+  "BX": [
+    "Sony"
+  ],
+  "C": [
+    "Intel"
+  ],
+  "CA": [
+    "Harris"
+  ],
+  "CAV": [
+    "Analog Devices"
+  ],
+  "CD": [
+    "Harris"
+  ],
+  "CDP": [
+    "Harris"
+  ],
+  "CLC": [
+    "Comlinear",
+    "National Semiconductor"
+  ],
+  "CM": [
+    "Supertex, Temic"
+  ],
+  "CMP": [
+    "Monolithics",
+    "Analog Devices"
+  ],
+  "COM": [
+    "Standard Microsystem Corp."
+  ],
+  "COP": [
+    "National Semiconductor"
+  ],
+  "CP": [
+    "Harris"
+  ],
+  "CS": [
+    "Harris, Cherry Semiconductor"
+  ],
+  "CX": [
+    "Sony, Cyrix"
+  ],
+  "CXK": [
+    "Sony"
+  ],
+  "CY": [
+    "Cypress"
+  ],
+  "D": [
+    "Siliconix, Intel"
+  ],
+  "DAC": [
+    "Analog Devices",
+    "National Semiconductor",
+    "Burr-Brown"
+  ],
+  "DCP": [
+    "Burr-Brown"
+  ],
+  "DF": [
+    "Siliconix"
+  ],
+  "DG": [
+    "Harris, Temic"
+  ],
+  "DM": [
+    "National Semiconductor",
+    "Fairchild"
+  ],
+  "DP": [
+    "National Semiconductor"
+  ],
+  "DS": [
+    "National Semiconductor",
+    "Dallas Semiconductor"
+  ],
+  "EF": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "EL": [
+    "Elantec"
+  ],
+  "EP": [
+    "Altera"
+  ],
+  "EPM": [
+    "Altera"
+  ],
+  "ET": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "F": [
+    "Fairchild",
+    "National Semiconductor"
+  ],
+  "FSS": [
+    "Ferranti"
+  ],
+  "G": [
+    "California Micro Devices Corp."
+  ],
+  "GA": [
+    "Gazelle"
+  ],
+  "GAL": [
+    "Lattice"
+  ],
+  "GEL": [
+    "GE"
+  ],
+  "GIC": [
+    "General Instrument"
+  ],
+  "GL": [
+    "Goldstar"
+  ],
+  "GM": [
+    "Goldstar"
+  ],
+  "GMM": [
+    "Goldstar"
+  ],
+  "GP": [
+    "General Instrument"
+  ],
+  "GSD": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "H": [
+    "Harris"
+  ],
+  "HA": [
+    "Harris",
+    "Hitachi"
+  ],
+  "HAD": [
+    "Honeywell"
+  ],
+  "HAS": [
+    "Analog Devices"
+  ],
+  "HCF": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "HCPL": [
+    "Hewlett-Packard"
+  ],
+  "HCTL": [
+    "Hewlett-Packard"
+  ],
+  "HD": [
+    "Hitachi"
+  ],
+  "HDAC": [
+    "Honeywell"
+  ],
+  "HDM": [
+    "Analog Devices"
+  ],
+  "HEF": [
+    "Philips"
+  ],
+  "HEP": [
+    "Motorola"
+  ],
+  "HFA": [
+    "Harris"
+  ],
+  "HG": [
+    "Hitachi"
+  ],
+  "HI": [
+    "Harris"
+  ],
+  "HIN": [
+    "Harris"
+  ],
+  "HIP": [
+    "Harris"
+  ],
+  "HL": [
+    "Hitachi"
+  ],
+  "HM": [
+    "Hitachi",
+    "Temic"
+  ],
+  "HN": [
+    "Hitachi"
+  ],
+  "HPM": [
+    "Hewlett-Packard"
+  ],
+  "HT": [
+    "Holtek"
+  ],
+  "HV": [
+    "Harris"
+  ],
+  "HY": [
+    "Hyundai"
+  ],
+  "I": [
+    "Intel"
+  ],
+  "ICH": [
+    "Harris"
+  ],
+  "ICL": [
+    "Harris"
+  ],
+  "ICM": [
+    "Harris"
+  ],
+  "IDT": [
+    "Integrated Device Technology"
+  ],
+  "IM": [
+    "Harris"
+  ],
+  "IMS": [
+    "Inmos"
+  ],
+  "INA": [
+    "Burr-Brown"
+  ],
+  "IP": [
+    "Temic, Seagate Microelectronics"
+  ],
+  "IR": [
+    "Sharp",
+    "International Rectifier"
+  ],
+  "IS": [
+    "Integrated Silicon Solutions Inc.",
+    "Burr-Brown"
+  ],
+  "ISD": [
+    "Information Strorage Devices"
+  ],
+  "ISO": [
+    "Burr-Brown"
+  ],
+  "ISPLSI": [
+    "Lattice"
+  ],
+  "ITT": [
+    "ITT"
+  ],
+  "IVC": [
+    "Burr-Brown"
+  ],
+  "KA": [
+    "Samsung"
+  ],
+  "KM": [
+    "Samsung"
+  ],
+  "KMM": [
+    "Samsung"
+  ],
+  "KR": [
+    "Standard Microsystem Corp."
+  ],
+  "L": [
+    "Fairchild",
+    "National Semiconductor",
+    "ON Semiconductor (previously Thomson)",
+    "Siliconix",
+    "Siltronics",
+    "Unitrode"
+  ],
+  "LA": [
+    "Sanyo"
+  ],
+  "LC": [
+    "Sanyo"
+  ],
+  "LD": [
+    "Siliconix",
+    "Siltronics"
+  ],
+  "LF": [
+    "National Semiconductor",
+    "Motorola"
+  ],
+  "LFT": [
+    "National Semiconductor"
+  ],
+  "LH": [
+    "National Semiconductor"
+  ],
+  "LM": [
+    "National Semiconductor",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "LMC": [
+    "National Semiconductor"
+  ],
+  "LMD": [
+    "National Semiconductor"
+  ],
+  "LMF": [
+    "National Semiconductor"
+  ],
+  "LMX": [
+    "National Semiconductor"
+  ],
+  "LPC": [
+    "National Semiconductor",
+    "National Semiconductor"
+  ],
+  "LS": [
+    "LSI Computer Systems",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "LT": [
+    "Linear Technology Corporation"
+  ],
+  "LTC": [
+    "Linear Technology Corporation"
+  ],
+  "LTZ": [
+    "Linear Technology Corporation"
+  ],
+  "M": [
+    "Mitsubishi",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "MA": [
+    "Analog Systems",
+    "Marconi",
+    "TESLA"
+  ],
+  "MAA": [
+    "TESLA"
+  ],
+  "MAB": [
+    "Philips"
+  ],
+  "MACH": [
+    "Vantis (AMD)"
+  ],
+  "MAT": [
+    "Monolithics"
+  ],
+  "MAX": [
+    "Maxim"
+  ],
+  "MB": [
+    "Fujitsu"
+  ],
+  "MBA": [
+    "TESLA"
+  ],
+  "MBL8": [
+    "Fujitsu"
+  ],
+  "MBM": [
+    "Fujitsu"
+  ],
+  "MC": [
+    "Micra Hybrids",
+    "Motorola",
+    "ON Semiconductor",
+    "ON Semiconductor (previously Thomson)",
+    "Temic",
+    "Texas Instruments"
+  ],
+  "MCC": [
+    "Motorola"
+  ],
+  "MCCS": [
+    "Motorola"
+  ],
+  "MCM": [
+    "Motorola"
+  ],
+  "MCS": [
+    "MOS Technology"
+  ],
+  "MCT": [
+    "Motorola"
+  ],
+  "MEC": [
+    "Motorola"
+  ],
+  "MF": [
+    "National Semiconductor"
+  ],
+  "MH": [
+    "TESLA"
+  ],
+  "MHB": [
+    "TESLA"
+  ],
+  "MIC": [
+    "Micrel"
+  ],
+  "MIL": [
+    "Microsystems International"
+  ],
+  "MK": [
+    "ON Semiconductor (previously Thomson)",
+    "Mostek"
+  ],
+  "ML": [
+    "Micro Linear Corp."
+  ],
+  "MM": [
+    "Motorola",
+    "Fairchild",
+    "National Semiconductor"
+  ],
+  "MN": [
+    "Plessy",
+    "Micro Networks"
+  ],
+  "MP": [
+    "Micro Power (Exar)"
+  ],
+  "MPC": [
+    "Burr-Brown"
+  ],
+  "MPF": [
+    "Motorola"
+  ],
+  "MPQ": [
+    "Motorola"
+  ],
+  "MPS": [
+    "Motorola"
+  ],
+  "MPSA": [
+    "Motorola"
+  ],
+  "MPY": [
+    "Burr-Brown"
+  ],
+  "MSC": [
+    "Microcomputers Systems Components",
+    "Oki"
+  ],
+  "MSK": [
+    "M. S. Kennedy"
+  ],
+  "MSL8": [
+    "Mitsubishi"
+  ],
+  "MSM": [
+    "Oki"
+  ],
+  "MT": [
+    "Mitel Semiconductor"
+  ],
+  "MUX": [
+    "Analog Devices"
+  ],
+  "MVA": [
+    "GEC-Plessey Semiconductor"
+  ],
+  "MWM": [
+    "Motorola"
+  ],
+  "MX": [
+    "Macronix",
+    "Maxim"
+  ],
+  "Motorola": [
+    ""
+  ],
+  "N": [
+    "Philips",
+    "Intel"
+  ],
+  "NC": [
+    "Nitron"
+  ],
+  "NE": [
+    "Philips",
+    "Texas Instruments"
+  ],
+  "NH": [
+    "National Semiconductor"
+  ],
+  "NJM": [
+    "New Japanese Radio Corp."
+  ],
+  "NM": [
+    "Fairchild"
+  ],
+  "NMC": [
+    "Fairchild"
+  ],
+  "NQ": [
+    "Seeq"
+  ],
+  "NSC": [
+    "Newport"
+  ],
+  "OHN": [
+    "Optek"
+  ],
+  "OM": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Philips",
+    "Telefunken"
+  ],
+  "OP": [
+    "Monolithics",
+    "Analog Devices",
+    "Texas Instruments"
+  ],
+  "OPA": [
+    "Burr-Brown"
+  ],
+  "OPT": [
+    "Burr-Brown"
+  ],
+  "P": [
+    "Intel",
+    "Temic",
+    "Performance Semiconductor"
+  ],
+  "PA": [
+    "Apex",
+    "Intel"
+  ],
+  "PAL": [
+    "AMD"
+  ],
+  "PALCE": [
+    "Cypress",
+    "Vantis (AMD)"
+  ],
+  "PB": [
+    "NEC"
+  ],
+  "PBL": [
+    "Ericsson"
+  ],
+  "PC": [
+    "NEC",
+    "Philips"
+  ],
+  "PCD": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Telefunken",
+    "Philips"
+  ],
+  "PCF": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Telefunken",
+    "Philips"
+  ],
+  "PCM": [
+    "Burr-Brown"
+  ],
+  "PD": [
+    "NEC"
+  ],
+  "PDM": [
+    "Paradigm"
+  ],
+  "PEEL": [
+    "Information Chips and Technology Inc."
+  ],
+  "PGA": [
+    "Burr-Brown"
+  ],
+  "PH": [
+    "Silicon Storage Technology"
+  ],
+  "PIC": [
+    "Microchip"
+  ],
+  "PL": [
+    "Altera"
+  ],
+  "PLC": [
+    "Philips"
+  ],
+  "PLS": [
+    "Philips"
+  ],
+  "PM": [
+    "Analog Devices"
+  ],
+  "PQ": [
+    "Seeq"
+  ],
+  "PSD": [
+    "Waferscale Integration inc. (WSI)"
+  ],
+  "PWR": [
+    "Burr-Brown"
+  ],
+  "PZ": [
+    "Philips"
+  ],
+  "QS": [
+    "Quality Semiconductor Inc."
+  ],
+  "R": [
+    "Rockwell",
+    "Raytheon"
+  ],
+  "RC": [
+    "Raytheon",
+    "Texas Instruments"
+  ],
+  "RCV": [
+    "Burr-Brown"
+  ],
+  "RD": [
+    "EG&G Reticon"
+  ],
+  "REF": [
+    "Analog Devices",
+    "Burr-Brown"
+  ],
+  "REG": [
+    "Burr-Brown"
+  ],
+  "RF": [
+    "EG&G Reticon"
+  ],
+  "RM": [
+    "Raytheon",
+    "EG&G Reticon"
+  ],
+  "RT": [
+    "EG&G Reticon"
+  ],
+  "RTC": [
+    "Seiko",
+    "Epson"
+  ],
+  "RU": [
+    "EG&G Reticon"
+  ],
+  "Ray": [
+    "Raytheon"
+  ],
+  "S": [
+    "Temic",
+    "Philips"
+  ],
+  "SA": [
+    "Philips"
+  ],
+  "SAA": [
+    "AEG",
+    "Amperex",
+    "Philips",
+    "Siemens",
+    "Telefunken",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "SAB": [
+    "AEG",
+    "Amperex",
+    "Philips",
+    "Siemens",
+    "Telefunken",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "SABE": [
+    "Siemens"
+  ],
+  "SAF": [
+    "AEG",
+    "Amperex",
+    "Philips",
+    "Siemens",
+    "Telefunken",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "SC": [
+    "Philips"
+  ],
+  "SCB": [
+    "AEG",
+    "Amperex",
+    "Philips",
+    "Siemens",
+    "Telefunken",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "SCC": [
+    "Philips"
+  ],
+  "SCN": [
+    "AEG",
+    "Amperex",
+    "Philips",
+    "Siemens",
+    "Telefunken",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "SD": [
+    "Temic"
+  ],
+  "SE": [
+    "Philips"
+  ],
+  "SFC": [
+    "ON Semiconductor (previously Thomson)",
+    "ESMF"
+  ],
+  "SG": [
+    "Silicon General (Infinity Micro)",
+    "ON Semiconductor (previously Thomson)",
+    "Texas Instruments",
+    "Motorola"
+  ],
+  "SHC": [
+    "Burr-Brown"
+  ],
+  "SI": [
+    "Temic",
+    "Maxim"
+  ],
+  "SL": [
+    "Plessy"
+  ],
+  "SM": [
+    "Nippon Precision Circuits"
+  ],
+  "SN": [
+    "Texas Instruments",
+    "Motorola"
+  ],
+  "SP": [
+    "Plessy",
+    "Philips"
+  ],
+  "SPR": [
+    "General Instrument"
+  ],
+  "SS": [
+    "Honeywell"
+  ],
+  "SSM": [
+    "Analog Devices"
+  ],
+  "SSS": [
+    "Monolithics"
+  ],
+  "ST": [
+    "ON Semiconductor (previously Thomson)",
+    "Startech"
+  ],
+  "STR": [
+    "Allegro Microsystems"
+  ],
+  "SW": [
+    "Analog Devices"
+  ],
+  "SYD": [
+    "Syntaq"
+  ],
+  "SYS": [
+    "Syntaq"
+  ],
+  "T": [
+    "Toshiba"
+  ],
+  "TA": [
+    "Toshiba"
+  ],
+  "TAA": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Philips",
+    "Telefunken"
+  ],
+  "TAB": [
+    "Plessy"
+  ],
+  "TBA": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Philips",
+    "Telefunken"
+  ],
+  "TC": [
+    "Toshiba",
+    "Telcom Semiconductor"
+  ],
+  "TCA": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Philips",
+    "Telefunken"
+  ],
+  "TCM": [
+    "Telcom Semiconductor"
+  ],
+  "TD": [
+    "Toshiba",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "TDA": [
+    "Philips",
+    "Motorola",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "TDC": [
+    "TRW"
+  ],
+  "TDF": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "TEA": [
+    "AEG",
+    "Amperex",
+    "ON Semiconductor (previously Thomson)",
+    "Siemens",
+    "Philips",
+    "Telefunken"
+  ],
+  "THM": [
+    "Toshiba"
+  ],
+  "TIBPAL": [
+    "Texas Instruments"
+  ],
+  "TIL": [
+    "Texas Instruments"
+  ],
+  "TIP": [
+    "Texas Instruments"
+  ],
+  "TIPAL": [
+    "Texas Instruments"
+  ],
+  "TIS": [
+    "Texas Instruments"
+  ],
+  "TL": [
+    "Texas Instruments",
+    "ON Semiconductor (previously Thomson)",
+    "Motorola"
+  ],
+  "TLC": [
+    "Texas Instruments"
+  ],
+  "TLE": [
+    "Texas Instruments"
+  ],
+  "TM": [
+    "Texas Instruments"
+  ],
+  "TMC": [
+    "Taytheon"
+  ],
+  "TML": [
+    "Telmos"
+  ],
+  "TMM": [
+    "Toshiba"
+  ],
+  "TMP": [
+    "Toshiba"
+  ],
+  "TMPZ": [
+    "Toshiba"
+  ],
+  "TMS": [
+    "Texas Instruments"
+  ],
+  "TP": [
+    "Teledyne Philbrick"
+  ],
+  "TPQ": [
+    "Sprague"
+  ],
+  "TS": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "TSC": [
+    "Teledyne Semiconductor"
+  ],
+  "TSH": [
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "U": [
+    "Temic",
+    "Zentrum Microelectronics"
+  ],
+  "UA": [
+    "Philips",
+    "Motorola",
+    "Texas Instruments"
+  ],
+  "UAA": [
+    "Motorola"
+  ],
+  "UAF": [
+    "Burr-Brown"
+  ],
+  "UC": [
+    "Unitrode",
+    "Motorola",
+    "ON Semiconductor (previously Thomson)"
+  ],
+  "UCC": [
+    "Unitrode"
+  ],
+  "UCN": [
+    "Allegro Microsystems"
+  ],
+  "UCS": [
+    "Sprague"
+  ],
+  "UD": [
+    "Zentrum Microelectronics"
+  ],
+  "UDN": [
+    "Allegro Microsystems"
+  ],
+  "UDS": [
+    "Allegro Microsystems"
+  ],
+  "UGN": [
+    "Allegro Microsystems"
+  ],
+  "ULN": [
+    "ON Semiconductor (previously Thomson)",
+    "Motorola",
+    "Texas Instruments",
+    "US Microchip"
+  ],
+  "UM": [
+    "United Microelectronics Corp."
+  ],
+  "UMA": [
+    "Philips"
+  ],
+  "UNX": [
+    "Fairchild",
+    "National Semiconductor"
+  ],
+  "UPD": [
+    "NEC"
+  ],
+  "UPD8": [
+    "NEC"
+  ],
+  "V": [
+    "Amtel"
+  ],
+  "VA": [
+    "VTC"
+  ],
+  "VC": [
+    "VTC"
+  ],
+  "VCA": [
+    "Burr-Brown"
+  ],
+  "VFC": [
+    "Burr-Brown"
+  ],
+  "VT": [
+    "VLSI Technology Inc."
+  ],
+  "W": [
+    "IC Works"
+  ],
+  "WD": [
+    "Western Digital"
+  ],
+  "X": [
+    "Xicor"
+  ],
+  "XC": [
+    "Motorola"
+  ],
+  "XR": [
+    "Exar"
+  ],
+  "XTR": [
+    "Burr-Brown"
+  ],
+  "Z": [
+    "Zilog"
+  ],
+  "ZH": [
+    "Zetex"
+  ],
+  "ZLD": [
+    "Ferranti"
+  ],
+  "ZLDO": [
+    "Zetex"
+  ],
+  "ZM": [
+    "Zetex"
+  ],
+  "ZMR": [
+    "Zetex"
+  ],
+  "ZN": [
+    "Ferranti",
+    "GEC-Plessey Semiconductor"
+  ],
+  "ZR": [
+    "Zetex"
+  ],
+  "ZRA": [
+    "Zetex"
+  ],
+  "ZRB": [
+    "Zetex"
+  ],
+  "ZREF": [
+    "Zetex"
+  ],
+  "ZRT": [
+    "Zetex"
+  ],
+  "ZSD": [
+    "Zetex"
+  ],
+  "ZSM": [
+    "Zetex"
+  ],
+  "i": [
+    "Intel"
+  ],
+  "β": [
+    "I.P.R.S. Baneasa"
+  ]
+}

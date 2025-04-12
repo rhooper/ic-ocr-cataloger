@@ -1,0 +1,52 @@
+I8086	 16-Bit HMOS Microprocessor
+I8284	 Clock Generator and Driver for 8086,8088,8089 Processors
+2114A	 1024 x 4 Bit Static RAM
+2142	 1024 x 4 Bit Static RAM
+2148	 1024 x 4 Bit Static RAM
+2716	 16K (2K x 8) UV Erasable PROM
+2732	 32K (4K x 8) UV Erasable PROM
+2758	 8K (l K x 8) UV Erasable Low Power PROM
+8041A/8741A	 Universal Peripheral Interface 8-Bit Microcomputer
+8086/8086-2/8086-4	 8086 series 8/16 bit CPU with 16-bit bus	40	HMOS
+8088	8086 series 6/16 bit CPU with 8-bit bus	40	HMOS
+8089	8086 series 8/16 bit Input/Output Processor	40	HMOS
+8155/8156/8155-2/8156-22048	 Bit Static MOS RAM with I/O Ports and Timer
+8185/8185-2	 1024 x 8-Bit Static RAM for MCS-85™
+8202	 Dynamic RAM Controller
+8205	 High Speed 1 out of 8 Binary Decoder
+8237/8237-2	 High Performance Programmable DMA Controller
+8251A	 Programmable Communication Interface
+8253/8253-5	 Programmable Interval Timer
+8255A/8255A-5	 Programmable Peripheral Interface
+8259A/8259A-2/8289A-8	 8086 series Programmable Interrupt Controller (PIC)	28	NMOS
+8271/8271-6/8271-8	 Programmable Floppy Disk Controller
+8273	 Programmable HDLC/SDLC Protocol Controller
+8275	 Programmable CRT Controller
+8279/8279-5	 Programmable Keyboard/Display Interface
+8282	8086 series Bipolar Octal Latch - Bipolar	20
+8283	8086 series Octal Latch (Inverting) - Bipolar	20
+8284	Clock Generator and Driver for 8086, 8088, 8089 Processors
+8284	8086 series Clock Generator and Driver Bipolar	18
+8286	8086 series Octal Bus Transceiver	20
+8287	8086 series Octal Bus Transceiver (Inverting) - Bipolar	20
+8287	8086 series Octal Bus Transceiver (Inverting) Bipolar 20 Increases drive on data bus.
+8288	Bus Controller for 8086, 8088, 8089 Processors	20
+8289	8086 series Bus Arbiter Bipolar	20
+8291	GPIB Talker/Listener
+8292	GPIB Controller
+8293	GPIB Transceiver
+8294	Data Encryption Unit
+8295	Dot Matrix Printer Controller
+8355/8355-2	16,384-Bit ROM with I/O
+8755A/8755A-2	16,384-Bit EPROM with I/O
+M8086	16-Bit HMOS Microprocessor
+M8284	Clock Generator and Driver for 8086, 8088, 8089 Processors
+8243	MCS-48 Input/Output Expander
+P8748H/P8749H/8048AH/8035AHL/8049AH/8039AHLl8050AH/8040AHL	HMOS Single Component 8-Bit Microcontroller
+D8748H/D8749H	HMOS-E Single-Component 8-Bit Microcontroller
+P8049KB	HMOS Single-Component 8-Bit Microcontroller
+8214	Priority Interrupt Encoder
+8251	Serial Communications Interface
+8255	General Purpose Programmable lIO
+8279	Keyboard/Display Interface
+8254	Interval Timer

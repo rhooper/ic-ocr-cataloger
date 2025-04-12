@@ -1,0 +1,2 @@
+OPA627 Precision High-Speed low drift Difet® OpAmp Stable in unity gain
+OPA637 Precision High-Speed low drift Difet® OpAmp Stable in gain >=5

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ic-ocr-catalogger"
+version = "0.1.0"
+description = "An python OpenCV UI that performs live OCR chips, with an integrated catalog."
+authors = [
+    { name = "Rose Hooper", email = "rose@rosehooper.com" }
+]
+license = { text = "MIT" }
+dependencies = [
+    "opencv-python~=4.11.0.86",
+    "opencv-contrib-python~=4.11.0.86",
+    "numpy~=2.2.4",
+    "pillow~=11.1.0",
+    "more-itertools~=10.6.0",
+    "ocrmac~=1.0.0"
+]
+
+[tool.setuptools]
+packages = ["ic_ocr_catalogger"]
+
+[tool.setuptools.package-data]
+"ic_ocr_catalogger" = ["data/*.txt", "data/*.txt", "data/*.json"]
+
+[tool.setuptools.scripts]
+"icocr" = "ic_ocr_catalogger.__main__:main"

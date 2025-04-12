@@ -1,0 +1,1200 @@
+LM1131A Dual Dolby B-Type Noise Reduction Processor
+LM1141 Dolby B-C Type Noise Reduction Processor
+LM1818 Electronically Switched Audio Tape System
+LM1837 Low Noise Preamplifier for Autoreversing Tape Playback Systems
+LM1875 20-Watt Power Audio Amplifier
+LM1877 Dual Power Audio Amplifier
+LM1894 Dynamic Noise Reduction System DNR
+LM1895 Audio Power Amplifier
+LM1896 Dual Power Audio Amplifier
+LM1897 Low Noise Preamplifier for Tape Playback Systems
+LM2002 8-Watt Audio Power Amplifier
+LM2005 20-Watt Automotive Power Amplifier
+LM2877 Dual 4-Watt Power Audio Amplifier
+LM2878 Dual 5-Watt Power Audio Amplifier
+LM2879 Dual 8-Watt Audio Amplifier
+LMC835 Digital Controlled Graphic Equalizer
+LMC1992/LMC1993 Computer Controlled Tone and Volume Circuits
+LM1800 Phase-Locked Loop FM Stereo Demodulator
+LM1863 AM Radio System for Electronically Tuned Radio
+LM1865/LM19651/LM2065 Advanced FM IF System
+LM1866 Low Voltage AM/FM Receiver
+LM1868 AM/FM Radio System
+LM1870 Stereo Demodulator with Blend
+LM1871 RC Encoder/Transmitter
+LM1872 Radio Control Receiver/Decoder
+LM1884 TV Stereo Decoder
+LM3089 FM Receiver IF System
+LM3189 FM IF System
+LM3361A Low Voltage/Power Narrow Band FM IF System
+LM3820 AM Radio System
+LM4500A High Fidelity FM Stereo Demodulator with Blend
+TBA120S IF Amplifier and Detector
+LM592 Differential Video Amplifier
+LM733/LM733C Differential Video Amplifier
+LM1044 Analog Video Switch
+LM1201 Video Amplifier System
+LM1203 RGB Video Amplifier System
+LM1391 Phase-Locked Loop
+LM1823 Video IF Amplifier/PLL Detection System
+LM1880 No-Holds Vertical/Horizontal
+LM1881 Video Sync Separator
+LM1886 TV Video Matrix DtoA
+LM1889 TV Video Modulator
+LM2889 TV Video Modulator
+LM122/LM322/LM2905/LM3905 Precision Timer
+LM194/LM394 Super Match Pair
+LM195/LM295/LM395 Ultra Reliable Power Transistors
+LM555/LM555C Timer
+LM556/LM556C Dual Timer
+LM565/LM565C Phase Locked Loop
+LM566C Voltage Controlled Oscillator
+LM567/LM567C Low Power Tone Decoder
+LM903 Fluid Level Detector
+LM1042 Fluid Level Detector
+LM1211 Broadband Demodulator System
+LM1596/LM1496 Balanced Modulator Demodulator
+LM1801 Battery Operated Power Comparator
+LM1812 Ultrasonic Transceiver
+LM1815 Adaptive Sense Amplifier
+LM1819 Air-Core Meter Driver
+LM1830 Fluid Detector
+LM1851 Ground Fault Interrupter
+LM1893/LM2893 Biline Carrier Current Transceiver
+LM19211 Amp Industrial Switch
+LM1946 Over/Under Current Limit Diagnostic Circuits
+LM1949 Injector Drive Controller
+LM1951 Solid State 1 Amp Switch
+LM1964 Sensor Interface Amplifier
+LM2907/LM2917 Frequency to Voltage Converter
+LM3045/LM3046/LM3086 Transistor Arrays
+LM3146 High Voltage Transistor Array
+LM3909 LED Flasher/Oscillator
+LM3914 Dot/Bar Display Driver
+LM3915 Dot/Bar Display Driver
+LM3916 Dot/Bar Display Driver
+LMC555 CMOS Timer
+LMC567 Low Power Tone Decoder
+LMC568 Low Power Phase-Locked Loop
+ADC0800 8-Bit AID Converter
+ADC0801 8-Bit ILP Compatible AID Converters
+ADC0802 8-Bit ILP Compatible AID Converters
+ADC0803 8-Bit ILP Compatible AID Converters
+ADC0804 8-Bit ILP Compatible AID Converters
+ADC0805 8-Bit ILP Compatible AID Converters
+ADC0808 8-Bit ILP Compatible AID Converters with 8-Channel Multiplexer
+ADC0809 8-Bit ILP Compatible AID Converters with 8-Channel Multiplexer
+ADC0811 8-Bit Serial 1/0 AID Converter with 11-Channel Multiplexer
+ADC0816 8-Bit ILP Compatible AID Converters with 16-Channel Multiplexer
+ADC0817 8-Bit ILP Compatible AID Converters with 16-Channel Multiplexer
+ADC0819 8-Bit Serial 1/0 AID Converter with 19-Channel Multiplexer
+ADC0820 8-Bit High Speed ILP Compatible AID Converter with Track/Hold Function
+ADC0829 ILP Compatible 8-Bit AID with 11-Channel MUX/Digitallnput
+ADC0831 8-Bit Serial 1/0 AID Converters with Multiplexer Options
+ADC0832 8-Bit Serial 1/0 AID Converters with Multiplexer Options
+ADC0833 8-Bit Serial 1/0 AID Converter with 4-Channel Multiplexer
+ADC0834 8-Bit Serial 1/0 AID Converters with Multiplexer Options
+ADC0838 8-Bit Serial 1/0 AID Converters with Multiplexer Options
+ADC0841 8-Bit ILP Compatible AID Converter
+ADC0844 8-Bit ILP Compatible AID Converters with Multiplexer Options
+ADC0848 8-Bit ILP Compatible AID Converters with Multiplexer Options
+ADC0852 Multiplexed Comparator with 8-Bit Reference Divider
+ADC0854 Multiplexed Comparator with 8-Bit Reference Divider
+ADC1001 1O-Bit ILP Compatible AID Converters
+ADC1005 10-Bit ILP Compatible AI D Converters
+ADC1021 1O-Bit ILP Compatible AID Converters
+ADC1025 1O-Bit ILP Compatible AID Converters
+ADC1205 12-Bit Plus Sign ILP Compatible AID Converters
+ADC1210 12-Bit CMOS AID Converters
+ADC1211 12-Bit CMOS AID Converters
+ADC1225 12-Bit Plus Sign ILP Compatible AID Converters
+ADC3511 3%-Digit Microprocessor Compatible AID Converter
+ADC3711 3%-Digit Microprocessor Compatible AID Converter
+ADD3501 3%-Digit DVM with Multiplexed 7-Segment Output
+ADD3701 3%-Digit DVM with Multiplexed 7-Segment Output
+AF100 Universal Active Filter
+AF150 Universal Wideband Active Filter
+AF151 Dual Universal Active Filter
+AH0014 Dual DPST-TTTL/DTLD Compatible MOS Analog Switch
+AH0014C DPDT Dual DPST-TTTL/DTLD Compatible MOS Analog Switch
+AH0015C Quad SPST Dual DPST-TTTL/DTLD Compatible MOS Analog Switch
+AH0019 Dual DPST-TTTL/DTLD Compatible MOS Analog Switch
+AH0019C Dual DPST-TTTL/DTLD Compatible MOS Analog Switch
+AH5009 Monolithic Analog Current Switch
+AH5010 Monolithic Analog Current Switch
+AH5011 Monolithic Analog Current Switch
+AH5012 Monolithic Analog Current Switch
+AH5020C Monolithic Analog Current Switch
+CD4016C Quad Bi-Lateral Switch
+CD4051BC Single 8-Channel Analog Multiplexer/Demultiplexer
+CD4051BM Single 8-Channel Analog Multiplexer/Demultiplexer
+CD4052BC Dual 8-Channel Analog Multiplexer/Demultiplexer
+CD4052BM Dual8-Channel Analog Multiplexer/Demultiplexer
+CD4053BC Triple 8-Channel Analog Multiplexer/Demultiplexer
+CD4053BM Triple 8-Channel Analog Multiplexer/Demultiplexer
+CD4066BC Quad Bi-Lateral Switch
+CD4066BM Quad Bi-Lateral Switch
+CD4529BC Dual 4-Channel or 8-Channel Analog Data Election
+DAC0800 8-Bit Digital-to-Analog Converters
+DAC0801 8-Bit Digital-to-Analog Converters
+DAC0802 8-Bit Digital-to-Analog Converters
+DAC0806 8-Bit D/A Converters
+DAC0807 8-Bit D/A Converters
+DAC0808 8-Bit D/A Converters
+DAC0830 8-Bit µP Compatible Double-Buffered D to A Converters
+DAC0831 8-Bit µP Compatible Double-Buffered D to A Converters
+DAC0832 8-Bit µP Compatible Double-Buffered D to A Converters
+DAC1000 µP Compatible, Double-Buffered D to A Converters
+DAC1001 µP Compatible, Double-Buffered D to A Converters
+DAC1002 µP Compatible, Double-Buffered D to A Converters
+DAC1006 µP Compatible, Double-Buffered D to A Converters
+DAC1007 µP Compatible, Double-Buffered D to A Converters
+DAC1008 µP Compatible, Double-Buffered D to A Converters
+DAC1020 12-Bit Binary Multiplying D/A Converters
+DAC1021 12-Bit Binary Multiplying D/A Converters
+DAC1022 12-Bit Binary Multiplying D/A Converters
+DAC1208 12-Bit µP Compatible Double-Buffered D to A Converters
+DAC1209 12-Bit µP Compatible Double-Buffered D to A Converters
+DAC1210 12-Bit µP Compatible Double-Buffered D to A Converters
+DAC1218 12-Bit Multiplying D/A Converters
+DAC1219 12-Bit Multiplying D/A Converters
+DAC1220 12-Bit Binary Multiplying D/A Converters
+DAC1221 12-Bit Binary Multiplying D/A Converters
+DAC1222 12-Bit Binary Multiplying D/A Converters
+DAC1230 12-Bit µP Compatible Double-Buffered D to A Converters
+DAC1231 12-Bit µP Compatible Double-Buffered D to A Converters
+DAC1232 12-Bit µP Compatible Double-Buffered D to A Converters
+DAC1265 Hi-Speed 12-Bit D/A Converter with Reference
+DAC1265A Hi-Speed 12-Bit D/A Converter with Reference
+DAC1266 Hi-Speed 12-Bit D/A Converter
+DAC1266A Hi-Speed 12-Bit D/A Converter
+DAC1655 16-Bit D/A Converter
+DM2502 Successive Approximation Registers
+DM2503 Successive Approximation Registers
+DM2504 Successive Approximation Registers
+HS7067 7 Amp, Multimode, High Efficiency Switching Regulator
+HS7107 7 Amp, Multimode, High Efficiency Switching Regulator
+HS9151 Micro-Switching Off-Line Power Converter 1201V AC/ + 5V
+LF111 Voltage Comparators
+LF147 Wide Bandwidth Quad JFET Input Operational Amplifiers
+LF155 Low Supply Current
+LF155 Series Monolothic JFET Input Operational Amplifiers
+LF156 Series Monolothic JFET Input Operational Amplifiers
+LF156 Wide Band
+LF157 Series Monolothic JFET Input Operational Amplifiers
+LF157 Wide Band Decompensated (AVMIN = 5)
+LF198 Monolithic Sample and Hold Circuits
+LF198A Monolithic Sample and Hold Circuits
+LF211 Voltage Comparators
+LF255 Low Supply Current
+LF256 Wide Band
+LF257 Wide Band Decompensated (AVM I N = 5)
+LF298 Monolithic Sample and Hold Circuits
+LF311 Voltage Comparators
+LF347 Wide Bandwidth Quad JFET Input Operational Amplifiers
+LF347A Wide Bandwidth Quad JFET Input Operational Amplifiers
+LF351 Wide Bandwidth JFET Input Operational Amplifier
+LF353 Wide Bandwidth Dual JFET Input Operational Amplifier
+LF355 Low Supply Current
+LF356 Wide Band
+LF357 Wide Band Decompensated (AVMIN = 5)
+LF398A Monolithic Sample and Hold Circuits
+LF400C Fast Settling JFET Input Operational Amplifier
+LF401 Precision Fast Settling JFET Input Operational Amplifier
+LF411 Low Offset, Low Drift J FET I nput Operational Amplifier
+LF412 Low Offset, Low Drift Dual JFET Operational Amplifier
+LF441 Low Power JFET Input Operational Amplifier
+LF442 Dual Low Power JFET Input Operational Amplifier
+LF444 Quad Low Power JFET Input Operational Amplifier
+LF455 Series Monolithic JFET Operational Amplifier
+LF456 Series Monolithic JFET Operational Amplifier
+LF457 Series Monolithic JFET Operational Amplifier
+LF1333 Quad SPST JFET Analog Switches
+LF11201 Quad SPST JFET Analog Switches
+LF11202 Quad SPST JFET Analog Switches
+LF11331 Quad SPST JFET Analog Switches
+LF11332 Quad SPST JFET Analog Switches
+LF13006 Digital Gain Set
+LF13007 Digital Gain Set
+LF13201 Quad SPST JFET Analog Switches
+LF13202 Quad SPST JFET Analog Switches
+LF13331 Quad SPST JFET Analog Switches
+LF13333 Quad SPST JFET Analog Switches
+LF13508 8-Channel Analog Multiplexer
+LF13509 4-Channel Analog Multiplexer
+LF13741 Monolithic JFET Input Operational Amplifier
+LH0002 Current Amplifier
+LH0003 Wide Bandwidth Operational Amplifier
+LH0004 High Voltage Operational Amplifier
+LH0020 High Gain Operational Amplifier
+LH0021 1.0 Amp Power Operational Amplifier
+LH0022 High Performance FET Op Amp
+LH0023 Sample and Hold Circuits
+LH0023C Sample and Hold Circuits
+LH0024 High Slew Rate Operational Amplifier
+LH0032 Ultra Fast FET -Input Operational Amplifier
+LH0033 Fast Buffer Amplifiers
+LH0036 Instrumentation Amplifier
+LH0038 True Instrumentation Amplifier
+LH0041 0.2 Amp Power Operational Amplifier
+LH0042 Low Cost FET Op Amp
+LH0043 Sample and Hold Circuits
+LH0043C Sample and Hold Circuits
+LH0044 Series Precision Low Noise Operational Amplifiers
+LH0045 Two Wire Transmitter
+LH0052 Precision FET Op Amp
+LH0053 High Speed Sample and Hold Amplifier
+LH0053C High Speed Sample and Hold Amplifier
+LH0061 0.5 Amp Wide Band Operational Amplifier
+LH0062 High Speed FET Operational Amplifier
+LH0070 Series BCD Buffered Reference
+LH0071 Series Precision Buffered Reference
+LH0075 Positive Precision Programmable Regulator
+LH0076 Negative Precision Programmable Regulator
+LH0082 Optical Communication Receiver/Amplifier
+LH0084 Digitally-Programmable-Gain Instrumentation Amplifier
+LH0086 Digitally-Programmable-Gain Amplifier
+LH0091 True RMS to DC Converter
+LH0094 Multifunction Converter
+LH0101 Power Operational Amplifier
+LH4001 Wideband Current Buffer
+LH4002 Wideband Video Buffer
+LH4003 Precision RF Closed Loop Buffer
+LH4004 Wideband FET Input Buffer/Amplifier
+LH4006 Precision RF Closed Loop Buffer
+LH4101 Wideband High Current Operational Amplifier
+LH4101C Wideband High Current Operational Amplifier
+LH4104 Fast Settling High Current Operational Amplifier
+LH4105 Precision Fast Settling High Current Operational Amplifier
+LM10 Op Amp and Voltage Reference
+LM11 Operational Amplifiers
+LM12L 150W Operational Amplifier
+LM34 Precision Fahrenheit Temperature Sensors
+LM34A Precision Fahrenheit Temperature Sensors
+LM34C Precision Fahrenheit Temperature Sensors
+LM34CA Precision Fahrenheit Temperature Sensors
+LM34D Precision Fahrenheit Temperature Sensors
+LM35 Precision FahrenheitTemperature Sensors
+LM35A Precision Fahrenheit Temperature Sensors
+LM35C Precision Fahrenheit Temperature Sensors
+LM35CA Precision Fahrenheit Temperature Sensors
+LM35D Precision Fahrenheit Temperature Sensors
+LM78L05 05V Series 3-Terminal Positive Regulator
+LM7805 05V Voltage Regulator
+LM7905AC 05V Series 3-Terminal Negative Regulator
+LM7905 05V Series 3-Terminal Negative Regulator
+LM78L12 12V Series 3-Terminal Positive Regulator
+LM7812 12V Voltage Regulator
+LM7912AC 12V Series 3-Terminal Negative Regulator
+LM7912 12V Series 3-Terminal Negative Regulator
+LM78L15 15V Series 3-Terminal Positive Regulator
+LM7815 15V Voltage Regulator
+LM7915AC 15V Series 3-Terminal Negative Regulator
+LM7915 15V Series 3-Terminal Negative Regulator
+LM78L09 09V Series 3-Terminal Positive Regulator
+LM7809 09V Voltage Regulator
+LM7909AC 09V Series 3-Terminal Negative Regulator
+LM7909 09V Series 3-Terminal Negative Regulator
+LM101A Operational Amplifiers
+LM102 Voltage Follower
+LM103 Reference Diode
+LM104 Negative Regulator
+LM105 Voltage Regulator
+LM106 Voltage Comparator
+LM107 Operational Amplifiers
+LM108 Operational Amplifiers
+LM108A Operational Amplifiers
+LM109 5-Volt Regulator
+LM110 Voltage Follower
+LM111 Voltage Comparator
+LM112 Operational Amplifiers
+LM113 Precision Reference
+LM117 3-Terminal Adjustable Regulator
+LM117HV 3-Terminal Adjustable Regulator
+LM118 Operational Amplifiers
+LM119 High Speed Dual Comparator
+LM120 Series 3-Terminal Negative Regulator
+LM122 Precision Timer
+LM123 3 Amp, 5-Volt Positive Regulator
+LM124 Low Power Quad Operational Amplifiers
+LM125 Voltage Regulators
+LM126 Voltage Regulators
+LM129 Precision Reference
+LM131 Precision Voltage-to-Frequency Converters
+LM131A Precision Voltage-to-Frequency Converters
+LM133 3-Amp Negative Adjustable Voltage Regulator
+LM134 3-Terminal Adjustable Current Sources
+LM135 Precision Temperature Sensors
+LM135A Precision Temperature Sensors
+LM136-2.5V Reference Diode
+LM136-5.0V Reference Diode
+LM137 3-Terminal Negative Adjustable Regulator
+LM137HV 3-Terminal Negative Adjustable Regulators (High Voltage)
+LM138 5 Amp Adjustable Power Regulator
+LM139 Low Power Low Offset Voltage Quad Comparators
+LM140 Series 3-Terminal Positive Regulators
+LM140L Series 3-Terminal Positive Regulators
+LM143 High Voltage Operational Amplifier
+LM144 High Voltage, High Slew Rate Operational Amplifiers
+LM145 Negative 3 Amp Regulator
+LM146 Programmable Quad Operational Amplifiers
+LM148 Quad 741 Op Amps
+LM149 Wide Band Decompensated (AV(MIN) = 5)
+LM150 3 Amp Adjustable Power Regulator
+LM158 Low Power Dual Operational Amplifiers
+LM160 High Speed Differential Comparator
+LM161 High Speed Differential Comparator
+LM168 Precision Voltage Reference
+LM169 Precision Voltage Reference
+LM185 Adjustable Micropower Voltage References
+LM185-1.2 MicropowerVoltage Reference Diode
+LM185-2.5 Micropower Voltage Reference Diode
+LM192 Low Power Operational Amplifier/Voltage Comparator
+LM193 Low Power Low Offset Voltage Dual Comparator
+LM194 Super Match Pair
+LM195 Ultra Reliable Power Transistors
+LM196 10 Amp Adjustable Voltage Regulator
+LM199 Precision Reference
+LM201A Operational Amplifiers
+LM204 Negative Regulator
+LM205 Voltage Regulator
+LM206 Voltage Comparator
+LM207 Operational Amplifiers
+LM208 Operational Amplifiers
+LM208A Operational Amplifiers
+LM210 Voltage Follower
+LM211 Voltage Comparator
+LM212 Operational Amplifiers
+LM218 Operational Amplifiers
+LM219 High Speed Dual Comparator
+LM221 Precision Preamplifiers
+LM224 Low Power Quad Operational Amplifiers
+LM231 Precision Voltage-to-Frequency Converters
+LM231A Precision Voltage-to-Frequency Converters
+LM234 3-Terminal Adjustable Current Sources
+LM235 Precision Temperature Sensors
+LM235A Precision Temperature Sensors
+LM236-2.5V Reference Diode
+LM236-5.0V Reference Diode
+LM239 Low Power Low Offset Voltage Quad Comparators
+LM246 Programmable Quad Operational Amplifiers
+LM248 Quad 741 Op Amps
+LM249 Wide Band Decompensated (AV(MIN) = 5)
+LM258 Low Power Dual Operational Amplifiers
+LM260 High Speed Differential Comparator
+LM261 High Speed Differential Comparator
+LM268 Precision Voltage Reference
+LM285 Adjustable Micropower Voltage References
+LM285-1.2 Micropower Voltage Reference Diode
+LM285-2.5 Micropower Voltage Reference Diode
+LM292 Low Power Operational Amplifier /Voltage Comparator
+LM293 Low Power Low Offset Voltage Dual Comparator
+LM295 Ultra Reliable Power Transistors
+LM299 Precision Reference
+LM301A Operational Amplifiers
+LM302 Voltage Follower
+LM304 Negative Regulator
+LM305 Voltage Regulator
+LM305A Voltage Regulator
+LM306 Voltage Comparator
+LM307 Operational Amplifiers
+LM308 Operational Amplifiers
+LM308A Operational Amplifiers
+LM309 5-Volt Regulator
+LM310 Voltage Follower
+LM311 Voltage Comparator
+LM312 Operational Amplifiers
+LM313 Precision Reference
+LM317 3-Terminal Adjustable Regulator
+LM317HV 3-Terminal Adjustable Regulator
+LM317L 3-Terminal Adjustable Regulator
+LM318 Operational Amplifiers
+LM319 High Speed Dual Comparator
+LM320 Series 3-Terminal Negative Regulator
+LM320L 3-Terminal Negative Regulator
+LM321 Precision Preamplifiers
+LM322 Precision Timer
+LM324 Low Power Quad Operational Amplifiers
+LM325 Voltage Regulators
+LM326 Voltage Regulators
+LM329 Precision Reference
+LM330 3-Terminal Positive Regulator
+LM331 Precision Voltage-to-Frequency Converters
+LM331A Precision VOltage-to-Frequency Converters
+LM333 3-Amp Negative Adjustable Voltage Regulator
+LM334 3-Terminal Adjustable Current Sources
+LM335 Precision Temperature Sensors
+LM335A Precision Temperature Sensors
+LM336-2.5V Reference Diode
+LM336-5.0V Reference Diode
+LM337 3-Terminal Negative Adjustable Regulator
+LM337HV 3-Terminal Negative Adjustable Regulators (High Voltage)
+LM337L 3-Terminal Adjustable Regulator
+LM338 5 Amp Adjustable Power Regulator
+LM339 Low Power Low Offset Voltage Quad Comparators
+LM340 Series 3-Terminal Positive Regulators
+LM340L Series 3-Terminal Positive Regulators
+LM343 High Voltage Operational Amplifier
+LM344 High Voltage, High Slew Rate Operational Amplifiers
+LM345 Negative 3 Amp Regulator
+LM346 Programmable Quad Operational Amplifiers
+LM348 Quad 741 Op Amps
+LM349 Wide Band Decompensated (AV(MIN) = 5)
+LM350 3 Amp Adjustable Power Regulator
+LM358 Low Power Dual Operational Amplifiers
+LM359 Dual, High Speed, Programmable Current Mode (Norton) Amplifier
+LM360 High Speed Differential Comparator
+LM361 High Speed Differential Comparator
+LM363 Precision Instrumentation Amplifier
+LM368 Precision Voltage Reference
+LM368-2.5 Precision Voltage Reference
+LM369 Precision Voltage Reference
+LM376 Voltage Regulator
+LM377 Dual 2-Watt Audio Amplifier
+LM378 Dual 4-Watt Audio Amplifier
+LM380 Audio Power Amplifier
+LM381 Low Noise Dual Preamplifier
+LM382 Low Noise Dual Preamplifier
+LM383 7 -Watt Audio Power Amplifier
+LM384 5-Watt Audio Power Amplifier
+LM385 Adjustable Micropower Voltage References
+LM385-1.2 Micropower Voltage Reference Diode
+LM385-2.5 Micropower Voltage Reference Diode
+LM386 Low Voltage Audio Power Amplifier
+LM387 Low Noise Dual Preamplifier
+LM388 1.5-Watt Audio Power Amplifier
+LM389 Low Voltage Audio Power Amplifier with NPN Transistor Array
+LM390 1-Watt Battery Operated Audio Power Amplifier
+LM391 Audio Power Driver
+LM392 Low Power Operational Amplifier/Voltage Comparator
+LM393 Low Power Low Offset Voltage Dual Comparator
+LM394 Super Match Pair
+LM395 Ultra Reliable Power Transistors
+LM396 10 Amp Adjustable Voltage Regulator
+LM399 Precision Reference
+LM555 Timer
+LM555C Timer
+LM556 Dual Timer
+LM556C Dual Timer
+LM565 Phase Locked Loop
+LM565C Phase Locked Loop
+LM566C Voltage Controlled Oscillator
+LM567 Low Power Tone Decoder
+LM567C Low Power Tone Decoder
+LM581 Voltage Reference Precision 10-Volt
+LM592 Differential Video Amplifier
+LM604 4 Channel MUX-Amp
+LM607 Precision Operational Amplifier
+LM611 Adjustable Micropower Floating Voltage Reference and Single-Supply Operational Amplifier
+LM614 Adjustable Micropower Floating Voltage Reference and Four Single-Supply Operational Amplifiers
+LM621 Brushless Motor Commutator TC
+LM622 Pulse Width Modulator
+LM628 Precision Motion Controller
+LM675 Power Operational Amplifier
+LM723 Voltage Regulator
+LM733 Differential Video Amplifier
+LM733C Differential Video Amplifier
+LM741 Operational Amplifier
+LM831 Low Voltage Audio Power Amplifier
+LM832 Dynamic Noise Reduction System DNR
+LM833 Dual Audio Operational Amplifier
+LM837 Low Noise Quad Operational Amplifier
+LM903 Fluid Level Detector
+LM1035 Dual DC Operated Tone/Volume/Balance Circuit
+LM1036 Dual DC Operated Tone/Volume/Balance Circuit
+LM1037 Dual Four-Channel Analog Switch
+LM1038 Dual Four-Channel Analog Switch
+LM1040 Dual DC Operated Tone/Volume/Balance Circuit with Stereo Enhancement Facility
+LM1042 Fluid Level Detector
+LM1044 Analog Video Switch
+LM1112A Dolby B-Type Noise Reduction Processor
+LM1131A Dual Dolby B-Type Noise Reduction Processor
+LM1141 Dolby B-C Type Noise Reduction Processor
+LM1201 Video Amplifier System
+LM1203 RGB Video Amplifier System
+LM1211 Broadband Demodulator System
+LM1391 Phase-Locked Loop
+LM1458 Dual Operational Amplifier
+LM1496 Balanced Modulator Demodulator
+LM1558 Dual Operational Amplifier
+LM1578 Switching Regulator
+LM1596 Balanced Modulator Demodulator
+LM1800 Phase-Locked Loop FM Stereo Demodulator
+LM1801 Battery Operated Power Comparator
+LM1812 Ultrasonic Transceiver
+LM1815 Adaptive Sense Amplifier
+LM1818 Electronically Switched Audio Tape System
+LM1819 Air-Core Meter Driver
+LM1823 Video IF Amplifier/PLL Detection System
+LM1830 Fluid Detector
+LM1837 Low Noise Preamplifier for Autoreversing Tape Playback Systems
+LM1851 Ground Fault Interrupter
+LM1863 AM Radio System for Electronically Tuned Radio
+LM1865 Advanced FM IF System
+LM1866 Low Voltage AM/FM Receiver
+LM1868 AM/FM Radio System
+LM1870 Stereo Demodulator with Blend
+LM1871 RC Encoder/Transmitter
+LM1872 Radio Control Receiver/Decoder
+LM1875 20-Watt Power Audio Amplifier
+LM1877 Dual Power Audio Amplifier
+LM1880 No-Holds Vertical/Horizontal
+LM1881 Video Sync Separator
+LM1884 TV Stereo Decoder
+LM1886 TV Video Matrix D to A
+LM1889 TV Video Modulator
+LM1893 Biline Carrier Current Transceiver
+LM1894 Dynamic Noise Reduction System DNR
+LM1895 Audio Power Amplifier
+LM1896 Dual Power Audio Amplifier
+LM1897 Low Noise Preamplifier for Tape Playback Systems
+LM1921 1 Amp Industrial Switch
+LM1946 Over/Under Current Limit Diagnostic Circuits
+LM1949 Injector Drive Controller
+LM1951 Solid State 1 Amp Switch
+LM1964 Sensor Interface Amplifier
+LM1965 Advanced FM IF System
+LM2002 8-Watt Audio Power Amplifier
+LM2005 20-Watt Automotive Power Amplifier
+LM2065 Advanced FM IF System
+LM2578 Switching Regulator
+LM2877 Dual 4-Watt Power Audio Amplifier
+LM2878 Dual 5-Watt Power Audio Amplifier
+LM2879 Dual 8-Watt Audio Amplifier
+LM2889 TV Video Modulator
+LM2893 Biline Carrier Current Transceiver
+LM2900 Quad Amplifiers
+LM2901 Low Power Low Offset Voltage Quad Comparators
+LM2902 Low Power Quad Operational Amplifiers
+LM2903 Low Power Low Offset Voltage Dual Comparator
+LM2904 Low Power Dual Operational Amplifiers
+LM2905 Precision Timer
+LM2907 Frequency to Voltage Converter
+LM2917 Frequency to Voltage Converter
+LM2924 Low Power Operational AmplifierlVoltage Comparator
+LM2925 Low Drop-Out Regulator with Delayed Reset
+LM2930 3-Terminal Positive Regulator
+LM2931 Series Low Drop-Out Regulator
+LM2935 Low Drop-Out Dual Regulator
+LM2940C 1A Low Drop-Out Regulator
+LM2984C Microprocessor Power Supply System
+LM3045 Transistor Arrays
+LM3046 Transistor Arrays
+LM3080 Operational Transconductance Amplifier
+LM3080A Operational Transconductance Amplifier
+LM3086 Transistor Arrays
+LM3089 FM Receiver IF System
+LM3146 High Voltage Transistor Array
+LM3189 FM IF System
+LM3301 Quad Amplifiers
+LM3302 Low Power Low Offset Voltage Quad Comparators
+LM3361A Low Voltage/Power Narrow Band FM IF System
+LM3401 Quad Amplifiers
+LM3578 Switching Regulator
+LM3820 AM Radio System
+LM3900 Quad Amplifiers
+LM3905 Precision Timer
+LM3909 LED Flasher/Oscillator
+LM3911 Temperature Controller
+LM3914 Dot/Bar Display Driver
+LM3915 Dot/Bar Display Driver
+LM3916 Dot/Bar Display Driver
+LM3999 Precision Reference
+LM4250 Programmable Operational Amplifiers
+LM4500A High Fidelity FM Stereo Demodulator with Blend
+LM6113 High Speed Operational Amplifiers Plus Power Buffer
+LM6121 High Speed Buffer
+LM6125 High Speed Buffer
+LM6161 High Speed Operational Amplifiers
+LM6161 ILM6261 ILM6361 High Speed Operational Amplifiers
+LM6164 High Speed Operational Amplifiers
+LM6264/LM6364 High Speed Operational Amplifiers
+LM6165 High Speed Operational Amplifiers
+LM6265/LM6365 High Speed Operational Amplifiers
+LM6214 High Speed Operational Amplifiers Plus Power Buffer
+LM6221 High Speed Buffer
+LM6225 High Speed Buffer
+LM6261 High Speed Operational Amplifiers
+LM6264 High Speed Operational Amplifiers
+LM6265 High Speed Operational Amplifiers
+LM6314 High Speed Operational Amplifiers Plus Power Buffer
+LM6321 High Speed Buffer
+LM6325 High Speed Buffer
+LM6361 High Speed Operational Amplifiers
+LM6364 High Speed Operational Amplifiers
+LM6365 High Speed Operational Amplifiers
+LM13080 Programmable Power Operational Amplifiers
+LM13600 Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers
+LM13700 Dual Operational Transconductance Amplifier with Linearizing Diodes and Buffers
+LM18272 Dual Power Operational Amplifier
+LM18293 Four Channel Push Pull Driver
+LM18298 Dual Full-Bridge Driver
+LMC555 CMOS Timer
+LMC567 Low Power Tone Decoder
+LMC568 Low Power Phase-Locked Loop
+LMC660 CMOS Quad Operational Amplifier
+LMC668 Chopper Stabilized Operational Amplifier
+LMC669 Auto Zero
+LMC835 Digital Controlled Graphic Equalizer
+LMC1992 Computer Controlled Tone and Volume Circuits
+LMC1993 Computer Controlled Tone and Volume Circuits
+LMC7660 Switched Capacitor Voltage Converter
+LMC7669 Switched Capacitor Voltage Converter
+LMF60 6th Order LMCMOSTM Switched Capacitor Butterworth Lowpass Filter
+LMF90 4th-Order LMCMOSTM Programmable Elliptic Notch Filter
+LMF100 Universal Monolithic Dual Switched Capacitor Filter
+LMF120 Mask Programmable Switched Capacitor Filter
+LP124 Micropower Quad Operational Amplifier
+LP165 Micropower Programmable Quad Comparator
+LP311 Voltage Comparator
+LP324 Micropower Quad Operational Amplifier
+LP339 Ultra-Low Power Quad Comparator
+LP365 Micropower Programmable Quad Comparator
+LP2902 Micropower Quad Operational Amplifier
+LP2950 5V Adjustable Micropower Voltage Regulator
+LP2951 Adjustable Micropower Voltage Regulator
+MF4 4th Order Switched Capacitor Butterworth Lowpass Filter
+MF5 Universal Monolithic Switched Capacitor Filter
+MF6 6th Order Switched Capacitor Butterworth Lowpass Filter
+MFB 4th Order Switched Capacitor Bandpass Filter
+MF10 Universal Monolithic Dual Switched Capacitor Filter
+MM54HC4016 Quad Analog Switch
+MM54HC4051 8-Channel Analog Multiplexer
+MM54HC4052 Dual 4-Channel Analog Multiplexer
+MM54HC4053 Triple 2-Channel Analog Multiplexer
+MM54HC4066 Quad Analog Switch
+MM54HC4316 Quad Analog Switch with Level Translator
+MM74C905 12-Bit Successive Approximation Register
+MM74HC4016 Quad Analog Switch
+MM74HC4051 8-Channel Analog Multiplexer
+MM74HC4052 Dual4-Channel Analog Multiplexer
+MM74HC4053 Triple 2-Channel Analog Multiplexer
+MM74HC4066 Quad Analog Switch
+MM74HC4316 Quad Analog Switch with Level Translator
+TBA120S IF Amplifier and Detector
+TLOB1CP Wide Bandwidth JFET Input Operational Amplifier
+TL082CP Wide Bandwidth Dual JFET Input Operational Amplifier
+CD4511 BC BCD-to-7-Segment Latch/Decoder/Driver
+CD4511BM BCD-to-7-Segment Latch/Decoder/Driver
+DS7664 14-Digit Decoder/Driver with Low Battery Indicator
+DS8664 14-Digit Decoder/Driver with Low Battery Indicator
+DS8665 14-Digit Decoder/Driver (Hi-Drive)
+DS8666 14-Digit Decoder/Driver (P.O.S.)
+DS8692 Printing Calculator Interface Set
+DS8693 Printing Calculator Interface Set
+DS8694 Printing Calculator Interface Set
+DS8867 8-Segment Driver
+DS8868 12-Digit Decoder/Driver
+DS8871 Saturating LED Cathode Driver
+DS8872 Saturating LED Cathode Driver
+DS8873 Saturating LED Cathode Driver
+DS8874 9-Digit Shift Input LED Driver
+DS8877 6-Digit LED Driver
+DS8892 Programmable Hex LED Digit Driver
+DS8977 Saturating LED Cathode Driver
+DS75491 MOS-to-LED Quad Segment Driver
+DS75492 MOS-to-LED Hex Digit Driver
+DS75493 Quad LED Segment Driver
+LF13300 Integrating AID Analog Building Block
+LM1889 TV Video Modulator
+MA1002 LED Display Digital Electronic Clock Module
+MA1003 12 Voe Automotive/Instrument Clock Module
+MA1010 LED Display Digital Electronic Clock Module
+MA1012 LED Display Digitai Electronic Clock Module
+MA1013 LED Display Digital Electronic Clock Module
+MM5303 Universal Fully Asynchronous Receiver/Transmitter
+MM5307 Baud Rate Generator/Programmable Divider
+MM5309 Digital Clock
+MM5311 Digital Clock
+MM5312 Digital Clock
+MM5313 Digital Clock
+MM5314 Digital Clock
+MM5315 Digital Clock
+MM5316 Digital Alarm Clock
+MM5318 TV Digital Clock
+MM5320 TV Camera Sync Generator
+MM5321 TV Camera Sync Generator
+MM5322 Color Bar Generator Chip
+MM5330 4 1/2-Digit Panel Meter Logic Block
+MM5369 17-Stage Programmable Oscillator/Divider
+MM5370 Digital Alarm Clock
+MM5371 Digital Alarm Clock
+MM5375,AA,AB,AD,AE,AG,AH,AI,AJ MM5375 Series Clocks
+MM5376,AA,AB,AD,AE,AG,AH MM5376 Series Clocks
+MM5377 Auto Clock
+MM5378 Auto Clock
+MM5379 Auto Clock
+MM5382 Digital Calendar Clock Radio Circuit
+MM5383 Digital Calendar Clock Radio Circuit
+MM5384 LED Display Digital Clock Radio Circuit
+MM5385 Digital Alarm Clock
+MM5386 Digital Alarm Clock
+MM5387AA Digital Alarm Clock
+MM5393 Push Button Telephone Dialer
+MM5395 TOUCH-TONE® Generator
+MM5396 Digital Alarm
+MM5397 Digital Alarm Clock
+MM5402 Digital Alarm Clock
+MM5405 Digital Alarm Clock
+MM5554 Frequency Divider
+MM5555 Chromatic Frequency Generator
+MM5556 Chromatic Frequency Generator
+MM5559 Serial-to-Parallel Converter
+MM5734 8-Function, Accumulating Memory Calculator
+MM5737 8-Digit, 4-Function, Floating Decimal Point Calculator
+MM5740 90-Key Keyboard Encoder
+MM5745 78-Key Keyboard Encoder
+MM5746 78-Key Keyboard Encoder
+MM5758 Scientific Calculator
+MM5760 Slide Rule Calculator
+MM5762 Financial Calculator
+MM5763 Statistical Calculator
+MM5764 Conversion Calculator
+MM5765 Calculator Programmer
+MM5766 Calculator Programmer
+MM5767 Slide Rule Calculator
+MM5777 6-Digit, 4-Function, Floating Decimal Point Calculator
+MM5780 Educational Toy Calculator
+MM5781 Controller Oriented Processor System
+MM5782 Controller Oriented Processor System
+MM57B5 RAM Interface Chip
+MM57B8 Printer Interface Chip
+MM5791 7-Function, Accumulating Memory Calculator
+MM5794 7-Function, Accumulating Memory, Vacuum Fluorescent Display Calculator
+MM5795 7-Function, Accumulating Memory, Vacuum Fluorescent Display Calculator Circuit
+MM5799 Controller Oriented Processor
+MM5823 Frequency Divider
+MM5824 Frequency Divider
+MM5829 LED Watch Circuit
+MM5832 Chromatic Frequency Generator
+MM5833 Chromatic Frequency Generator
+MM5837 Digital Noise Source
+MM5840 TV Channel Number (16 Channels) and Time Display Circuit
+MM5841 TV Channel Number and Time Readout Circuit
+MM5860 LED Watch Circuit
+MM5863 12-Bit Binary A/D Building Block
+MM5865 Universal Timer
+MM5871 Rhythm Pattern Generator
+MM5879 RC Circuit
+MM5880 LED Watch Circuit
+MM5885 Direct Drive L_ED Watch
+MM5886 Direct Drive LED Watch
+MM5889 RC Circuit
+MM5890 LCD Chronograph Ci_rcuit
+MM5891 MOS Top Octane Frequency Generator
+MM5899 RC Circuit
+MM53100 Programmable TV Timer
+MM53104 TV Game Clock Generator
+MM53105 Programmable TV Timer
+MM53107 17-Stage .Oscillator/Divider
+MM53108 Digital Alarm Clock
+MM54C48 8CD-to-7-Segment Decoder
+MM55104 PLL Frequency Synthesizer
+MM55106 PLL Frequency Synthesizer
+MM55108 PLL Frequency Synthesizer with Receive/Transmit Mode
+MM55110 PLL Frequency Synthesizer with Receive/Transmit Mode
+MM55114 PLL Frequency Synthesizer
+MM55116 PLL Frequency Synthesizer
+MM57100 TV Game Circuit
+MM57103 Scientific Calculator Circuit
+MM57104 Scientific Calculator Circuit
+MM57109 Number Processing Unit
+MM57123 Financial Calculator
+MM57l26 COPS Memory
+MM57135 Scientific Calculator ROM
+MM57136 RPN Scientific Calculator Control ROM
+MM57140 Controller Oriented Processor
+MM58104 DirectDrive LED Watch
+MM58106 Digital Clock and TV Display Circuit
+MM58115 Digitally Tuned, Direct Drive, 6-Function LED Watch
+MM58117 LCD Watch Circuit
+MM58118 LCD Watch Circuit
+MM58119 LCD Watch Circuit
+MM58120 LCD Watch Circuit
+MM58127 LCD Watch Circuit
+MM58128 LCD Watch Circuit
+MM58129 LCD Watch Circuit
+MM58130 LCD Watch Circuit
+MM58601 Two Time Zone LED Watch Circuit
+MM58801 Two Time Zone LED Watch Circuit
+MM74C48 BC_D-to-7-Segment Decoder
+MM54C915 7-Segment-to-BCD Converter
+MM54C922 16-Key Encoder
+MM54C923 20-Key Encoder
+MM74C915 7-Segment-to-BCD Converter
+MM74C922 16-Key Encoder
+MM74C923 20-Key Encoder
+DP7304B 8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
+DP7308 8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
+DP7310 Octal Latched Peripheral Driver
+DP7311 Octal Latched Peripheral Driver
+DP8212 8-Bit Input/Output Port
+DP8212M 8-Bit Input/Output Port
+DP8216 4-Bit Bidirectional Bus Transceiver
+DP8216M 4-Bit Bidirectional Bus Transceiver
+DP8224 Clock Generator and Driver
+DP8226 4-Bit Bidirectional Bus Transceiver
+DP8226M 4-Bit Bidirectional Bus Transceiver
+DP8228 System Controller and Bus Driver
+DP8228M System Controller and Bus Driver
+DP8238 System Controller and Bus Driver .... _._
+DP8238M System Controller and Bus Driver
+DP8303A 8-Bit TRI-STATE Bidirectional Transceiver (Inverting
+DP8304B 8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
+DP8307 A 8-Bit TRI-STATE Bidirectional Transceiver (Inverting
+DP8308 8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
+DP8310 Octal Latched Peripheral Driver
+DP8311 Octal Latched Peripheral Driver
+DP8480A 1 Ok EGL-to-TTL Level Translator with Latch
+DP8481 TTL-to-1 Ok EGL Level Translator with Latch
+DP8482A 1 OOk EGL to TTL Level Translator with Latch
+DP8483 TTL-to-1 OOk EGL Level Translator with Latch
+DP84240 Octal TRI-STATE MOS Driver
+DP84244 Octal TRI-STATE MOS Driver
+DS0025C Two Phase MOS Clock Driver ................................ : .................... 5-1 O
+DS0026 5 MHz Two Phase MOS Clock Driver
+DS0056 5 MHz Two Phase MOS Clock Driver
+DS1488 Quad Line Driver
+DS14C88 Quad CMOS Line Driver/Receiver
+DS1489 Quad Line Receiver
+DS1489A Quad Line Receiver
+DS14C89A Quad CMOS Line Driver/Receiver
+DS1603 TRI-STATE Dual Receiver
+DS1628 Octal TRI-STATE MOS Driver
+DS1630B Hex CMOS Compatible Buffer
+DS1631 CMOS Dual Peripheral Driver
+DS1632 CMOS Dual Peripheral Driver
+DS1633 CMOS Dual Peripheral Driver
+DS1634 CMOS Dual Peripheral Driver
+DS1648 TRI-STATE TTLto MOS Multiplexer/Driver
+DS1649 Hex TR I-ST ATE TTL to MOS Driver
+DS1650 Quad Differential Line Receiver
+DS1651 Quad High Speed MOS Sense Amplifier
+DS1652 Quad Differential Line Receiver  
+DS1678 TRI-STATE TTLto MOS Multiplexer/Driver
+DS1679 Hex TRI-STATE TTLto MOS Driver
+DS1687 Negative Voltage Relay Driver
+DS1691A RS-422/RS-423 Line Driver with TRI-STATE Outputs
+PS1692 TRI-STATE Differential Line Driver
+DS16F95 RS-485/RS-422 Differential Bus Transceiver
+DS2001 High Current/Voltage Darlington Driver
+DS2002 High Current/Voltage Darlington Driver
+DS2003 High Current/Voltage Darlington Driver
+DS2004 High Current/Voltage Darlington Driver
+DS26C31 C CMOS Quad TRI-STATE Differential Line Driver
+DS26C32AC CMOS Quad Differential Line Receiver
+DS26C32AM CMOS Quad Differential Line Receiver
+DS26F31C Quad High Speed Differential Line Driver
+DS26F31M Quad High Speed Differential Line Driver
+DS26F32C Quad Differential Line Receiver
+DS26F32M Quad Differential Line Receiver
+DS26LS31C Quad High Speed Differential Line Driver
+DS26LS31M Quad High Speed Differential Line Driver
+DS26LS32AC Quad Differential Line Receiver
+DS26LS32C Quad Differential Line Receiver
+DS26LS32M Quad-Differential Line Receiver
+DS26LS33AC Quad Differential Line Receiver
+DS26LS33C Quad Differential Line Receiver
+DS26LS33M Quad Differential Line Receiver
+DS26S10C Quad Bus Transceiver
+DS26S10M Quad Bus Transceiver
+DS26S11C Quad Bus Transceiver
+DS26S11M Quad Bus Transceiver
+DS3245 Quad MOS Clock Driver
+DS3486 Quad RS-422/RS-423 Line Receiver
+DS34C86 Quad CMOS Differential Line Receiver
+DS3487 Quad TRI-STATE Line Driver
+DS34C87 CMOS Quad TRI-STATE Differential Line Driver
+DS34F86 RS-422/RS-423 Quad Line Receiver with TRI-STATE Outputs
+DS34F87 RS-422 Quad Line Driver with TRI-STATE Outputs
+DS35F86 RS-422/RS-423 Quad Line Receiver with TRI-STATE Outputs
+DS3587 Quad TRI-STATE Line Driver
+DS35F87 RS-422 Quad Line Driver with TRI-STATE Outputs
+DS3603 TRI-STATE Dual Receiver
+DS3628 Octal TRI-STATE MOS Driver
+DS3630B Hex CMOS Compatible Buffer
+DS3631 CMOS Dual Peripheral Driver
+DS3632 CMOS Dual Peripheral Driver
+DS3633 CMOS Dual Peripheral Driver
+DS3634 CMOS Dual Peripheral Driver
+DS3647A Quad TRI-STATE MOS Memory 1/0 Register
+DS3648 TRI-STATE TTLto MOS Multiplexer/Driver
+DS3649 Hex TRI-STATE TTL to MOS Driver
+DS3650 Quad Differential Line Receiver
+DS3651 Quad High Speed MOS Sense Amplifier
+DS3652 Quad Differential Line Receiver
+DS3654 Printer Solenoid Driver
+DS3656 Quad Peripheral Driver
+DS3658 Quad High Current Peripheral Driver
+DS3662 Quad High Speed Trapezoidal Bus Transceiver
+DS3667 TRI-STATE Bidirectional Transceiver
+DS3668 Quad Fault Protected Peripheral Driver
+DS3669 Quad High Current Peripheral Driver
+DS3678 TRI-STATE TTL to MOS Multiplexer/Driver
+DS3679 Hex TRI-STATE TTL to MOS Driver
+DS3680 Quad Negative Voltage Relay Driver
+DS3686 Dual Positive Voltage Relay Driver
+DS3687 Negative Voltage Relay Driver
+DS3691 RS-422/RS-423 Line Driver with TRI-STATE Outputs
+DS3692 TRI-STATE Differential Line Driver
+DS3695 Multipoint RS-485/RS-422 Transceiver/Repeater
+DS3695A Multipoint RS-485/RS-422 Transceiver
+DS3695AT Multipoint R8-485/RS-422 Transceiver
+083695T Multipoint R8-485/R8-422 Transceiver/Repeater
+DS36F95 R8-485/R8-422 Differential Bus Transceiver
+083696 Multipoint R8-485/R8-422 Transceiver/Repeater
+083696A Multipoint R8-485/R8-422 Transceiver
+083696AT Multipoint R8-485/ RS-422 Transoeiver
+083696T Multipoint R8-485/R8-422 Transceiver /Repeater
+083697 Multipoint R8-485/R8-422 Transceiver/Repeater
+083698 Multipoint R8-485/RS-422 Transceiver/Repeater
+DS3862 Octal High Speed Trapezoidal Bus Transceiver
+DS3890 BTL Octal Trapezoidal Driver
+DS3892 BTL Octal TRI-STATE Repeater
+DS3893A BTL Turbotransceiver ....................... 2-7 4
+DS3896 BTL Trapezoidal Transceiver
+DS3897 BTL Trapezoidal Transceiver
+DS3898 BTL Octal Trapezoidal Repeater
+DS7640 Quad NOR Unified Bus Receiver
+DS7641 Quad Unified Bus Transceiver
+DS7800 Dual Voltage Level Translator
+DS78L12 Hex TTL-MOS Inverter/Interface Gate
+DS7820 Dual Line Receiver
+DS7820A Dual Line Receiver
+DS78C20 Dual CMOS Compatible Differential Line Receiver
+MM78C29 Quad Single-Ended Line Driver
+DS7830 Dual Differential Line Driver
+MM78C30 Quad Differential Line Driver
+DS7831 Dual TRI-STATE Line Driver
+DS7832 Dual TRI-STATE Line Driver
+DS7833 Quad TRI-STATE Bus Transceiver
+DS7834 Quad TRI-STATE Bus Transceiver
+DS7835 Quad TRI-STATE Bus Transceiver
+DS7836 Quad NOR Unified Bus Receiver
+DS7837 Hex United Bus Receiver
+DS7838 Quad Unified Bus Transceiver
+DS7839 Quad TR I-ST ATE Bus Transceiver
+DS7880 High Voltage ?-Segment Decoder/Driver
+DS78C120 Dual CMOS Compatible Differential Line Receiver
+DS78LS120 Dual Differential Line Receiver (Noise Filtering and Fail Safe
+DS8614 130/225 MHz Low Power Dual Modulus Prescaler
+DS8615 130/225 MHz Low Power Dual Modulus Prescaler
+DS8616 130/225 MHz Low Power Dual Modulus Prescaler
+DS8617 130/225 MHz Low Power Dual Modulus Prescaler
+DS8627 130/225 MHz Low Power Prescaler
+DS8628 130/225 MHz Low Power Prescaler
+DS8640 Quad NOR Unified Bus Receiver
+DS8641 Quad Unified Bus Transceiver
+DS8654 8-0utput Display Driver (LED, VF, Thermal Printer
+DS8669 2-Digit BCD to ?-Segment Decoder/Driver
+DS8673 Low Power VHF/UHF Prescaler
+DS8674 Low Power VHF /UHF Prescaler
+DS8800 Dual Voltage Level Translator
+DS88L12 Hex TTL-MOS Inverter/Interface Gate
+DS8820 Dual Line Receiver
+DS8820A Dual Line Receiver
+DS88C20 Dual CMOS Compatible Differential Line Receiver
+MM88C29 Quad Single-Ended Line Driver
+DS8830 Dual Differential Line Driver
+MM88C30 Quad Differential Line Driver
+DS8831 Dual TRI-STATE Line Driver
+DS8832 Dual TRI-STATE Line Driver
+DS8833 Quad TRI-STATE Bus Transceiver
+DS8834 Quad TRI-STATE Bus Transceiver
+DS8835 Quad TRI-STATE Bus Transceiver
+DS8836 Quad NOR Unified Bus Receiver
+DS8837 Hex United Bus Receiver
+DS8838 Quad Unified Bus Transceiver
+DS8839 Quad TRI-STATE Bus Transceiver ............ 2-11 O
+DS8863 MOS-to-LED 8-Digit Driver
+DS8870 Hex LED Digit Driver
+DS8874 9-Digit Shift Input LED Driver
+DS8880 High Voltage ?-Segment Decoder/Driver
+DS8884A High Voltage Cathode Decoder/Driver
+DS88C120 Dual CMOS Compatible Differential Line Receiver
+DS88LS120 Dual Differential Line Receiver (Noise Filtering and Fail Safe
+DS8906 AM/FM Digital Phase-Locked Loop Synthesizer
+DS8907 AM/FM Digital Phase-Locked Loop Frequency Synthesizer
+DS8908B AM/FM Digital Phase-Locked Loop Frequency Synthesizer
+DS8911 AM/FM/TV Sound Up-Conversion Frequency Synthesizer
+DS8913 AM/FM/TV Sound Up-Conversion Frequency Synthesizer
+DS8921 Differential Line Driver and Receiver Pair
+DS8921A Differential Line Driver and Receiver Pair
+DS8921AT Differential Line Driver and Receiver Pair
+DS8921T Differential Line Driver and Receiver Pair
+DS8922 TRI-STATE RS-422 Dual Differential Line Driver and Receiver Pair
+DS8922A TRI-STATE RS-422 Dual Differential Line Driver and Receiver Pair
+DS8923 TRI-STATE RS-422 Dual Differential Line Driver and Receiver Pair
+DS8923A TRI-STATE RS-422 Dual Differential Line Driver and Receiver Pair
+DS8924 Quad TRI-STATE Differential Line Driver
+DS8963 MOS-to-LED 8-Digit Driver
+DS8973 9-Digit LED Driver
+DS9614 Dual Differential Line Driver (See DS55114 Datasheet)
+DS9615 Dual Differential Line Receiver (See DS55115 Datasheet)
+DS9616H Triple Line Driver
+DS9622 Dual Line Receiver
+DS9627 Dual Line Receiver
+DS9636A RS-423 Dual Programmable Slew Rate Line Driver
+DS9637A Dual Differential Line Receiver
+DS9638 RS-422 Dual High Speed Differential Line Driver
+DS9639A Dual Differential Line Receiver
+DS9665 High Current/Voltage Darlington Driver
+DS9666 High Current/Voltage Darlington Driver
+DS9667 High Current/Voltage Darlington Driver
+DS9668 High Current/Voltage Darlington Driver
+DS16149 Hex MOS Driver
+DS16179 Hex MOS Driver
+DS36149 Hex MOS Driver
+DS36179 Hex MOS Driver
+DS36950 Quad Differential Bus Transceiver
+DS55107 Dual Line Receiver
+DS55107A Dual Line Receiver (See DS55107 Datasheet)
+DS55108 Dual Line Receiver
+DS55110A Dual Line Driver
+DS55113 Dual TRI-STATE Differential Line Driver
+DS55114 Dual Differential Line Driver
+DS55115 Dual Differential Line Receiver
+DS55121 Dual Line Driver
+DS55122 Triple Line Receiver
+DS55325 Memory Driver
+DS55451 Series Dual Peripheral Driver
+DS55452 Series Dual Peripheral Driver
+DS55453 Series Dual Peripheral Driver
+DS55454 Series Dual Peripheral Driver
+DS55461 Series Dual Peripheral Driver
+DS55462 Series Dual Peripheral Driver
+DS55463 Series Dual Peripheral Driver
+DS55464 Series Dual Peripheral Driver
+DS55493 Quad LED Segment Driver
+DS55494 Hex Digit Driver
+DS75107 Dual Line Receiver
+DS75108 Dual Line Receiver
+DS7511OA Dual Line Driver
+DS75113 Dual TRI-STATE Differential Line Driver
+DS75114 Dual Differential Line Driver
+DS75115 Dual Differential Line Receiver
+DS75121 Dual Line Driver
+DS75123 Dual Line Driver ........................... 1·-166
+DS75124 Triple Line Receiver
+DS75128 Eight-Channel Line Receiver
+DS75129 Eight-Channel Line Receiver
+DS75150 Dual Line Driver
+DS75154 Quad Line Receiver
+DS75160A IEEE-488 GPIB Transceiver
+DS75161A IEEE-488 GPIB Transceiver
+DS75162A IEEE-488 GPIB Transceiver
+DS751768 Multipoint RS-485/RS-422 Transceiver
+DS75176BT Multipoint RS-485/RS-422 Transceiver
+DS75208 Dual Line Receiver
+DS75325 Memory Driver
+DS75361 Dual TTL-to-MOS Driver
+DS75365 Quad TTL-to-MOS Driver
+DS75450 Series Dual Peripheral Driver
+DS75451 Series Dual Peripheral Driver
+DS75452 Series Dual Peripheral Driver
+DS75453 Series Dual Peripheral Driver
+DS75454 Series Dual Peripheral Driver
+DS75461 Series Dual Peripheral Driver
+DS75462 Series Dual Peripheral Driver
+DS75463 Series Dual Peripheral Driver
+DS75464 Series Dual Peripheral Driver
+DS75491 MOS-to-LED Quad Segment Driver
+DS75492 MOS-to-LED Hex Digit Driver
+DS75493 Quad LED Segment Driver
+DS75494 Hex Digit Driver
+DS96172 RS-485/RS-422 Quad Differential Line Driver
+DS96F172 RS-485/RS-422 Quad Differential Driver
+DS96173 RS-485/RS-422 Quad Differential Line Receiver
+DS96F173 RS-485/RS-422 Quad Differential Receiver
+DS96174 RS-485/RS-422 Quad Differential Line Driver
+DS96F174 RS-485/RS-422 Quad Differential Driver
+DS96175 RS-485/RS-422 Quad Differential Line Receiver
+DS96F175 RS-485/RS-422 Quad Differential Receiver
+DS96176 RS-485/RS-422 Differential Bus Transceiver
+DS96177 RS-485/RS-422 Differential Bus Repeater
+MM5034 Octal 80-Bit Static Shift Register
+MM5035 Octal 80-Bit Static Shift Register
+MM5368 CMOS Oscillator Divider Circuit
+MM5369 Series 17 Stage Oscillator/Divider
+MM5437 Digital Noise Source
+MM5450 LED Display Driver
+MM5451 LED Display Driver
+MM5452 Liquid Crystal Display Driver
+MM5453 Liquid Crystal Display Driver
+MM5480 LED Display Driver
+MM5481 LED Display Driver
+MM5483 Liquid Crystal Display Driver
+MM5484 16-Segment LED Display Driver
+MM5486 LED Display Driver  
+MM54240 Asynchronous Receiver/Transmitter Remote Controller
+MM58201 Multiplexed LCD Driver
+MM58241 High Voltage Display Driver
+MM58242 High Voltage Display Driver
+MM58248 High Voltage Display Driver
+MM58341 High Voltage Display Driver
+MM58342 High Voltage Display Driver
+MM58348 High Voltage Display Driver
+µA9614 Dual Differential Line Driver (See DS55114 Datasheet)
+µA9615 Dual Differential Line Receiver (See DS55115 Datasheet)
+µA9616H Triple Line Driver
+µA9622 Dual Line Receiver
+µA9627 Dual Line Receiver
+µA9636A RS-423 Dual Programmable Slew Rate Line Driver
+µA9637A Dual Differential Line Receiver
+µA9638 RS-422 Dual High Speed Differential Line Driver
+µA9639A Dual Differential Line Receiver
+µA55110A Dual Line Driver
+µA7511 OA Dual Line Driver
+µA96172 RS-485/RS-422 Quad Differential Line Driver
+µA96173 RS-485/RS-422 Quad Differential Line Receiver
+µA96174 RS-485/RS-422 Quad Differential Line Driver
+µA96175 RS-485/RS-422 Quad Differential Line Receiver
+µA96176 RS-485/RS-422 Differential Bus Transceiver
+µA96177 RS-485/RS-422 Differential Bus Repeater
+DP8400-2 E2C2 Expandable Error Checker/Corrector  
+DP8402A 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
+DP8403 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
+DP8404 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
+DP8405 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
+DP8408A Dynamic RAM Controller/Driver  
+DP8409A Multi-Mode Dynamic RAM Controller/Driver  
+DP8417 64k Dynamic RAM Controller/Driver  
+DP8418 64k Dynamic RAM Controller/Driver  
+DP8419 256k Dynamic RAM Controller/Driver  
+DP8419X 256k Dynamic RAM Controller /Driver  
+DP8420A microCMOS Programmable 256k Dynamic RAM Controller/Driver  
+DP8421A microCMOS Programmable 1 M Dynamic RAM Controller/Driver  
+DP8422A microCMOS Programmable 4M Dynamic RAM Controller/Driver  
+DP8428 1 Megabit High Speed Dynamic RAM Controller/Driver
+DP8429 1 Megabit High Speed Dynamic RAM Controller/Driver  
+DP8520A microCMOS Programmable 256k Video RAM Controller/Driver
+DP8521A microCMOS Programmable 1 M Video RAM Controller/Driver 
+DP8522A microCMOS Programmable 4M Video RAM Controller/Driver(s)
+DP8570A Timer Clock Peripheral (TCP)  
+DP8571A Timer Clock Peripheral (TCP)
+DP8572A Real Time Clock (RTC)  
+DP8573A Real Time Clock (RTC)  
+DP84300 Programmable Refresh Timer  
+DP84322 Dynamic RAM Controller Interface Circuit for the 68000 CPU  
+DP84412 Dynamic RAM Controller Interface Series Circuit for the Series 32000 CPU 
+DP84422 Dynamic RAM Controller Interface Circuit for the 68000/008/01O CPUs  
+DP84432 Dynamic RAM Controller Interface Circuit for the 8086/8088/80186/80188 CPUs 
+DP84512 Dynamic RAM Controller Interface Circuit for the NS32332  
+DP84522 Dynamic RAM Controller Interface Circuit for the 68020 CPU  
+DP84532 Dynamic RAM Controller Interface Circuit for the iAPX 286 CPU  
+MM58167A Microprocessor Real Time Clock
+MM58274C Microprocessor Compatible Real Time Clock
+NS32CG821 microCMOS Programmable 1 M Dynamic RAM Controller/Driver
+LM710,C,CN Voltage Comparator
+LV8571A Low Voltage Timer Clock Peripheral (TCP)
+LV8572A Low Voltage Real Time Clock (RTC)
+LV8573A Low Voltage Real Time Clock (RTC)
+DP8570A Timer Clock Peripheral (TCP)
+DP8571A Timer Clock Peripheral (TCP)
+DP8572A/DP8572AM Real Time Clock (RTC)
+DP8573A Real Time Clock (RTC)
+MM58274C-12 Microprocessor Compatible Real Time Clock
+MM58274C MicroprocessorCompatible Real Time Clock
+MM58174A Microprocessor Compatible Real Time Clock
+MM58167B Microprocessor Real Time Clock
+NS32FX211 Microprocessor Compatible Real Time Clock

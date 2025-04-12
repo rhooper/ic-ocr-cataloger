@@ -1,0 +1,103 @@
+MC1372 Color Television Modulator
+MC2670 Display Character and Graphics Generator
+MC2671 Programmable Keyboard and Communications Controller
+MC2672 Programmable Video Timing Controller
+MC2673 Video Attributes Controller
+MC2674 Advanced Video Display Controller
+MC2675 Color/Monochrome Attributes Controller
+MC3440A Quad Interface Bus Transceiver
+MC3441A Quad Interface Bus Transceiver
+MC3443A Quad Interface Bus Transceiver
+MC3446A Quad Bidirectional Bus Transceiver
+MC3447 Octal Bidirectional Instrumentation Bus (GPIB) Transceiver
+MC3448A Quad Bidirectional Instrumentation Bus (GPIB) Transceiver
+MC3870 8-Bit Single-Chip Microcontroller
+MC6800 8-Bit Microprocessor Unit
+MC6801 8-Bit Microcomputer Unit
+MC6801U4 8-Bit Microcomputer Unit
+MC6802 8-Bit Microprocessor with Clock and Optional RAM
+MC6802NS 8-Bit Microprocessor with Clock and Optional RAM
+MC6803 8-Bit Microprocessor Unit
+MC6803E 8-Bit Microprocessor
+MC6803U4 8-Bit Microprocessor Unit
+MC6804J2 8-Bit Microcomputer
+MC6804P2 8-Bit Microcomputer
+MC68HC04P2 8-Bit HCMOS Microcomputer Unit
+MC68HC04P3 8-Bit HCMOS Microcomputer Unit
+MC6805K2 8-Bit Microcomputer Unit with Serial Peripheral Interface and Two Timers
+MC6805K3 8-Bit Microcomputer Unit with A/D Converter, Serial Peripheral Interface, and Two Timers
+MC6805P2 8-Bit HMOS 1 K Microcomputer
+MC6805P4 8-Bit HMOS 2K Microcomputer
+MC6805P6 M C68(7)05R/U 8-Bit Microcomputer
+MC6805R2 8-Bit Microcomputer
+MC6805R3 8-Bit Microcomputer
+MC6805S2 8-Bit Microcomputer Unit with A/D Converter, Serial Peripheral Interface, and Three Timers
+MC6805T2 8-Bit HMOS 2K Microcomputer with PLL
+MC6805U2 8-Bit Microcomputer
+MC6805U3 8-Bit Microcomputer
+MC68HC05C4 8-Bit HCMOS Microcomputer
+MC6808 8-Bit Microprocessor with Clock and Optional RAM
+MC6809 8-Bit Microprocessing Unit
+MC6809E 8-Bit Microprocessor Unit
+MC68HC09E 8-Bit HCMOS Microprocessing Unit
+MCM6810 128 x 8-Bit Static Random Access Memory
+MC68HC11A4 8-Bit Microcomputer
+MC6821 Peripheral Interface Adapter
+MC6822 Industrial Interface Adapter
+MC6829 Memory Management Unit
+MCM68HC34 Dual-Port Memory Unit
+MC6835 Mask Programmed CRTC Controller
+MCM6836E16 128K Combination ROM/EEPROM Memory
+MCM6836R16 128K Combination ROM/EEPROM Memory
+MC6839 Floating-Point ROM
+MC6840 Programmable Timer
+MC6844 Direct Memory Access Controller
+MC6845 CRT Controller (CRTC)
+MC6846 ROM-I/O-Timer
+MC6847 Video Display Generator
+MC6847Y Video Display Generator
+MC6850 Asynchronous Communications Interface Adapter
+MC68HC51 Asynchronous Communications Interface Adapter
+MC6852 Synchronous Serial Data Adapter
+MC68HC53 Asynchronous Communication Interface Adapter
+MC6854 Advanced Data-Link Controller
+MC6859 Data Security Device
+MC68HC68A1 Serial 1 O-Bit A/D Converter
+MC68HC68R1 8-Bit Serial Static RAM
+MC68HC68R2 8-Bit Serial Static RAM
+MC68HC68T1 Real-Time Clock plus RAM and Power Sense/Control
+MC6875 Two-Phase Clock Generator
+MC6875A Two-Phase Clock Generator
+MC6880A/MC8T26A Quad Bus Transceiver
+MC6882A Octal Buffer/Latch
+MC6882B Octal Buffer/Latch
+MC3482A Octal Buffer/Latch
+MC3482B Octal Buffer/Latch
+MC6883/SN74LS783 Synchronous Address Multiplier
+MC6885/MC8T95 Hex Address Buffer
+MC6886/MC8T96 Hex Address Buffer
+MC6887/MC8T97 Hex Address Buffer
+MC6888/MC8T98 Hex Address Buffer
+MC6889/MC8T28 Quad Bus Transceiver
+MC6890 8-Bit MPU D/A Converter
+MC68120 Intelligent Peripheral Interface
+MC68121 Intelligent Peripheral Interface
+MC68701 EPROM Microcomputer
+MC68701U4 8-Bit EPROM Microcomputer
+MC68705P3 8-Bit EPROM Microcomputer
+MC68705P5 8-Bit EPROM Microcomputer
+MC68705R3 8-Bit EPROM Microcomputer
+MC68705R5 8-Bit EPROM Microcomputer
+MC68705U3 8-Bit EPROM Microcomputer
+MC68705U5 8-Bit EPROM Microcomputer
+MC146805E2 8-Bit CMOS Microprocessor
+MC146805E3 8-Bit CMOS Microprocessor
+MC146805F2 8-Bit CMOS Microcomputer
+MC146805G2 8-Bit CMOS Microcomputer
+MC146805H2 8-Bit CMOS Microcomputer
+MC146818 CMOS Real-Time Clock plus RAM
+MC146823 CMOS Parallel Interface
+MC1468705F2 8-Bit CMOS Microcomputer with EPROM
+MC1468705G2 8-Bit CMOS Microcomputer with EPROM
+TCA5600 Universal Microprocessor Power Supply Controller
+TCF5600 Universal Microprocessor Power Supply Controller

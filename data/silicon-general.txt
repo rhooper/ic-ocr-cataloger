@@ -1,0 +1,476 @@
+SG003-2.7 Voltage Reference 2.7V
+SG003-3.9 Voltage Reference 3.9V
+SG003-4.7 Voltage Reference 4.7V
+SG040 Two Channel Video Amplifier
+SG101A Uncompensated Operational-Amplifier
+SG103-1.8 Voltage Reference 1.8V
+SG103-2.0 Voltage Reference 2.0V
+SG103-2.2 Voltage Reference 2.2V
+SG103-2.4 Voltage Reference 2.4V
+SG103-2.7 Voltage Reference 2.7V
+SG103-3.0 Voltage Reference 3.0V
+SG103-3.3 Voltage Reference 3.3V
+SG103-3.6 Voltage Reference 3.6V
+SG103-3.9 Voltage Reference 3.9V
+SG103-4.3 Voltage Reference 4.3V
+SG103-4.7 Voltage Reference 4.7V
+SG103-5.6 Voltage Reference 5.6V
+SG103-5.1 Voltage Reference 5.W
+SG104 Neg. Adjustable Voltage Regulator
+SG105 Pos. Adjustable Voltage Regulator
+SG107 Compensated Operational Amplifier
+SG109 Pos. Fixed Voltage Regulator 5.0V
+SG111 Voltage Comparator
+SG117 Pos. Adjustable Voltage Regulator
+SG1173 3.5A Power Operational Amplifier
+SG117A Pos. Adjustable Voltage Regulator
+SG117AHV Pos. Adjustable High Voltage Regulator
+SG117HV Pos. Adjustable High Voltage Regulator
+SG120-12 Neg. Fixed Voltage Regulator 12V
+SG120-15 Neg. Fixed Voltage Regulator 15V
+SG120-18  Neg. Fixed Voltage Regulator 1BV
+SG120-20 Neg. Fixed Voltage Regulator 20V
+SG120-5 Neg. Fixed Voltage Regulator 5.0V
+SG120-5.2 Neg. Fixed Voltage Regulator 5.2V
+SG120-8 Neg. Fixed Voltage Regulator B.OV
+SG120A-12 Neg. Fixed Voltage Regulator 12V
+SG120A-15 Neg. Fixed Voltage Regulator 15V
+SG120A-5 Neg. Fixed Voltage Regulator 5.0V
+SG137 1.5A Neg. Adjustable Regulator
+SG137A 1.5A Neg. Adjustable Regulator
+SG138 SA Pos. Adjustable Regulator
+SG138A 5A Pos. Adjustable Regulator
+SG140-12 Pos. Fixed Voltage Regulator 12V
+SG140-15 Pos. Fixed Voltage Regulator 15V
+SG140-18 Pos. Fixed Voltage Regulator 1BV
+SG140-24 Pos. Fixed Voltage Regulator 24V
+SG140-5 Pos. Fixed Voltage Regulator 5.0V
+SG140-6 Pos. Fixed Voltage Regulator 6.0V
+SG140-8 Pos. Fixed Voltage Regulator B.OV
+SG140A-12 Pos. Fixed Voltage Regulator 12V
+SG140A-15 Pos. Fixed Voltage Regulator 15V
+SG140A-5 Pos. Fixed Voltage Regulator 5.0V
+SG143 High Voltage Operational Amplifier
+SG1436 High Voltage Operational Amplifier
+SG1489 Quad RS-232C Line Receiver
+SG1489A Quad RS-232C Line Receiver
+SG1495 4 - Quadrant Multiplier
+SG1496 Balanced Modulator/Demodulator
+SG150 3A Positive Adjustable Regulator
+SG1501A Fixed Dual Voltage Tracking Regulator
+SG1502 Adjustable Dual Voltage Tracking Regulator
+SG1503 Precision 2.5V Reference
+SG150A 3A Positive Adjustable Regulator
+SG1524 Voltage Mode Pulse Width Modulator
+SG1524B Voltage Mode Pulse Width Modulator
+SG1526 Voltage Mode Pulse Width Modulator
+SG1526B Voltage Mode Pulse Width Modulator
+SG1527A Voltage Mode Pulse Width Modulator
+SG1528 High Speed Current Mode PWM
+SG1529 Voltage Mode Pulse Width Modulator
+SG1530 High Speed Current Mode PWM
+SG1548 Quad Power Fault Monitor
+SG1557 Magnetic Amplilier Controller
+SG1559 Magnetic Amplifier Controller
+SG1560 Magnetic Amplifier Controller
+SG1568 Fixed Dual Voltage Tracking Regulator
+SG1595 4 - Quadrant Multiplier
+SG1596 Balanced Modulator/Demodulator
+SG1626 Dual High Speed MOSFET Driver
+SG1629 High Current Floating Switch Driver
+SG1635A 2A Half - Bridge Driver
+SG1644 Dual HigH Speed MOSFET Driver
+SG1650 2A Hall - Bridge Driver
+SG1731 DC Motor Pulse Width Modulator
+SG1825 High Speed Current Mode PWM
+SG1840 Programmable, Off-Line PWM Controller
+SG1846 Current Mode Pulse Width Modulator
+SG1847 Current Mode Pulse Width Modulator
+SG2001 High Voltage, Medium Current Driver Array
+SG2002 High Voltage, Medium Current Driver Array
+SG2003 High Voltage, Medium Current Driver Array
+SG2004 High Voltage, Medium Current Driver Array
+SG2005 High Voltage, Medium Current Driver Array
+SG2011 High Voltage, Medium Current Driver Array
+SG2012 High Voltage, Medium Current Driver Array
+SG2013 High Voltage, Medium Current Driver Array
+SG2014 High Voltage, Medium Current Driver Array
+SG2015 High Voltage, Medium Current Driver Array
+SG201A Uncompensated Operational Amplifier
+SG2021 High Voltage, Medium Current Driver Array
+SG2022 High Voltage, Medium Current Driver Array
+SG2023 High Voltage, Medium Current Driver Array
+SG2024 High Voltage, Medium Current Driver Array
+SG2025 High Voltage, Medium Current Driver Array
+SG203-1.8 Voltage Reference 1.BV
+SG203-2.0 Voltage Reference 2.0V
+SG203-2.2 Voltage Reference 2.2V
+SG203-2.4 Voltage Reference 2.4V
+SG203-2.7 Voltage Reference 2.7V
+SG203-3.0 Voltage Reference 3.0V
+SG203-3.3 Voltage Reference 3.3V
+SG203-3.6 Voltage Reference 3.6V
+SG203-3.9 Voltage Reference 3.9V
+SG203-4.3 Vo~age Reference 4.3V
+SG203-4.7 Voltage Reference 4.7V
+SG203-5.1 Voltage Reference S.1 V
+SG203-5.6 Voltage Reference 5.6V
+SG204 Neg. Adjustable Voltage Regulator
+SG205 Pos. Adjustable Voltage Regulator
+SG2064 Quad 1.5A Darlington Switches
+SG2065 Quad 1.5A Darlington Switches
+SG2066 Quad 1.5A Darlington Switches
+SG2067 Quad 1.5A Darlington Switches
+SG2068 Quad 1.5A Darlington Switches
+SG2069 Quad 1.5A Darlington Switches
+SG207 Compensated Operational Amplifier
+SG2070 Quad 1.5A Darlington Switches
+SG2071 Quad 1.5A Darlington Switches
+SG2074 Quad 1.5A Darlington Switches
+SG2075 Quad 1.5A Darlington Switches
+SG2076 Quad 1.5A Darlington Switches
+SG2077 Quad 1.5A Darlington Switches
+SG2101A Dual Uncompensated Operational Amplifier
+SG211 Voltage Comparator
+SG2111 Dual Voltage Comparator
+SG217 Pos. Adjustable Voltage Regulator
+SG2172 3.0A Power Operational Amplifier
+SG2173 3.5A Power Operational Amplifier
+SG217A Pos. Adjustable Voltage Regulator
+SG217AHV Pos. Adjustable High Voltage Regulator
+SG217HV Pos. Adjustable High Voltage Regulator
+SG237 1.5A Neg. Adjustable Voltage Regulator
+SG237A 1.5A Neg. Adjustable Voltage Regulator
+SG238 SA Pos. Adjustable Regulator
+SG238A SA Pos. Adjustable Regulator
+SG2401 High Frequency Video Amplifier
+SG2402 Variable Gain Wideband Amplifier/Multiplier
+SG250 3A Positive Adjustable Regulator
+SG2501A Fixed Dual Voltage Tracking Regulator
+SG250A 3A Positive Adjustable Regulator
+SG301A Uncompensated Operational Amplifier
+SG303-1.8 Voltage Reference 1.BV
+SG303-2.0 Voltage Reference 2.0V
+SG303-2.2 Voltage Reference 2.2V
+SG303-2.4 Voltage Reference 2.4V
+SG303-3.& Voltage Reference 3.6V
+SG303-3.0 Voltage Reference 3.0V
+SG303-3.3 Voltage Reference 3.3V
+SG303-4.3 Voltage Reference 4.3V
+SG303-5.1 Voltage Reference 5.1 V
+SG303-5.6 Voltage Reference 5.6V
+SG304 Neg. Adjustable Voltage Regulator
+SG305 Pos. Adjustable Voltage Regulator
+SG305A Pos. Adjustable Voltage Regulator
+SG307 Compensated Operational Amplifier
+SG309 Pos. Fixed Voltage Regulator 5.0V
+SG311 Voltage Comparator
+SG317 Pos. Adjustable Voltage Regulator 
+SG317A Pos. Adjustable Voltage Regulator
+SG317AHV Pos. Adjustable High Voltage Regulator
+SG317HV Pos. Adjustable High Voltage Regulator
+SG320-12 Neg. Fixed Voltage Regulator 12V
+SG320-15 Neg. Fixed Voltage Regulator 15V
+SG320-18 Neg. Fixed Voltage Regulator 1BV
+SG320-20 Neg. Fixed Voltage Regulator 20V
+SG320-5 Neg. Fixed Voltage Regulator 5.0V
+SG320-5.2 Neg. Fixed Voltage Regulator 5.2V
+SG320-8 Neg. Fixed Voltage Regulator B.OV
+SG320A-12 Neg. Fixed Voltage Regulator 12V
+SG320A-15 Neg. Fixed Voltage Regulator 15V
+SG320A-5 Neg. Fixed Voltage Regulator 5.0V
+SG337 1.5A Negative Adjustable Regulator
+SG337A 1.5A Negative Adjustable Regulator
+SG338 5A Positive Adjustable Regulator
+SG338A 5A Positive Adjustable Regulator
+SG340-12 Pos. Fixed Voltage Regulator 12V
+SG340-15 Pos. Fixed Voltage Regulator 15V
+SG340-18 Pos. Fixed Voltage Regulator 18V
+SG340-24 Pos. Fixed Voltage Regulator 24V
+SG340-5 Pos. Fixed Voltage Regulator 5.0V
+SG340-6 Dual High Current Output Driver 
+SG340-6 Pos. Fixed Voltage Regulator 6.0V 
+SG340-8 Pos. Fixed Voltage Regulator 8.0V
+SG340A-12 Pos. Fixed Voltage Regulator 12V
+SG340A-15 Pos. Fixed Voltage Regulator 15V
+SG340A-5 Pos. Fixed Voltage Regulator 5.0V 
+SG343 High Voltage Operational Amplifier
+SG350 3A Positive Adjustable Regulator
+SG350A 3A Positive Adjustable Regulator
+SG508 Quad - NAND Driver
+SG510A4 Read/Write Amplifier
+SG510AR4 Read/Write Amplifier
+SG541 Read Data Processor
+SG723 Precision Pos. Adjustable Voltage Regulator
+SG723C Precision Pos. Adjustable Voltage Regulator
+SG741 Compensated Operational Amplifier
+SG741C Compensated Operational Amplifier
+SG1401 High Frequency Video Amplifier
+SG1402 Variable Gain, Wideband Amplifier/Multiplier
+SG1468 Fixed Dual Voltage Tracking Regulator
+SG1488 Quad RS-232C line Driver
+SG1525A Voltage Mode Pulse Width Modulator
+SG1532 Precision Pos. Adjustable Voltage Regulator
+SG1536 High Voltage Operational Amplifier
+SG1540 Off - Line Start-Up Controller
+SG1542 Voltage Sensing Circuit
+SG1543 Power Supply Output Supervisory Circuit
+SG1544 Low Voltage Supervisory Circuit
+SG1549 Current Sense Latch
+SG1635 2A Half - Bridge Driver
+SG1842 Current Mode Pulse Width Modulator
+SG1843 Current Mode Pulse Width Modulator
+SG1844 Current Mode Pulse Width Modulator
+SG1845 Current Mode Pulse Width. Modulator
+SG2502 Adjustable Dual Voltage Tracking Regulator
+SG3402 Variable Gain Wideband Amplifier/Multiplier
+SG2503 Precision 2.5V Reference
+SG3423 Voltage Sensing Circuit
+SG2524 Voltage Mode Pulse Width Modulator
+SG3423A Voltage Sensing Circuit
+SG2524B Voltage Mode Pulse Width Modulator
+SG3501A Fixed Dual Voltage Tracking Regulator
+SG2525A Voltage Mode Pulse Width Modulator
+SG3502 Adjustable Dual Vottage Tracking Regulator
+SG2526 Vottage Mode Pulse Width Modulator
+SG3503 Precision 2.5V Reference
+SG2526B Voltage Mode Pulse Width Modulator
+SG3523 Voltage Sensing Circuit
+SG2527A Voltage Mode Pulse Width Modulator
+SG3523A Voltage Sensing Circuit
+SG2526 High Speed Current Mode PWM
+SG3524 Voltage Mode Pulse Width Modulator
+SG2529 Voltage Mode Pulse Width Modulator
+SG3524B Voltage Mode Pulse Width Modulator
+SG2530 High Speed Current Mode PWM
+SG3525A Voltage Mode Pulse Width Modulator
+SG2532 Precision Pos. Adjustable Voltage Regulator
+SG3526 Voltage Mode Pulse Width Modulator
+SG2540 Off-Line Start-Up Controller
+SG3526B Voltage Mode Pulse Width Modulator
+SG2542 Voltage Sensing Circuit
+SG3527A Voltage Mode Pulse Width Modulator
+SG2543 Power Supply Output Supervisory Circuit
+SG3528 High Speed Current Mode PWM
+SG2544 Low Voltage Supervisory Circuit
+SG3529 Voltage Mode Pulse Width Modulator
+SG2548 Quad Power Fault Monitor
+SG3530 High Speed Current Mode PWM
+SG2549 Current Sense Latch
+SG3532 Precision Pos. Adjustable Voltage Regulator
+SG2557 Magnetic Amplifier Controller
+SG3540 Off-Line Start-Up Controller
+SG2559 MagnetiC Amplifier Controller
+SG3542 Voltage Sensing Circuit
+SG2560 Magnetic Amplifier Controller
+SG3543 Power Supply Output Supervisory Circuit
+SG2626 Dual High Speed MOSFET Driver
+SG3544 Low Voltage Supervisory Circuit
+SG2644 Dual High Speed MOSFET Driver
+SG3548 Quad Power Fault Monitor
+SG2731 DC Motor Pulse Width Modulator
+SG3549 Current Sense Latch
+SG2601 High Voltage Medium Current Driver Array
+SG3557 Magnetic Amplifier Controller
+SG2602 High Voltage Medium Current Driver Array
+SG3559 MagnetiC Amplifier Controller
+SG2803 High Voltage Medium Current Driver Array
+SG3560 Magnetic Amplifier Controller
+SG2804 High Voltage Medium Current Driver Array
+SG3626 Dual High Speed MOSFET Driver
+SG2605 High Voltage Medium Current Driver Array
+SG3627 Dual High Current Output Driver
+SG2811 High Voltage Medium Current Driver Array
+SG3629 High Current Floating Switch Driver
+SG2812 High Voltage Medium Current Driver Array
+SG3635 2A Half Bridge Driver
+SG2813 High Voltage Medium Current Driver Array
+SG3635A 2A Half Bridge Driver
+SG2814 High Voltage Medium Current Driver Array
+SG3644 Dual High Speed MOSFET Driver
+SG2815 High Voltage Medium Current Driver Array
+SG3545 Quad 2.5A Power Driver
+SG2821 High Voltage Medium Current Driver Array
+SG3650 2A Half Bridge Driver
+SG2822 High Voltage Medium Current Driver Array
+SG3663 Dual Solenoid / Motor Driver
+SG2823 High Voltage Medium Current Driver Array
+SG3700 Dual Hammer Driver
+SG2824 High Voltage Medium Current Driver Array
+SG3718 High Current Stepper Motor Driver
+SG2825 High Speed Current Mode PWM
+SG3731 DC Motor Pulse Width Modulator
+SG2840 Programmable. Off-Line PWM Controller
+SG3821 Matched NPN Transistor Arrays
+SG2842 Current Mode Pulse Width Modulator
+SG3825 High Speed Current Mode PWM
+SG2843 Current Mode Pulse Width Modulator
+SG3840 Programmable Off-Line PWM Controller
+SG2844 Current Mode Pulse Width Modulator
+SG3842 Current Mode Pulse Width Modulator
+SG2845 Current Mode Pulse Width Modulator
+SG3843 Current Mode Pulse Width Modulator
+SG2846 Current Mode Pulse Width Modulator
+SG3844 Current Mode Pulse Width Modulator
+SG2847 Current Mode Pulse Width Modulator
+SG3845 Current Mode Pulse Width Modulator
+SG3045 Matched NPN Transistor Arrays
+SG3846 Current Mode Pulse Width Modulator
+SG3046 Matched NPN Transistor Arrays
+SG3847 Current Mode Pulse Width Modulator
+SG3049 Dual High Frequency Operational Amplifier
+SG4501 Fixed Voltage Dual Tracking Regulator
+SG3086 Matched NPN Transistor Arrays
+SG5524 Dual Sense Amplifier
+SG3172 3.0A Power Operational Amplifier
+SG5534 Dual Sense Amplifier
+SG3173 3.5A Power Operational Amplifier
+SG5768 Diode Array Circuits
+SG3183 High Current NPN Transistor Array
+SG5768A Diode Array Circuits
+SG3212 Dual Diode Bridge
+SG5770 Diode Array Circuits
+SG3272 Dual Power Operational Amplifier
+SG5770A Diode Array Circuits
+SG3401 High Frequency Video Amplifier
+SG5772 Diode Array Circuits
+SG5772A Diode Array Circuits
+SG7915 Neg. Fixed Voltage Regulator 15V
+SG5774 Diode Array Circuits
+SG7915C Neg. Fixed Voltage Regulator 15V
+SG5774A Diode Array Circuits
+SG7915A Neg. Fixed Voltage Regulator 15V
+SG5792 Quad PIN Diode Driver
+SG7915AC Neg. Fixed Voltage Regulator 15V
+SG5793 Quad PIN Diode Driver
+SG7918 Neg. Fixed Voltage Regulator 18V
+SG6100 Diode Array Circuits
+SG7918C Neg. Fixed Voltage Regulator 18V
+SG6101 Diode Array Circuits
+SG6496 Diode Array Circuits
+SG7918A Neg. Fixed Voltage Regulator 18V
+SG7918AC Neg. Fixed Voltage Regulator 18V
+SG7805 Pos. Fixed Voltage Regulator S.OV
+SG7920 Neg. Fixed Voltage Regulator 20V
+SG7805C Pos. Fixed Voltage Regulator 5.0V
+SG7920C Neg. Fixed Voltage Regulator 20V
+SG780SA Pos. Fixed Voltage Regulator 5.0V
+SG7920A Neg. Fixed Voltage Regulator 20V
+SG7805AC Pos. Fixed Voltage Regulator 5.0V
+SG7920AC Neg. Fixed Voltage Regulator 20V
+SG7806 Pos. Fixed Voltage Regulator 6.0V
+SG25768 Diode Array Circuits
+SG7806C Pos. Fixed Voltage Regulator 6.0V
+SG25770 Diode Array Circuits
+SG7806A Pos. Fixed Voltage Regulator 6.0V
+SG29055 Low Dropout Dual Regulator 5V, 5V
+SG7806AC Pos. Fixed Voltage Regulator 6.0V
+SG7808 Pos. Fixed Voltage Regulator 8.0V 4- 223
+SG290S5A Low Dropout Dual Regulator 5V, SV
+SG29085 Low Dropout Dual Regulator 8.2V, SV
+SG7808C Pos. Fixed Voltage Regulator 8.0V
+SG29085A Low Dropout Dual Regulator 8.2V, 5V
+SG7808A Pos. Fixed Voltage Regulator 8.0V
+SG29125 Low Dropout Dual Regulator 12V, 5V
+SG7808AC Pos. Fixed Voltage Regulator 8.0V
+SG29125A Low Dropout Dual Regulator 12V, 5V
+SG7812 Pos. Fixed Voltage Regulator 12V
+SG55234 Dual Sense Amplifier
+SG7812C Pos. Fixed Voltage Regulator 12V
+SG55234A Dual Sense Amplifier
+SG7812A Pos. Fixed Voltage Regulator 12V
+SG55236 Dual Sense Amplifier! Data Registers
+SG7812AC Pos. Fixed Voltage Regulator 12V
+SG55236A Dual Sense Amplifier! Data Registers
+SG7815 Pos. Fixed Voltage Regulator 15V
+SG55325 Dual Source! Dual Sink Memory Driver
+SG7815C Pos. Fixed Voltage Regulator 15V
+SG55326 Quad Sink Memory Driver
+SG7815A Pos. Fixed Voltage Regulator 15V
+SG7815AC Pos. Fixed Voltage Regulator 15V
+SG55327 Quad Source Memory Driver
+SG554508 Dual Peripheral Positive - AND Driver
+SG7818 Pos. Fixed Voltage Regulator 18V 
+SG554518 Dual Peripheral Positive - AND Driver 
+SG7818C Pos. Fixed Voltage Regulator 18V 
+SG554528 Dual Peripheral Positive - NAND Driver 
+SG7818A Pos. Fixed Voltage Regulator 18V 
+SG554538 Dual Peripheral Positive - OR Driver 
+SG7818AC Pos. Fixed Voltage Regulator 18V 
+SG554548 Dual Peripheral Positive - NOR Driver 
+SG7820 Pos. Fixed Voltage Regulator 20V 
+SG55460 Dual Peripheral Positive - AND Driver 
+SG7820C Pos. Fixed Voltage Regulator 20V 
+SG55461 Dual Peripheral Positive - AND Driver 
+SG7820A Pos. Fixed Voltage Regulator 20V 
+SG55462 Dual Peripheral Positive - NAND Driver 
+SG7820AC Pos. Fixed Voltage Regulator 20V 
+SG55463 Dual Peripheral Positive - OR Driver 
+SG7824 Pos. Fixed Voltage Regulator 24V 
+SG55464 Dual Peripheral Positive - NOR Driver 
+SG7824C Pos. Fixed Voltage Regulator 24V 
+SG55470 Dual Peripheral Positive - AND Driver 
+SG7824A Pos. Fixed Voltage Regulator 24V 
+SG55471 Dual Peripheral Positive - AND Driver 
+SG7824AC Pos. Fixed Voltage Regulator 24V
+SG55472 Dual Peripheral Positive - NAND Driver 
+SG7905 Neg. Fixed Voltage Regulator 5.0V 
+SG55473 Dual Peripheral Positive - OR Driver 
+SG7905C Neg. Fixed Voltage Regulator 5.0V 
+SG55474 Dual Peripheral Positive - NOR Driver 
+SG7905A Neg. Fixed Voltage Regulator 5.0V 
+SG75325 Memory Driver 
+SG7905AC Neg. Fixed Voltage Regulator 5.0V
+SG75326 Memory Driver
+SG7905.2 Neg. Fixed Voltage Regulator 5.2V
+SG75327 Quad Source Memory Driver
+SG7905.2C Neg. Fixed Voltage Regulator 5.2V
+SG754508 Dual Peripheral Positive - AND Driver
+SG7905.2A Neg. Fixed Voltage Regulator 5.2V
+SG754518 Dual Peripheral Positive - AND Driver
+SG7905.2AC Neg. Fixed Voltage Regulator 5.2V
+SG754528 Dual Peripheral Positive - NAND Driver
+SG7908 Neg. Fixed Voltage Regulator 8.0V
+SG754538 Dual Peripheral Positive - OR Driver
+SG790BC Neg. Fixed Voltage Regulator 8.0V
+SG754548 Dual Peripheral Positive - NOR Driver
+SG7908A Neg. Fixed Voltage Regulator B.OV
+SG75460 Dual Peripheral Positive - AND Driver
+SG7908AC Neg. Fixed Voltage Regulator 8.0V
+SG75461 Dual Peripheral Positive - AND Driver
+SG7912 Neg. Fixed Voltage Regulator 12V
+SG75462 Dual Peripheral Positive - NAND Driver
+SG7912C Neg. Fixed Voltage Regulator 12V
+SG75463 Dual Peripheral Positive - OR Driver
+SG7912A Neg. Fixed Voltage Regulator 12V
+SG75464 Dual Peripheral Positive - NOR Driver
+SG7912AC Neg. Fixed Voltage Regulator 12V
+SG75470 Dual Peripheral Positive - AND Driver
+SG74471 Dual Peripheral Positive - AND Driver
+SG75472 Dual Peripheral Positive - NAND Driver
+SG75473 Dual Peripheral Positive - OR Driver
+SG75474 Dual Peripheral Positive - NOR Driver
+SM600 Switching Regulator Power Output Stages 
+SM601 Switching Regulator Power Output Stages 
+SM602 Switching Regulator Power Output Stages 
+SM610 Switching Regulator Power Output Stages 
+SM6ll Switching Regulator Power Output Stages 
+SM612 Switching Regulator Power Output Stages 
+SM625 Switching Regulator Power Output Stages 
+SM626 Switching Regulator Power Output Stages 
+SM627 Switching Regulator Power Output Stages 
+SM635 Switching Regulator Power Output Stages 
+SM636 Switching Regulator Power Output Stages 
+SM637 Switching Regulator Power Output Stages 
+SM645 Switching Regulator Power Output Stages 
+SM646 Switching Regulator Power Output Stages 
+SM647 Switching Regulator Power Output Stages 
+SM655 Switching Regulator Power Output Stages 
+SM656 Switching Regulator Power Output Stages 
+SM657 Switching Regulator Power Output Stages 
+SM660 Switching Regulator Power Output Stages 
+SM661 Switching Regulator Power Output Stages 
+SM662 Switching Regulator Power Output Stages 
+SM670 Switching Regulator Power Output Stages 
+SM671 Switching Regulator Power Output Stages 
+SM672 Switching Regulator Power Output Stages 

@@ -1,0 +1,52 @@
+code	family	vcc	tpd	iol	ioh	year	description
+74	Standard TTL	5 V ±5%	22 ns	16 mA	−0.4 mA	1966	The original 7400 logic family. Contains no characters between the "74" and the part number. : 3–5 
+74ABT	Advanced BiCMOS	5 V ±10%	3.6 ns	20 mA	−15 mA	1991?	TTL logic levels. 
+74AC	Advanced CMOS	2.0–6.0 V	8 ns	24 mA	−24 mA	1985	CMOS logic levels. Outputs may cause ground bounce.
+74ACQ	Advanced CMOS with "quiet" outputs	2.0–6.0 V	6.5 ns	24 mA	−24 mA	1989	Fairchild's "Quiet Series" offering lower ringing and ground bounce on state transitions. Bus interface circuits only in this family. CMOS logic levels. 
+74ACT	Advanced CMOS	5 V ±10%	8 ns	24 mA	−24 mA	1985	TTL logic levels.  Outputs may cause ground bounce.
+74ACTQ	Advanced CMOS with "quiet" outputs	5 V ±10%	7.5 ns	24 mA	−24 mA	1989	Fairchild's "Quiet Series" offering lower ringing and ground bounce on state transitions.  TTL logic levels. 
+74AHC	Advanced High-Speed CMOS	2.0–5.5 V	5.5 ns	8 mA	−8 mA		Up to three times as fast as the 74HC family. 5 V tolerant inputs. CMOS logic levels.  Equivalent to 74VHC. 
+74AHCT	Advanced High-Speed CMOS	5 V ±10%	6.9 ns	8 mA	−8 mA	1986?	Up to three times as fast as the 74HCT family. TTL logic levels.  Equivalent to 74VHCT. 
+74AHCV	Advanced High-Speed CMOS	1.8–5.5 V	7.5 ns	16 mA	−16 mA	2016?	CMOS logic levels. 5 V tolerant inputs. Extended supply voltage range and higher speed compared to 74AHC.  Bus interface circuits only in this family. See also 74LVCE.
+74ALB	Advanced Low-Voltage BiCMOS	3.0–3.6 V	2.0 ns	25 mA	−25 mA	1996?	Bus interface circuits only in this family. 
+74ALS	Advanced Low-Power Schottky	5 V ±10%	11 ns	8 mA	−0.4 mA	1980	Same technology as the 74AS family, but with lower power consumption at the expense of gate speed. TTL logic levels. 
+74ALVC	Advanced Low-Voltage CMOS	1.65–3.6 V	3.0 ns	24 mA	−24 mA	1994?	3.3 V tolerant inputs and outputs.  
+74ALVT	Advanced Low-Voltage BiCMOS	2.3–3.6 V	2.5 ns	64 mA	−32 mA	1999?	5 V tolerant inputs and outputs.   Bus interface circuits only in this family.
+74AS	Advanced Schottky	5 V ±10%	4.5 ns	20 mA	−2 mA	1982	Same technology as the 74S family, but with "miller killer" circuitry to speed up low-to-high transitions. TTL logic levels. 
+74AUC	Advanced Ultra-Low-Voltage CMOS	0.80–2.7 V	2.0 ns	9 mA	−9 mA	2002?	3.3 V tolerant inputs.
+74AUP	Advanced Ultra-Low-Power	0.80–3.6 V	3.8 ns	4 mA	−4 mA	2004?	3.3 V tolerant hysteresis inputs. 
+74AVC	Advanced Very-Low-Voltage CMOS	1.40–3.6 V	1.7 ns	12 mA	−12 mA	1998?	3.3 V tolerant inputs. Bus interface circuits only in this family. 
+74AXC	Advanced Extremely-Low-Voltage CMOS	0.65–3.6 V	4 ns	12 mA	−12 mA	2018?	3.3 V tolerant inputs. Bus interface circuits only in this family.
+74BCT	BiCMOS	5 V ±10%	6.6 ns	64 mA	−15 mA	1988?	TTL logic levels. Bus interface circuits only in this family. 
+74C	CMOS	3.0–15 V	60 ns	0.36 mA	−0.36 mA	1975	74C is standard CMOS, similar to buffered 4000 (4000B) series. Input levels not compatible with TTL families. The 4000A series was introduced in 1968, the 4000B around 1975.
+74CBT	Crossbar Switch	5 V ±10%	0.25 ns	64 mA	−15 mA	1992?	FET bus switches only in this family. 
+74CBTLV	Crossbar Switch Low-Voltage	2.3–3.6 V	0.25 ns	64 mA	−15 mA	1997?	FET bus switches only in this family. 
+74F	FAST	5 V ±5%	3.9 ns	20 mA	−1 mA	1978	Originally Fairchild's version of the 74AS family. TTL logic levels. 
+74FB	Futurebus	5 V ±5%	5 ns	80 mA	–	1992?	Futurebus+ interface circuits only in this family. 
+74FBT	Fast BiCMOS	5 V ±10%	4.1 ns	64 mA	−24 mA	1990?	Bus interface circuits only in this family. 
+74FCT	Fast CMOS	5 V ±5%	7 ns	64 mA	−15 mA	1986?	Manufactured in CMOS  or BiCMOS  technology. Performance like 74F at lower power consumption. No simple gates in this family.
+74FST	Crossbar Switch	5 V ±5%	0.25 ns	30 mA	−15 mA	1995?	FET bus switches only in this family. IDT's version of 74CBT. 
+74G	Gigahertz	1.65–3.6 V	1.5 ns	12 mA	−12 mA	2006	Speeds over 1 gigahertz with 5 V tolerant inputs. 
+74GTL	Gunning transceiver logic	5 V ±5%	4 ns	64 mA	−32 mA	1993?	Bus interface circuits only in this family. 
+74GTLP	Gunning transceiver logic Plus	3.15–3.45 V	7.5 ns	50 mA	–	1996	Bus interface circuits only in this family. Fairchild's improved version of 74GTL (higher bus speed, lower ground bounce).  
+74H	High-Speed	5 V ±5%	10 ns	20 mA	−0.5 mA	1967	Higher speed than the original 74 series, at the expense of power dissipation. TTL logic levels. 
+74HC	High-Speed CMOS	2.0–6.0 V	15 ns	4 mA	−4 mA	1983?	Similar performance to 74LS. CMOS logic levels.  
+74HCS	Schmitt-Trigger Integrated High-Speed CMOS	2.0–6.0 V	13 ns	7.8 mA	−7.8 mA	2019?	Schmitt triggers on all inputs.  CMOS logic levels.
+74HCT	High-Speed CMOS	5 V ±10%	15 ns	4.8 mA	−4.8 mA	1983?	Similar performance to 74LS. TTL logic levels. 
+74HCTLS	High-Speed CMOS	5 V ±10%	15 ns	8 mA	−4 mA	1988?	Samsung's version of the 74HCT series. TTL logic levels. 
+74L	Low-Power	5 V ±5%	60 ns	3.6 mA	−0.2 mA	1967	Same technology as the original 74 family, but with larger resistors to lower power consumption at the expense of gate speed. TTL logic levels. Now obsolete. 
+74LCX	Low-Voltage High-Speed CMOS	2.0–3.6 V	4.3 ns	24 mA	−24 mA	1994	Fairchild's version of 74LVC. TTL logic levels. 5 V tolerant inputs and outputs.
+74LPT	Low-Voltage CMOS	2.7–3.6 V	4.1 ns	24 mA	−24 mA	1996?	Bus interface circuits only in this family. 5 V tolerant inputs. 
+74LS	Low-Power Schottky	5 V ±5%	15 ns	8 mA	−0.4 mA	1971	Same technology as the 74S family, but with lower power consumption (2 mW) at the expense of gate speed. TTL logic levels. 
+74LV	Low-Voltage CMOS	2.7–3.6 V	18 ns	6 mA	−6 mA	1993?	TTL logic levels. 
+74LVC	Low-Voltage CMOS	2.0–3.6 V	6 ns	24 mA	−24 mA	1993?	TTL logic levels, 5 V tolerant inputs.
+74LVCE	Low-Voltage CMOS	1.4–5.5 V	3.6 ns	32 mA	−32 mA	2010?	CMOS logic levels. 5 V tolerant inputs. Extended supply voltage range and higher speed compared to 74LVC.
+74LVQ	Low-Voltage Quiet CMOS	2.0–3.6 V	9.5 ns	12 mA	−12 mA	1992	TTL logic levels. Guaranteed incident-wave switching for 75 Ω lines. 
+74LVT	Low-Voltage BiCMOS	2.7–3.6 V	4.1 ns	32 mA	−20 mA	1992	TTL logic levels, 5 V tolerant inputs and outputs.  Note, original 1992 LVTs had bus-hold. However a 1996 redesign of LVT emphasized performance, so 1992 LVTs were renamed LVTH to denote the bus-hold feature explicitly in the device name. LVTH also added the high impedance during power up/down feature. 
+74LVX	Low-Voltage High-Speed CMOS	2.0–3.6 V	9.7 ns	4 mA	−4 mA	1994?	TTL logic levels. 5 V tolerant inputs. Faster than 74VHC at low voltages. 
+74LXC	Low-Voltage CMOS	1.1–5.5 V	7 ns	32 mA	−32 mA	2019?	Extended supply voltage range compared to 74LVC. Bus interface circuits only in this family. See also 74LVCE.
+74S	Schottky	5 V ±5%	5 ns	20 mA	−1 mA	1969	Implemented using Schottky diode. High current draw. TTL logic levels. 
+74SC	Standard CMOS	5 V ±5%	30 ns	10 mA	−10 mA	1981?	Performance like Standard TTL at lower power consumption (intermediate step between 74C and 74HC). No simple gates in this family.
+74VCX	Advanced Low-Voltage CMOS	1.20–3.6 V	3.1 ns	24 mA	−24 mA	1997	Fairchild's version of 74ALVC. 3.3 V tolerant inputs and outputs. 
+74VHC	Very High-Speed CMOS	2.0–5.5 V	5.5 ns	8 mA	−8 mA	1992?	5 V tolerant inputs.  Equivalent to 74AHC. CMOS logic levels.
+74VHCT	Very High-Speed CMOS	5 V ±10%	6.9 ns	8 mA	−8 mA	1995?	Equivalent to 74AHCT. TTL logic levels.

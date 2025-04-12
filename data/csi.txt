@@ -1,0 +1,33 @@
+CAT24C01/02/04/08/16   1K/2K/4K/8K/16K-Bit I2C Bus Serial E2PROM
+CAT24WC01/02/04/08/16   1K/2K/4K/8K/16K-Bit Write Protection Pin I2C Bus Serial E2PROM
+CAT24C32/64   32K/64K-Bit I2C Bus Serial E2PROM
+CAT24WC32/64   32K/64K-Bit Write Protection Pin I2C Bus Serial E2PROM
+CAT93C46/56/66/86   1K/2K/4K/16K-Bit  Microwire Bus Serial E2PROM
+CAT93C46A/56A/66A/86A   1K/2K/4K/16K-Bit No ORG Pin Microwire Bus Serial E2PROM
+CAT93C57   2K-Bit Microwire Bus Serial E2PROM
+CAT64LC10/20/40   1K/2K/4K-Bit SPI Bus Serial E2PROM
+CAT35C704   4K-Bit 5V Operating Voltage Secure Access Serial E2PROMs
+CAT33C704   4K-Bit 3V Operating Voltage Secure Access Serial E2PROMs
+CAT35C804A   4K-Bit 5V Operating Voltage Secure Access Serial E2PROMs
+CAT33C804A   4K-Bit 3V Operating Voltage Secure Access Serial E2PROMs
+CAT22C10   256-Bit NVRAM
+CAT24C44   256-Bit NVRAM
+CAT28F512   512K-Bit 8-Bit Data Bus Flash Memory
+CAT28F010   1M-Bit 8-Bit Data Bus Flash Memory
+CAT28F020   2M-Bit 8-Bit Data Bus Flash Memory
+CAT28F102   1M-Bit 16-Bit Data Bus Flash Memory
+CAT28F202   2M-Bit 16-Bit Data Bus Flash Memory
+CAT28F001   1M-Bit Boot Block Flash Memory
+CAT28F002   2M-Bit Boot Block Flash Memory
+CAT28C16A   16K-Bit  Parallel E2PROM
+CAT28C17A   16K-Bit  Parallel E2PROM
+CAT28C64B   64K-Bit  Parallel E2PROM
+CAT28C65B   64K-Bit  Parallel E2PROM
+CAT28C256   256K-Bit  Parallel E2PROM
+CAT28LV64   64K-Bit  Parallel E2PROM
+CAT28LV65   64K-Bit  Parallel E2PROM
+CAT28LV256   256K-Bit  Parallel E2PROM
+CAT104/105   12 Bit, 25MHz D/A Converter
+CAT504   8-Bit Quad DACpot
+CAT505   8-Bit Quad DACpot
+CAT506   12 Bit, 40MHz D/A Converter 
