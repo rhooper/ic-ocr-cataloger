@@ -1,0 +1,175 @@
+MK5025	CCITT X.25 Link Level Controller
+MK68590	LANCE, IEEE 802.3 Ethernet Controller
+MK68590	LANCE Technical Manual
+MK68590	Application Note: Interfacing LANCE to MK68000
+MK68591/2	IEEE 802.3 Ethernet Serial Interface Adaptor
+MK5030	1M Bit/Sec Starlan Hub
+MK5032	Starlan Controller (1 - 10 Mbps)
+MK5033	Generic Manchester Encoder/Decoder
+MK5035	Starlan Station (Use with MK68590, 82586 at 6 & 8 MHz)
+MK50351	Starlan Station (Use with MK5032, 82588 at 8 & 10 MHz)
+TSG7515	Bell 212A MODEM - 1200, 600 BPS DPSK; 300 BPS FSK (Bell 212A, Bell 103, & V.22A1B)
+TEA7868	MODEM to Telephone Line Direct Interface
+TS7524	2400 bps Chip Set - (V.22 Bis, V.22, Bell 2121V.23, V.21, Bell 103)
+TS68930	DSP High Performance, 25 MHz
+TS68931	DSP ROM-less version of TS68930
+TS68950	Analog Front End Transmitter
+TS68951	Analog Front End Receiver
+TS68952	Analog Front End Clock Generator
+TS5070	Two port assignments and 6 interface latches
+TS5071	One port assignment and 5 interface latches
+ETC5054	µ-Law, Single Channel
+ETC5064	µ-aw, Single Channel with Power Amplifiers
+ETC5057	A-Law, Single Channel
+ETC5067	A-Law, Single Channel with Power Amplifiers
+MK5116	µ-Law, Serial Output
+MK5151	µ-Law, Serial Output with AB signalling
+MK5156	A-Law, Serial Output
+ETC5040	CMOS Single channel PCM filter
+TBD7711	Low Voltage SLIC
+TDB7722	High Voltage SLIC
+EFB73321	Trunc PCM Clock Recovery
+MK5375	Ten Memory TonePulse™ switchable dialer
+MK5376	Ten Memory TonePulse™ switchable dialer with extra
+MK53761	Ten Memory TonePulse™ Dialer with Continuous Tone
+MK53762	Same as MK53761, with Single Key Redial of the Ten Memories
+MK53763	13 Memory Repertory World Dialer™ with Single Key Autodialing
+MK5370	Low cost TonePulse™ Dialer for Low End Apps
+MK5371	TonePulse™ with Redial
+MK53721	TonePulse™ World Dialer™ with Redial
+MK53731	TonePulse™ with 28 Digit Redial and Continuous Tone
+MK5380	Industry Standard DTMF Generator
+TEA3046	2 to 4 Wire Conversion and DTMF Generator
+TEA7531	Loudspeaker Amplifier
+TS8306	6-Bit Flash ADC, 20 MHz
+TS8308	8-Bit Flash ADC, 20 MHz
+TS8328	8-Bit Flash ADC (min. version of TS8308)
+MK36000N-4	64K-Bit 8Kx8 Read-Only Memory 250ns/375ns   	P,J,N,DIP	24
+MK36000N-5	64K-Bit 8Kx8 Read-Only Memory 300ns/450ns	P,J,N,DIP	24
+MK37000N-5 	64K-bit 8Kx8 MOS ROM 300ns/450ns	P,J,N,DIP	28
+MK37000N-4 	64K-bit 8Kx8 MOS ROM 250ns/375ns	P,J,N,DIP	28
+MK38000N-25	256K-Bit 32Kx8 Read-Only Memory 250ns/250ns	P,N,DIP	28
+MK4027N-1	4Kx1-bit dynamic RAM 120ns/320ns	J,N,DIP	16
+MK4027N-2	4Kx1-bit dynamic RAM 150ns/320ns	J,N,DIP	16
+MK4027N-3	4Kx1-bit dynamic RAM 200ns/375ns	J,N,DIP	16
+MK4027N-4	4Kx1-bit dynamic RAM 250ns/380ns	J,N,DIP	16
+MK4116N-2	16Kx1-bit dynamic RAM 150ns/320ns	J,N,E,DIP	16
+MK4116N-3	16Kx1-bit dynamic RAM 200ns/375ns	J,N,E,DIP	16
+MK4116N-4	16Kx1-bit dynamic RAM 250ns/380ns	J,N,E,DIP	16
+MK4516N-2	16Kx1-bit dynamic RAM 150ns/320ns	J,N,E,DIP	16
+MK4516N-10	16Kx1-bit dynamic RAM 100ns/235ns	J,N,DIP	16
+MK4516N-12	16Kx1-bit dynamic RAM 120ns/270ns	J,N,DIP	16
+MK4516N-15	16Kx1-bit dynamic RAM 150ns/320ns	J,N,DIP	16
+MK4528D-15	128Kx1-bit dynamic RAM 150ns/260ns	DIP	18
+MK4528D-20	128Kx1-bit dynamic RAM 200ns/345ns	DIP	18
+MK4528D-25	128Kx1-bit dynamic RAM 250ns/425ns	DIP	18
+MK4332D-3	32Kx1-bit dynamic RAM 200ns/370ns	DIP	18
+MK4564N-15	64Kx1-bit dynamic RAM 150ns/260ns	P,J,N,DIP	16
+MK4564N-20	64Kx1-bit dynamic RAM 200ns/345ns	P,J,N,DIP	16
+MK4564N-25	64Kx1-bit dynamic RAM 250ns/425ns	P,J,N,DIP	16
+MK4104N-3/MK4104P-33 	4Kx1-bit static RAM 200ns/310ns	J,N,E,DIP	18
+MK4104N-4/MK4104P-34 	4Kx1-bit static RAM 250ns/385ns	J,N,E,DIP	18
+MK4104N-5/MK4104P-35 	4Kx1-bit static RAM 300ns/460ns	J,N,E,DIP	18
+MK4104N-6 	4Kx1-bit static RAM 350ns/535ns	J,N,E,DIP	18
+MK4118AN-1/MK4801AN-1	1Kx8-bit static RAM 120ns	AP,AJ,AN,DIP	24
+MK4118AN-2/MK4801AN-2	1Kx8-bit static RAM 150ns	AP,AJ,AN,DIP	24
+MK4118AN-3/MK4801AN-3	1Kx8-bit static RAM 200ns	AP,AJ,AN,DIP	24
+MK4118AN-4/MK4801AN-4	1Kx8-bit static RAM 250ns	AP,AJ,AN,DIP	24
+MK4801A-55	1Kx8-bit static RAM 55ns/65ns	AP,AJ,AN,DIP	24
+MK4801A-70	1Kx8-bit static RAM 70ns/80ns	AP,AJ,AN,DIP	24
+MK4801A-90	1Kx8-bit static RAM 90ns/100ns	AP,AJ,AN,DIP	24
+MK68000P-4	16-bit microprocessor 4.0mhz	CDIP	64
+MK68000P-6	16-bit microprocessor 6.0mhz	CDIP	64
+MK68000P-8	16-bit microprocessor 8.0mhz	CDIP	64
+MK68000P-10	16-bit microprocessor 10.0mhz	CDIP	64
+MK68200	16-bit single-chip microcomputer 4kROM 256k RAM	CDIP	48
+MK68230P8/MK68230P10	Parallel Interface Timer (PI/T)		48
+MK68564	Serial Input Output		48
+MK68901	Multi-Function Peripheral		48
+MK68590	Local Area Network Controller For Ethernet		48
+MK3891	Serial Interface Adapter
+MK3880	Z80 Microprocessor	DIP	40
+MK3881	Z80 Parallel I/O Controller	DIP	40
+MK3882	Z80 Counter Timer Circuit	DIP	28
+MK3883	Z80 Direct Memory Access Controller	DIP	40
+MK3884N,N-10	Z80 Serial I/O Controller 2.5mhz	PDIP	40
+MK3884P,P-10	Z80 Serial I/O Controller 2.5mhz	CDIP	40
+MK3884N-4	Z80 Serial I/O Controller 4mhz	PDIP	40
+MK3864P-4	Z80 Serial I/O Controller 4mhz	CDIP	40
+MK3885N,N-10	Z80 Serial I/O Controller 2.5mhz	PDIP	40
+MK3885P,P-10	Z80 Serial I/O Controller 2.5mhz	CDIP	40
+MK3885N-4	Z80 Serial I/O Controller 4mhz	PDIP	40
+MK3885P-4	Z80 Serial I/O Controller 4mhz	CDIP	40
+MK3887N,N-10	Z80 Serial I/O Controller 2.5mhz	PDIP	40
+MK3887P,P-10	Z80 Serial I/O Controller 2.5mhz	CDIP	40
+MK3887N-4	Z80 Serial I/O Controller 4mhz	PDIP	40
+MK3887P-4	Z80 Serial I/O Controller 4mhz	CDIP	40
+MK-DART	Dual Asynchronous Receiver/Transmitter		40
+MK3801	Z80 Serial Timer Interrupt Controller		40
+MK3870/MK38P70	3870 Single Chip Microcomputer		40
+MK2870	3870 Single Chip Microcomputer		28
+MK3873/MK38P73	3870 Single Chip Microcomputer		40
+MK3875/MK38P75	3870 Single Chip Microcomputer		40
+MK3805N	CMOS microcomputer RTC		8
+MK3806N	CMOS 28x8 RAM		16
+MK3807	Programmable CRT Video Control Unit (VCU)		40
+SCU20	38720 series Serial Control Unit		40
+MKI4116J-72	Industrial DRAM 16Kx1 150ns	CDIP
+MK14116J-73	Industrial DRAM 16Kx1 200ns	CDIP
+MK14116J-74	Industrial DRAM 16Kx1 250ns	CDIP
+MKI4564J-72 	Industrial DRAM 64Kx1 150ns	CDIP
+MK14118AJ-71	Industrial Static RAM 1Kx8 120ns	CDIP
+MKI4118AJ-72	Industrial Static RAM 1Kx8 150ns	CDIP
+MK14118AJ-73	Industrial Static RAM 1Kx8 200ns	CDIP
+MK14802J-790	Industrial Static RAM 2Kx8 90ns 	CDIP
+MK14S02J-71	Industrial Static RAM 2Kx8 120ns	CDIP
+MKI37000J-74	Industrial 8Kx8 PROM 300ns	CDIP
+MKI2716J-77	Industrial 2Kx8 EPROM 390ns	CDIP
+MK12716J-78	Industrial 2Kx8 EPROM 450ns	CDIP
+MK138S0P-70	Industrial Z80 CPU 2.5 MHz	DIP
+MK138S0P-74	Industrial Z80A CPU 4.0 MHz	DIP
+MK13881P-70	Industrial Z80 PIO 2.5 MHz	DIP
+MKI3881P-74	Industrial Z80 PIO 4.0 MHz	DIP
+MK13882J-70	Industrial Z80 CTC 2.5 MHz	DIP
+MK13882J-74	Industrial Z80 CTC 4.0 MHz	DIP
+MKB4116E-82/MKB4116F-82/MKB4116J-82	Mil 16Kx1 DRAM -55°C/+110°C 150ns
+MKB4116E-83/MKB4116F-83/MKB4116J-83	Mil 16Kx1 DRAM -55°C/+110°C 200ns
+MKB4116E-84/MKB4116F-84/MKB4116J-84	Mil 16Kx1 DRAM -55°C/+11O°C 250ns
+MKB4516E-81/MKB4516P-81	Mil 16Kx1 DRAM -55°C/+110°C 120ns
+MKB4564E-82/MKB4564P-82	Mil 64Kx1 DRAM -55°C/+11O°C 150ns
+MKB4564E-83/MKB4564P-83	Mil 64Kx1 DRAM -55°C/+110°C 200ns
+MKB4564E-84/MKB4564P-84	Mil 64Kx1 DRAM -55°C/+11O°C 250ns
+MKM4332D-83  	32Kx 1  Mil DRAM -55°C/+110°C 200ns
+MKM4332D-84  	32Kx 1  Mil DRAM -55°C/+11O°C 250ns
+MKB4104E-84/MKB4104J-84	Mil 4Kx1 Static RAM -55°C/+125°C 250ns
+MKB4104E-85/MKB4104J-85	Mil 4Kx1 Static RAM -55°C/+125°C 300ns
+MKB4104E-86/MKB4104J-86	Mil 4Kx1 Static RAM -55°C/+125°C 350ns
+MKB4167E-885/MKB4167P-885	Mil 16Kx1 Static RAM -55°C/+125°C* 85ns
+MKB4167E-870/MKB4167P-870	Mil 16Kx1 Static RAM -55°C/+125°C* 70ns
+MKB4118AE-82,MKB4118AP-82	Mil 1Kx8 Static RAM -55°C/+125°C 150ns
+MKB4118AE-83,MKB4118AP-83	Mil 1Kx8 Static RAM -55°C/+125°C 200ns
+MKB4S01AE-890,MKB4S01AP-890	Mil 1Kx8 Static RAM -55°C/+125°C 90ns
+MKB4801AE-81,MKB4801AP-81	Mil 1Kx8 Static RAM -55°C/+125°C 120ns
+MKB4S02E-890,MKB4S02P-890	Mil 2Kx8 Static RAM -55°C/+125°C* 90ns
+MKB4S02E-81,MKB4S02P-81	Mil 2Kx8 Static RAM -55°C/+125°C 120ns
+MKB4802E-83,MKB4802P-83	Mil 2Kx8 Static RAM -55°C/+125°C 200ns
+MKB2716E-86/MKB2716J-86	Mil 2kx8k EEPROM
+MKB2716E-87/MKB2716J-87	Mil 2kx8k EEPROM
+MKB2716E-88/MKB2716J-88 	Mil 2kx8k EEPROM
+MKB38SO-8O	Mil Z80 CPU 2.5 MHz
+MKB38SO-84	Mil Z80A CPU 4.0 MHz
+MKB3881-80	Mil Z80 PIO 2.5 MHz
+MKB3881-84	Mil Z80 PIO 4.0 MHz
+MKB3882-80	Mil Z80 CTC 2.5 MHz
+MKB3882-84	Mil Z80 CTC 4.0 MHz
+MKB3884P/MKB3885P/MKB3886P/MKB3887P	Mil Z80 SIO
+MK5002P,N	4-Digit Display Counter/Display Decoder	DIP	28
+MK5005P,N	4-Digit Display Counter/Display Decoder	DIP	24
+MK5007P,N	4-Digit Display Counter/Display Decoder	DIP	16
+MK5009N	Counter Time-Base Circuit          	DIP	16
+MK50240/1/2	Top Octave Frequency Generator	CDIP	16
+MK50250/3/4 	MOS Digital Alarm Clock		28
+MK50395/6/7	6-Decade Counter/Display Decoder		40
+MK50398N/MK50399N	6-Decade Counter/Display Decoder		28
+MK50808/MK50808-1	8-Bit AID Converter/8-Channel Analog Multiplexer		28
+MK50816	8-Bit A/D Converter/16-Channel Analog Multiplexer		40
