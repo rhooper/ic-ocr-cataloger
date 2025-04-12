@@ -20,10 +20,10 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["ic_ocr_catalogger"]
+packages = ["ic_ocr_cataloger"]
 
 [tool.setuptools.package-data]
-"ic_ocr_catalogger" = ["data/*.txt", "data/*.txt", "data/*.json"]
+"ic_ocr_cataloger" = ["data/*.txt", "data/*.txt", "data/*.json"]
 
 [tool.setuptools.scripts]
-"icocr" = "ic_ocr_catalogger.__main__:main"
+"icocr" = "ic_ocr_cataloger.__main__:main"
