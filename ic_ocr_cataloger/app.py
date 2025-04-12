@@ -7,21 +7,21 @@ import re
 import textwrap
 import time
 from asyncio import Event, TimerHandle
-from collections import Counter, deque, defaultdict
+from collections import Counter, defaultdict, deque
 from collections.abc import Callable
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Any
+from typing import Any, NamedTuple
 
 import cv2
 import numpy as np
-from PIL import Image, ImageFont
-from PIL import ImageDraw
 from more_itertools import unique_everseen
 from ocrmac import ocrmac
+from PIL import Image, ImageDraw, ImageFont
 
-from catalog import FoundPart, Catalog, PartInfo
-from util import BoundingBox, FlashMessage, count_matches, aggregate
+from .catalog import Catalog, FoundPart, PartInfo
+from .models import BoundingBox
+from .util import aggregate, count_matches
 
 BIG_FONT = ImageFont.truetype("NotoSansNerdFont-Regular", 40)
 MAIN_FONT = ImageFont.truetype("Arial", 30)
@@ -1152,3 +1152,10 @@ class App:
             self.ocr_stable.set()
         else:
             self.add_flash_message("No parts found to force-lock", 5, color=(255, 0, 0))
+
+
+class FlashMessage(NamedTuple):
+    expire: datetime
+    text: str
+    color: tuple[int, int, int] = (128, 128, 128)
+    font: ImageFont = BIG_FONT

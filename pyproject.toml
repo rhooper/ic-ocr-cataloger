@@ -1,5 +1,12 @@
 [build-system]
 requires = ["setuptools>=42", "wheel"]
+dependencies = [
+    "pytest",
+    "black",
+    "isort",
+    "flake8",
+    "pre-commit"
+]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -8,6 +15,15 @@ version = "0.1.0"
 description = "An python OpenCV UI that performs live OCR chips, with an integrated catalog."
 authors = [
     { name = "Rose Hooper", email = "rose@rosehooper.com" }
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: MacOS X",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS :: MacOS X",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering :: Image Recognition",
 ]
 license = { text = "MIT" }
 dependencies = [
@@ -25,5 +41,5 @@ packages = ["ic_ocr_cataloger"]
 [tool.setuptools.package-data]
 "ic_ocr_cataloger" = ["data/*.txt", "data/*.txt", "data/*.json"]
 
-[tool.setuptools.scripts]
+[project.scripts]
 "icocr" = "ic_ocr_cataloger.__main__:main"
