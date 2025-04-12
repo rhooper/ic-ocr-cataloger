@@ -567,6 +567,7 @@ def expand_names(part_name, no_first=False):
     # MC10/100H607 = MC10H607 MC100H607
     # UM8048/35/49/39 = UM8048 UM8035 UM8039 UM8049
     # UM8051/31 = UM8051 UM8031
+    # MK4104-3/-33 = MK4104-3 MK4104-33
 
     if "/" in part_name:
         parts = part_name.split("/")

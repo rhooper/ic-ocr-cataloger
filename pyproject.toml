@@ -39,7 +39,7 @@ dependencies = [
 packages = ["ic_ocr_cataloger"]
 
 [tool.setuptools.package-data]
-"ic_ocr_cataloger" = ["data/*.txt", "data/*.txt", "data/*.json", "default_config.ini"]
+"ic_ocr_cataloger" = ["data/*.txt", "data/*.tsv", "data/*.json", "default_config.ini"]
 
 [project.scripts]
 "icocr" = "ic_ocr_cataloger.__main__:main"
