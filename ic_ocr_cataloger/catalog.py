@@ -518,8 +518,6 @@ class Catalog:
             expanded.extend(d.glob("*.tsv"))
         for p in expanded:
             logger.info("Parse %s", p)
-            if p.name == "national-xref.txt":
-                continue
             try:
                 stats["file"] += 1
                 stats.update({k: v for k, v in (await self.import_file(p)).items()})
@@ -533,14 +531,16 @@ class Catalog:
         counter = Counter()
         with p.open("rt") as fp:
             for line in fp:
-                await asyncio.sleep(0)
-                counter.update(["line"])
                 line = line.strip(" \n")
+                if line[:1] in ("", ";", "#"):
+                    continue
+                counter.update(["line"])
                 if p.suffix == ".tsv":
                     src = parse_tsv(line, p)
                 else:
                     src = parse_txt(line, p)
                 for part in self.normalize_7400(src):
+                    await asyncio.sleep(0)
                     counter.update(["expanded"])
                     if not re.search(
                         r"^[A-Z0-9µ][-A-Z0-9]+", part.part_no, re.IGNORECASE

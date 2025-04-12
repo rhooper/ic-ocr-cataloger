@@ -230,7 +230,7 @@ class App:
         self.cur_cv2_image: None | np.ndarray = None
         self.cur_phash = None
         self.locked_bbox = None
-        self.locked_parts: dict[FoundPart, int] = None
+        self.locked_parts: dict[FoundPart, int] = {}
         self.ocr_stable = Event()
         self.prev_phash = None
         self.raw_text: str = ""
@@ -574,6 +574,9 @@ class App:
         self.search_results = []
         self.search_result_page = 0
         self.current_search_pick = 0
+        self.locked_parts = {}
+        self.best_match = {}
+        self.ocr_stable.clear()
         self.add_flash_message(
             "Search cleared", delay=1, color=(128, 128, 128), font=SMALL_FONT
         )
@@ -1090,8 +1093,8 @@ class App:
         self.best_match = None
         self.detecting_state = "Searching for parts"
         self.flash_messages.clear()
-        self.locked_parts = None
-        self.locked_bbox = None
+        self.locked_parts = {}
+        self.locked_bbox = {}
         self.filters.clear()
         for timer in self.features.values():
             if isinstance(timer, TimerHandle):
