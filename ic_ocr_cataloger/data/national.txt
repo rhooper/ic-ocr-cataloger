@@ -870,7 +870,7 @@ DS1648 TRI-STATE TTLto MOS Multiplexer/Driver
 DS1649 Hex TR I-ST ATE TTL to MOS Driver
 DS1650 Quad Differential Line Receiver
 DS1651 Quad High Speed MOS Sense Amplifier
-DS1652 Quad Differential Line Receiver  
+DS1652 Quad Differential Line Receiver
 DS1678 TRI-STATE TTLto MOS Multiplexer/Driver
 DS1679 Hex TRI-STATE TTLto MOS Driver
 DS1687 Negative Voltage Relay Driver
@@ -1125,7 +1125,7 @@ MM5480 LED Display Driver
 MM5481 LED Display Driver
 MM5483 Liquid Crystal Display Driver
 MM5484 16-Segment LED Display Driver
-MM5486 LED Display Driver  
+MM5486 LED Display Driver
 MM54240 Asynchronous Receiver/Transmitter Remote Controller
 MM58201 Multiplexed LCD Driver
 MM58241 High Voltage Display Driver
@@ -1151,37 +1151,37 @@ MM58348 High Voltage Display Driver
 µA96175 RS-485/RS-422 Quad Differential Line Receiver
 µA96176 RS-485/RS-422 Differential Bus Transceiver
 µA96177 RS-485/RS-422 Differential Bus Repeater
-DP8400-2 E2C2 Expandable Error Checker/Corrector  
-DP8402A 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
-DP8403 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
-DP8404 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
-DP8405 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)  
-DP8408A Dynamic RAM Controller/Driver  
-DP8409A Multi-Mode Dynamic RAM Controller/Driver  
-DP8417 64k Dynamic RAM Controller/Driver  
-DP8418 64k Dynamic RAM Controller/Driver  
-DP8419 256k Dynamic RAM Controller/Driver  
-DP8419X 256k Dynamic RAM Controller /Driver  
-DP8420A microCMOS Programmable 256k Dynamic RAM Controller/Driver  
-DP8421A microCMOS Programmable 1 M Dynamic RAM Controller/Driver  
-DP8422A microCMOS Programmable 4M Dynamic RAM Controller/Driver  
+DP8400-2 E2C2 Expandable Error Checker/Corrector
+DP8402A 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)
+DP8403 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)
+DP8404 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)
+DP8405 32-Bit Parallel Error Detection and Correction Circuits (EDAC's)
+DP8408A Dynamic RAM Controller/Driver
+DP8409A Multi-Mode Dynamic RAM Controller/Driver
+DP8417 64k Dynamic RAM Controller/Driver
+DP8418 64k Dynamic RAM Controller/Driver
+DP8419 256k Dynamic RAM Controller/Driver
+DP8419X 256k Dynamic RAM Controller /Driver
+DP8420A microCMOS Programmable 256k Dynamic RAM Controller/Driver
+DP8421A microCMOS Programmable 1 M Dynamic RAM Controller/Driver
+DP8422A microCMOS Programmable 4M Dynamic RAM Controller/Driver
 DP8428 1 Megabit High Speed Dynamic RAM Controller/Driver
-DP8429 1 Megabit High Speed Dynamic RAM Controller/Driver  
+DP8429 1 Megabit High Speed Dynamic RAM Controller/Driver
 DP8520A microCMOS Programmable 256k Video RAM Controller/Driver
-DP8521A microCMOS Programmable 1 M Video RAM Controller/Driver 
+DP8521A microCMOS Programmable 1 M Video RAM Controller/Driver
 DP8522A microCMOS Programmable 4M Video RAM Controller/Driver(s)
-DP8570A Timer Clock Peripheral (TCP)  
+DP8570A Timer Clock Peripheral (TCP)
 DP8571A Timer Clock Peripheral (TCP)
-DP8572A Real Time Clock (RTC)  
-DP8573A Real Time Clock (RTC)  
-DP84300 Programmable Refresh Timer  
-DP84322 Dynamic RAM Controller Interface Circuit for the 68000 CPU  
-DP84412 Dynamic RAM Controller Interface Series Circuit for the Series 32000 CPU 
-DP84422 Dynamic RAM Controller Interface Circuit for the 68000/008/01O CPUs  
-DP84432 Dynamic RAM Controller Interface Circuit for the 8086/8088/80186/80188 CPUs 
-DP84512 Dynamic RAM Controller Interface Circuit for the NS32332  
-DP84522 Dynamic RAM Controller Interface Circuit for the 68020 CPU  
-DP84532 Dynamic RAM Controller Interface Circuit for the iAPX 286 CPU  
+DP8572A Real Time Clock (RTC)
+DP8573A Real Time Clock (RTC)
+DP84300 Programmable Refresh Timer
+DP84322 Dynamic RAM Controller Interface Circuit for the 68000 CPU
+DP84412 Dynamic RAM Controller Interface Series Circuit for the Series 32000 CPU
+DP84422 Dynamic RAM Controller Interface Circuit for the 68000/008/01O CPUs
+DP84432 Dynamic RAM Controller Interface Circuit for the 8086/8088/80186/80188 CPUs
+DP84512 Dynamic RAM Controller Interface Circuit for the NS32332
+DP84522 Dynamic RAM Controller Interface Circuit for the 68020 CPU
+DP84532 Dynamic RAM Controller Interface Circuit for the iAPX 286 CPU
 MM58167A Microprocessor Real Time Clock
 MM58274C Microprocessor Compatible Real Time Clock
 NS32CG821 microCMOS Programmable 1 M Dynamic RAM Controller/Driver

@@ -1,15 +1,15 @@
 3N128 single-gate amplifier
-3N138 single-gate chopper and multiplexer 
+3N138 single-gate chopper and multiplexer
 3N140 dual-gate rf amplifier 285
 3N141 dual-gate mixer 285
 3N142 single-gate rf amplifier 286
-3N143 single-gate vhf mixer/oscillator 309 
-3N152 single-gate vhf amplifier 314 
-3N153 single-gate chopper/multiplexer 320 
-3N154 single-gate vhf amplifier 335 
-3N159 dual-gate rf amplifier 326 
-3N187 dual-gate rf amplifier 436 
-3N200 dual-gate rf amplifier 437 
+3N143 single-gate vhf mixer/oscillator 309
+3N152 single-gate vhf amplifier 314
+3N153 single-gate chopper/multiplexer 320
+3N154 single-gate vhf amplifier 335
+3N159 dual-gate rf amplifier 326
+3N187 dual-gate rf amplifier 436
+3N200 dual-gate rf amplifier 437
 32139 single-gate af and rf amplifier 284
 40467A single-gate vhf amplifier
 40468A single-gate rf amplifier
@@ -221,8 +221,8 @@ CA3118A high-voltage transistor array (n-p-n)
 CA3118AT  High-Voltage Transistor Array
 CA3118T  High-Voltage Transistor Array
 CA3120 TV signal processor
-CA3121 TV chroma amplifier/demodulator 
-CA3123 AM radio receiver subsystem 631 
+CA3121 TV chroma amplifier/demodulator
+CA3123 AM radio receiver subsystem 631
 CA3125 TV chroma demodulator.
 CA3126 TV chroma processor
 CA3127 high-frequency n-p-n transistor array

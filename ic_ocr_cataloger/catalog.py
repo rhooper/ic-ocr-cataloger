@@ -1,13 +1,13 @@
+import asyncio
 import csv
 import json
 import logging
 import re
 import sqlite3
-from collections import deque, Counter
+from collections import Counter, deque
 from functools import total_ordering
-from itertools import chain
 from pathlib import Path
-from typing import NamedTuple, Any, Generator, Self
+from typing import Generator, NamedTuple, Self
 
 from PIL.Image import Image
 
@@ -85,19 +85,25 @@ def parse_txt(line, p):
 
 class Catalog:
 
-    def __init__(self):
+    def __init__(self, config):
+        self.config = config
         self.prefixes = {}
-        self.db = sqlite3.connect("catalog.db")
-        # self.parts = load_parts_json()
-        # self.parts.update(load_parts_csv())
+        self.db = sqlite3.connect(
+            str(Path(config["main"].get("catalog_db", "./catalog.db")).expanduser())
+        )
+        self.data_dir = Path(__file__).parent / "data"
+        self.list_dirs = [self.data_dir]
+        if config["main"].get("lists_dir"):
+            self.list_dirs.append(
+                Path(config["main"].get("additional_list_dirs")).expanduser()
+            )
         self.create_tables()
-        # self.update_catalog()
         self.load_prefixes()
         self.parts = {}
         self.parts.update(self.load_parts_db())
         self.recent_lookups = deque(maxlen=40)
         self.families: list[dict] = list(
-            csv.DictReader(Path("families.tsv").open("rt"), delimiter="\t")
+            csv.DictReader((self.data_dir / "families.tsv").open("rt"), delimiter="\t")
         )
 
     def normalize_7400(
@@ -123,7 +129,7 @@ class Catalog:
         cursor.execute(
             """
             CREATE TABLE IF NOT EXISTS parts (
-            part_no TEXT PRIMARY KEY COLLATE NOCASE, 
+            part_no TEXT PRIMARY KEY COLLATE NOCASE,
             pins int,
             description TEXT,
             flags JSON)
@@ -131,16 +137,16 @@ class Catalog:
         )
         cursor.execute(
             """
-            CREATE TABLE IF NOT EXISTS inventory_entry (     
-                id INTEGER PRIMARY KEY,      
-                part_no TEXT,      
-                qty INTEGER,       
-                part_label TEXT,      
-                prefix TEXT,       
-                family TEXT,       
+            CREATE TABLE IF NOT EXISTS inventory_entry (
+                id INTEGER PRIMARY KEY,
+                part_no TEXT,
+                qty INTEGER,
+                part_label TEXT,
+                prefix TEXT,
+                family TEXT,
                 suffix TEXT,
-                date_code TEXT,      
-                location TEXT,      
+                date_code TEXT,
+                location TEXT,
                 manufacturer TEXT,
                 date_added  TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 image_path TEXT,
@@ -185,15 +191,14 @@ class Catalog:
             in_desc_clean = input_part.description.rstrip(".,.;:'*^~-`\" ")
             description = (
                 in_desc_clean
-                if len(in_desc_clean) > len(existing_desc)
+                if len(in_desc_clean) > len(existing_desc) < 30
                 else existing_desc
             )
             flags = input_part.flags | existing_flags
             if not any(
                 [
                     input_part.pins != pins,
-                    in_desc_clean != existing_desc
-                    and len(in_desc_clean) > len(existing_desc),
+                    description != existing_desc,
                     input_part.flags != flags,
                 ]
             ):
@@ -207,7 +212,7 @@ class Catalog:
 
         ret = c.execute(
             """
-            INSERT INTO parts (part_no, pins, description, flags) VALUES (?, ?, ?, ?) ON CONFLICT(part_no) 
+            INSERT INTO parts (part_no, pins, description, flags) VALUES (?, ?, ?, ?) ON CONFLICT(part_no)
             DO NOTHING""",
             (
                 input_part.part_no,
@@ -231,7 +236,7 @@ class Catalog:
     ):
         self.db.execute(
             """
-            INSERT INTO inventory_entry (id, part_no, qty, part_label, prefix, family, suffix, date_code, location, manufacturer, image_path) 
+            INSERT INTO inventory_entry (id, part_no, qty, part_label, prefix, family, suffix, date_code, location, manufacturer, image_path)
             VALUES (NULL, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """,
             (
@@ -446,9 +451,7 @@ class Catalog:
         return fn
 
     def load_prefixes(self):
-        self.prefixes = json.loads(
-            (Path(__file__).parent / "prefixes.json").read_text()
-        )
+        self.prefixes = json.loads((self.data_dir / "prefixes.json").read_text())
 
     def load_parts_db(self):
         c = self.db.cursor()
@@ -504,27 +507,33 @@ class Catalog:
                 set(json.loads(flags)) if flags else set(),
             )
 
-    def reimport(self):
-        file_dir = Path(__file__).parent / "lists"
+    async def reimport(self):
+        file_dirs = self.list_dirs
         stats = Counter()
-        # print(list(file_dir.glob("*")))
 
-        for p in chain(file_dir.glob("*.txt"), file_dir.glob("*.tsv")):
+        p: Path
+        expanded = []
+        for d in file_dirs:
+            expanded.extend(d.glob("*.txt"))
+            expanded.extend(d.glob("*.tsv"))
+        for p in expanded:
             logger.info("Parse %s", p)
             if p.name == "national-xref.txt":
                 continue
             try:
-                stats.update({k: v for k, v in self.import_file(p).items()})
+                stats["file"] += 1
+                stats.update({k: v for k, v in (await self.import_file(p)).items()})
             except Exception as e:
                 logging.exception("Error parsing %s: %s", p, e)
                 continue
         self.parts = dict(self.load_parts_db())
         return stats
 
-    def import_file(self, p: Path) -> Counter:
+    async def import_file(self, p: Path) -> Counter:
         counter = Counter()
         with p.open("rt") as fp:
             for line in fp:
+                await asyncio.sleep(0)
                 counter.update(["line"])
                 line = line.strip(" \n")
                 if p.suffix == ".tsv":
@@ -547,43 +556,6 @@ class Catalog:
                             counter.update(["updated"])
                             logger.debug("Update - %s: maxid=", (num, rid, part))
         return counter
-
-
-def load_parts_csv():
-    with (Path(__file__).parent / "big-chips-list.csv").open() as f:
-        reader = csv.DictReader(f)
-        return {
-            row["Type"]: PartInfo(
-                row["Type"],
-                row["Description"],
-                row["Pins"],
-                set(k for k, v in row.items() if v) - {"Type", "Description", "Pins"},
-            )
-            for row in reader
-        }
-
-
-def load_parts_json():
-    with Path("parts.json").open() as f:
-        parts = json.load(f)
-    return {part["part_no"]: PartInfo(**part) for part in parts}
-
-
-def save_parts_json(items):
-    Path("parts.json").write_text(
-        json.dumps(
-            {
-                p.part_no: {
-                    "part_no": p.part_no,
-                    "description": p.description,
-                    "pins": p.pins,
-                    "flags": list(p.flags),
-                }
-                for p in items.values()
-            },
-            indent=2,
-        )
-    )
 
 
 def expand_names(part_name, no_first=False):

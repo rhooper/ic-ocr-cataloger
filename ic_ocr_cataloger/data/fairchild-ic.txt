@@ -1,0 +1,296 @@
+µAF111 FET-Input Voltage Comparator
+µAF311 FET-Input Voltage Comparator
+µAF198 Monolithic Sample and Hold
+µAF298 Monolithic Sample and Hold
+µAF398/DAC-08 Monolithic Sample and Hold
+µA0801 8-Bit High-Speed Multiplying D/A Converter
+µA0802/MC1408 8-Bit Multiplying D/A Converter
+µA111 Voltage Comparator
+µA311 Voltage Comparator
+µA139 Low-Power, Low-Offset Quad Voltage Comparator
+µA139A Low-Power, Low-Offset Quad Voltage Comparator
+µA1488 Quad EIA RS-232C Line Driver
+µA1489 Quad EIA RS-232C Line Receiver
+µA1489A Quad EIA RS-232C Line Receiver
+µA2240 Programmable Timer/Counter
+µA239 Low-Power, Low-Offset Quad Voltage Comparator
+µA239A Low-Power, Low-Offset Quad Voltage Comparator
+µA2901 Low-Power, Low-Offset Quad Voltage Comparator
+µA3018 Matched Monolithic Transistor Array
+µA3018A Matched Monolithic Transistor Array
+µA3019 Diode Array
+µA3026 Transistor Array
+µA3036 Transistor Array
+µA3039 Diode Array
+µA3045 Transistor Array
+µA3046 Transistor Array
+µA3054 Transistor Array
+µA3086 Transistor Array
+µA3302 Low-Power, Low-Offset Quad Voltage Comparator
+µA339 Low-Power, Low-Offset Quad Voltage Comparator
+µA339A Low-Power, Low-Offset Quad Voltage Comparator
+µA4151 VVoltage-to-Frequency Converter
+µA555 Single Timing Circuit
+µA556 Dual Timing Circuit
+µA710 High-Speed Differential Comparator
+µA710C High-Speed Differential Comparator
+µA711 Dual High-Speed Differential Comparator
+µA711C Dual High-Speed Differential Comparator
+µA7151 Voltage-to-Frequency Converter with Op Amp
+µA726 Temperature-Controlled Differential Pair
+µA734 Precision Voltage Comparator
+µA7391 DC Motor-Speed Control
+µA7392 DC Motor-Speed Control
+µA760 High-Speed Differential Comparator
+µA8T13 Dual Single-Ended Line Driver
+µA8T14 Triple Line Receiver
+µA8T23 Dual IBM 360/370 1/0 Single-Ended Line Driver
+µA8T24 Triple IBM 360/370 1/0 Line Receiver
+µA8T26A Quad 3-State Inverting 8us Transceiver
+µA8T28 Quad 3-State Non-Inverting 8us Transceiver
+µA9706 8-Channel, 12-8it, µP Compatible DI A Converter
+µA9706A 7-Channel, 12-8it, µP Compatible DI A Converter
+µA9708 6-Channel, 8-8it, µP Compatible AID Converter Subsystem
+55107A Dual General-Purpose Line Receiver
+551078 Dual General-Purpose Line Receiver
+55108A Dual General-Purpose Line Receiver
+551088 Dual General-Purpose Line Receiver
+55110A Dual General-Purpose Line Driver
+55122 Triple-Line Receiver
+55S20 Dual Schottky ±2.5 mV Sense Amp with Complementary Outputs
+55S24 Dual Schottky ±2.5 mV Sense Amp
+55S234 Dual Schottky ±2.5 mV Sense Amp
+55232 Dual Sense Amp with Open Collector Outputs
+55238 Dual Sense Amp with Preamplifier Test Points
+5528 Dual Sense Amp with Preamplifier Test Points
+55325 Dual Core Memory Drivers
+55326 Quad Positive OR Sink Core Memory Drivers
+55327 Quad Core Memory Switches
+55450A Dual Positive AND Peripheral Driver
+554508 Dual High-Speed Positive AND Peripheral Driver
+55451A Dual Positive AND Peripheral Driver
+554518 Dual High-Speed Positive AND Peripheral Driver
+55452A Dual Positive NAND Peripheral Driver
+554528 Dual High-Speed Positive NAND Peripheral Driver
+55453A Dual OR Positive Peripheral Driver
+554538 Dual High-Speed OR Positive Peripheral Driver
+55454A Dual Positive NOR Peripheral Driver
+554548 Dual High-Speed Positive NOR Peripheral Driver
+55460 Dual High-Voltage Positive AND Peripheral Driver
+55461 Dual High-Voltage Positive ANd Peripheral Driver
+55462 Dual High-Voltage Positive NAND Peripheral Driver
+55463 Dual High-Voltage Positive OR Peripheral Driver
+55464 Dual High-Voltage Positive NOR Peripheral Driver
+55471 Dual High-Voltage Positive AND Peripheral Driver
+55472 Dual High-Voltage Positive NAND Peripheral Driver
+55473 Dual High-Voltage Positive OR Peripheral Driver
+55474 Dual High-Voltage Positive NOR Peripheral Driver
+55491 Quad MOS-to-LED Segment Drivers
+55491A Quad MOS-to-LED Segment Drivers
+55492 HEX MOS-to-LED Digit Drivers
+55492A HEX MOS-to-LED Digit Drivers
+75107A Dual General-Purpose Line Receiver
+75107B Dual General-Purpose Line Receiver
+75108A Dual General-Purpose Line Receiver
+75108B Dual General-Purpose Line Receiver
+75110A Dual General-Purpose Line Driver
+75112 Dual General-Purpose Line Driver
+75121 Dual Single-Ended Line Driver
+75122 Triple Line Receiver
+75123 Dual IBM 360/370 I/O Single-Ended Line Driver
+75124 Triple IBM 360/370 I/O Line Receiver
+75150 Dual EIA RS-232C/MIL-STD-188C Line Driver
+75154 Quad EIA RS-232C Line Receiver
+75S20 Dual Schottky ±2.5 mV Sense Amp with Complementary Outputs
+75S24 Dual Schottky ±2.5 mV Sense Amp
+75S234 Dual Schottky ±2.5 mV Sense Amp
+75232 Dual Sense Amp with Open-Collector Outputs
+75238 Dual Sense Amp with Preamplifier Test Points
+7528 Dual Sense Amp with Preamplifier Test Points
+75325 Dual Core Memory Drivers
+75326 Quad Positive OR Sink Core Memory Drivers
+75327 Quad Core Memory Switches
+75450A Dual Positive AND Peripheral Driver
+75450B Dual High-Speed Positive AND Peripheral Driver
+75451A Dual Positive AND Peripheral Driver
+75451B Dual High-Speed Positive AND Peripheral Driver
+75452A Dual Positive NAND Peripheral Driver
+75452B Dual High-Speed Positive NAND Peripheral Driver
+75453A Dual OR Positive Peripheral Driver
+75453B Dual High-Speed OR Positive Peripheral Driver
+75454A Dual Positive NOR Peripheral Driver
+75454B Dual High-Speed Positive NOR Peripheral Driver
+75460  Dual High-Voltage Positive AND Peripheral Driver
+75461 Dual High-Voltage Positive AND Peripheral Driver
+75462 Dual High-Voltage Positive NAND Peripheral Driver
+75463 Dual High-Voltage Positive OR Peripheral Driver
+75464 Dual High-Voltage Positive NOR Peripheral Driver
+75471 Dual High-Voltage Positive AND Peripheral Driver
+75472 Dual High-Voltage Positive NAND Peripheral Driver
+75473 Dual High-Voltage Positive OR Peripheral Driver
+75474 Dual High-Voltage Positive NOR Peripheral Driver
+75491 Quad MOS-to-LED Segment Drivers
+75491A Quad MOS-to-LED Segment Drivers
+75492 HEX MOS-to-LED Digit Drivers
+75492A HEX MOS-to-LED Digit Drivers
+9612 Dual Differential Line Driver
+9612A Dual Differential Line Driver
+9612E Dual Differential Line Driver
+9613 Dual Differential Line Receiver
+9613C Dual Differential Line Receiver
+9614 Dual Differential Line Driver
+9615 Dual Differential Line Receiver
+9616 Triple EIA-RS-232C/MIL-STD-188C Line Driver
+9617 Triple EIA RS-232C Line Receiver
+9622 Dual Line Receiver
+9624 Dual TTL-to-MOS Interface Element
+9625 Dual TTL-to-MOS Interface Element
+9627 Dual EIA RS-232C/MIL-STD-188C Line Receiver
+9634 Dual 3-State EIA RS-422 Differential Line Driver
+9636A Dual Programmable Slew Rate EIA RS-423 Line Driver
+9637A Dual EIA RS-422/423 Differential Line Receiver
+9638 Dual EIA RS-422 High-Speed Differential Line Driver
+9640/26S10 Quad General-Purpose Bus Transceiver
+9641/26S11 Quad General-Purpose Bus Transceiver
+9642 Quad General-Purpose Bus Transceiver with Hysteresis
+9643 Dual AND TTL-to-MOS/CCD Driver
+9644 Dual NAND TTL-to-MOS/CCD Driver
+9645/3245 Quad TTL-to-MOS/CCD Driver
+9646/OS0026 Dual 5 MHz Two Phase MOS Clock Driver
+9650 4-Bit Precision Current Source
+9665/ULN2001 Seven High-Voltage, High-Current Darlington Drivers
+9666/ULN2002 Seven High-Voltage, High-Current Darlington Drivers
+9667/ULN2003 Seven High-Voltage, High-Current Darlington Drivers
+9668/ULN2004 Seven High-Voltage, High-Current Darlington Drivers
+29F01 4-Bit Bipolar Microprocessor Slice
+29F10 Microprogram Controller
+29F705 16-Word by 4-Bit, 2-Port Random Access Memory
+54F/74F00 Quad 2-lnput NAND Gate
+54F/74F02 Quad 2-lnput NOR Gate
+54F/74F04 Hex Inverter
+54F/74F08 Quad 2-lnput AND Gate
+54F/74F10 Triple 3-lnput NAND Gate
+54F/74F11 Triple 3-lnput AND Gate
+54F/74F20 Dual 4-lnput NAND Gate
+54F/74F32 Quad 2-lnput OR Gate
+54F/74F64 4-2-3-2-lnput AND OR-Invert Gate
+54F/74F74 Dual D-Type Positive Edge-Triggered Flip-Flop
+54F/74F86 Quad 2-lnput Exclusive-OR Gate
+54F/74F109 Dual JK Positive Edge-Triggered Flip-Flop
+54F/74F112 Dual JK Negative Edge-Triggered Flip-Flop
+54F/74F113 Dual JK Edge-Triggered Flip-Flop
+54F/74F114 Dual JK Negative Edge-Triggered Flip-Flop
+54F/74F138 1-of-8 Decoder/Demultiplexer
+54F/74F139 Dual 1-of-4 Decoder
+54F/74F148 8-Line to 3-Line Priority Encoder
+54F/74F151 8-lnput Multiplexer
+54F/74F153 Dual 4-lnput Multiplexer
+54F/74F157 Quad 2-lnput Multiplexer
+54F/74F158 Quad 2-lnput Multiplexer
+54F/74F160 Synchronous Presettable BCD Decade Counter
+54F/74F161 Synchronous Presettable Binary Counter
+54F/74F162 Synchronous Presettable BCD Decade Counter
+54F/74F163 Synchronous Presettable Binary Counter
+54F/74F164 Serial-In Parallel-Out Shift Register
+54F/74F168 4-Stage Synchronous Bidirectional Counter
+54F/74F169 4-Stage Synchronous Bidirectional Counter
+54F/74F174 Hex D Flip-Flop
+54F/74F175 Quad D Flip-Flip
+54F/74F181 4-Bit Arithmetic Logic Unit
+54F/74F182 Carry Lookahead Generator
+54F/74F189 64-Bit Random Access Memory
+54F/74F190 Up/Down Decade Counter
+54F/74F191 Up/Down Binary Counter
+54F/74F192 Up/Down Decade Counter
+54F/74F193 Up/Down Binary Counter
+54F/74F194 4-Bit Bidirectional Universal Shift Register
+54F/74F211 144-Bit Random Access Memory
+54F/74F212 144-Bit Random Access Memory
+54F/74F213 192-Bit Random Access Memory
+54F/74F219 64-Bit Random Access Memory
+54F/74F240 Octal Buffer/Line Driver
+54F/74F241 Octal Buffer/Line Driver
+54F/74F242 Quad Bus Transceiver
+54F/74F243 Quad Bus Transceiver
+54F/74F244 Octal Buffer/Line Driver
+54F/74F245 Octal Bidirectional Transceiver
+54F/74F251 8-lnput Multiplexer
+54F/74F253 Dual 4-lnput Multiplexer
+54F/74F257 Quad 2-lnput Multiplexer
+54F/74F258 Quad 2-lnput Multiplexer
+54F/74F269 8-Bit Bidirectional Binary Counter
+54F/74F280 9-Bit Parity Generator/Checker
+54F/74F283 4-Bit Binary Full Adder
+54F/74F289 64-Bit Random Access Memory
+54F/74F299 8-lnput Universal Shift/Storage Register
+54F/74F311 144-Bit Random Access Memory
+54F/74F312 144-Bit Random Access Memory
+54F/74F313 192-Bit Random Access Memory
+54F/74F319 64-Bit Random Access Memory
+54F/74F322 8-Bit Serial/Parallel Register
+54F/74F323 8-Bit Universal Shift/Storage Register
+54F/74F350 4-Bit Shifter
+54F/74F352 Dual 4-lnput Multiplexer
+54F/74F353 Dual 4-lnput Multiplexer
+54F/74F373 Octal Transparent Latch
+54F/74F374 Octal D-Type Flip-Flop
+54F/74F378 Parallel D Register
+54F/74F379 Quad Parallel Register
+54F/74F381 4-Bit Arithmetic Logic Unit
+54F/74F382 4-Bit Arithmetic Logic Unit
+54F/74F384 8-Bit Serial/Parallel Twos Complement Multiplier
+54F/74F385 Quad Serial Adder/Subtractor
+54F/74F398 Quad 2-Port Register
+54F/74F399 Quad 2-Port Register
+54F/74F401 Cyclic Redundancy Check Generator/Checker
+54F/74F402 Expandable Cyclic Redundancy Check Generator/Checker
+54F/74F403 16 X 4 First-In First-Out Buffer Memory
+54F/74F412 Multi-mode Buffered Latch
+54F/74F413 64 X 4 First-In First-Out Buffer Memory
+54F/74F416 16-Bit Memory Error Detection And Correction Circuit
+54F/74F418 32-Bit Memory Error Detection And Correction Circuit
+54F/74F430 Cyclic Redundancy Checker/Corrector
+54F/74F432 Multi-mode Buffered Latch
+54F/74F433 64 X 4 First-In First-Out Buffer Memory
+54F/74F500 6-Bit Analog-to-Digital Converter
+54F/74F505 8-Bit Analog-to-Digital Converter 5"15
+54F/74F521 8-Bit Identity Comparator
+54F/74F524 8-Bit Registered Comparator
+54F/74F525 16-Stage Programmable Counter/Timer
+54F/74F533 Octal Transparent Latch
+54F/74F534 Octal D-Type Flip-Flop
+54F/74F537 1-of-10 Decoder
+54F/74F538 1-of-8 Decoder Dual
+54F/74F539 1-of-4 Decoder
+54F/74F543 Octal Registered Transceiver
+54F/74F544 Octal Registered Transceiver
+54F/74F545 Octal Bidirectional Transceiver
+54F/74F547 Octal Decoder/Demultiplexer
+54F/74F548 Octal Decoder/Demultiplexer
+54F/74F550 Octal Registered Transceiver
+54F/74F551 Octal Registered Transceiver
+54F/74F557 8-Bit By 8-Bit Multiplier
+54F/74F558 8-Bit By 8-Bit Multiplier
+54F/74F559 Expandable 8-Bit Twos Complement Multiplier/Divider
+54F/74F568 4-Bit Bidirectional Counter
+54F/74F569 4-Bit Bidirectional Counter
+54F/74F579 8-Bit Bidirectional Binary Counter
+54F/74F582 4-Bit BCD Arithmetic Logic Unit
+54F/74F583 4-Bit BCD Adder
+54F/74F588 Octal Bidirectional Transceiver
+54F/74F604 Dual Octal Register
+54F/74F605 Dual Octal Register
+54F/74F606 Dual Octal Register
+54F/74F607 Dual Octal Register
+54F/74F610 Memory Mapper
+54F/74F611 Memory Mapper
+54F/74F612 Memory Mapper
+54F/74F613 Memory Mapper
+54F/74F630 16-Bit Error Detection And Correction Circuit
+54F/74F631 16-Bit Error Detection And Correction Circuit
+54F/74F673 16-Bit Shift Register
+54F/74F674 16-Bit Shift Register
+54F/74F675 16-Bit Shift Register
+54F/74F676 16-Bit Shift Register
+54F/74F779 8-Bit Bidirectional Binary Counter
+54F/74F784 8-Bit Serial/Parallel Multiplier

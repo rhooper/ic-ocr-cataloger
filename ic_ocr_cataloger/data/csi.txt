@@ -30,4 +30,4 @@ CAT28LV256   256K-Bit  Parallel E2PROM
 CAT104/105   12 Bit, 25MHz D/A Converter
 CAT504   8-Bit Quad DACpot
 CAT505   8-Bit Quad DACpot
-CAT506   12 Bit, 40MHz D/A Converter 
+CAT506   12 Bit, 40MHz D/A Converter

@@ -200,12 +200,13 @@ class App:
 
     def __init__(self, args, config, ocr_req_queue, ocr_res_queue):
         self.later_path = Path(
-            config["main"].get("try_later_dir", "ic_try_later").expanduser()
+            Path(config["main"].get("try_later_dir", "ic_try_later")).expanduser()
         )
         self.later_path.mkdir(exist_ok=True, parents=True)
         self.opath = Path(
-            config["main"].get("saved_images_dir", "ic_saved").expanduser()
+            Path(config["main"].get("saved_images_dir", "ic_saved")).expanduser()
         )
+        self.opath.mkdir(exist_ok=True, parents=True)
         self.config = config
         self.args = args
         self.previous_save = None
@@ -217,7 +218,7 @@ class App:
         self._force_lock = None
         self.best_match: dict[FoundPart, int] | None = None
         self.bounding_boxes: list[BoundingBox] = []
-        self.catalog = Catalog()
+        self.catalog = Catalog(config)
         self.counter = Counter(n=self.catalog.get_max(), frame=0)
         self.detecting_state = "Searching for parts"
         self.hash_diff = 0
@@ -240,7 +241,7 @@ class App:
         self.alphabeta = AlphaBetaMod()
         self.features: dict[str, TimerHandle | None] = {}
 
-        self.cam = cam = cv2.VideoCapture(int(config["main"].get("cam_device", 0)))
+        self.cam = cam = cv2.VideoCapture(config["main"].getint("cam_device", 0))
         logging.info(
             "Camera opened: %dx%d %d fps: %s",
             cam.get(cv2.CAP_PROP_FRAME_WIDTH),
@@ -248,9 +249,7 @@ class App:
             cam.get(cv2.CAP_PROP_FPS),
             cam.get(cv2.CAP_PROP_HW_DEVICE),
         )
-        cam.set(
-            cv2.CAP_PROP_FPS,
-        )
+        cam.set(cv2.CAP_PROP_FPS, config["main"].getint("cam_fps", 30))
         x, y = config["main"].get("cam_resolution", "1920x1080").split("x")
         cam.set(cv2.CAP_PROP_FRAME_WIDTH, int(x))
         cam.set(cv2.CAP_PROP_FRAME_HEIGHT, int(y))
@@ -453,12 +452,18 @@ class App:
             )
 
     async def do_reimport(self):
-        stats = self.catalog.reimport()
+        self.add_flash_message(
+            "Reimporting catalog",
+            delay=2,
+            color=(255, 255, 0),
+            font=FIXED_FONT,
+        )
+        stats = await self.catalog.reimport()
         logging.info(stats)
         self.add_flash_message(
             "Catalog loaded\n"
             f"{stats["added"]} added, {stats["updated"]} updated, {stats["ignored"]} ignored\n"
-            f"{stats["line"]} => {stats["expanded"]}\n"
+            f"{stats["line"]} lines => {stats["expanded"]} expanded parts\n"
             f"{stats["files"]} files",
             delay=5,
             color=(255, 255, 0),
@@ -1099,6 +1104,13 @@ class App:
         lv = asyncio.create_task(self.live_video(), name="live_video")
         ui = asyncio.create_task(self.ui_task(), name="ui_task")
         ocr = asyncio.create_task(self.ocr_task(), name="ocr_task")
+        if len(self.catalog.parts) == 0:
+            self.add_flash_message(
+                "No parts found in catalog.  Press r to load catalog",
+                5,
+                (255, 0, 0),
+                font=BIG_FONT,
+            )
 
         res = await ui
         ocr.cancel()

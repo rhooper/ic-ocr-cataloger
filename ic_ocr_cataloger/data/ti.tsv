@@ -9132,7 +9132,7 @@ SN74AS1008A	4-ch, 2-input, 4.5-V to 5.5-V bipolar AND gates	PDIP,SOIC	14
 SN74AS1804DW	Hex 2-lnput NAND Driver
 SN74AS1804FN	Hex 2-lnput NAND Driver
 SN74AS1804N	Hex 2-lnput NAND Driver
-SN74AS1805DW	Hex 2-lnput NOR Driver 
+SN74AS1805DW	Hex 2-lnput NOR Driver
 SN74AS244A	8-ch, 4.5-V to 5.5-V bipolar buffers with 3-state outputs	PDIP,SOIC,SOP	20
 SN74AUC00	4-ch, 2-input, 0.8-V to 2.7-V high speed NAND gates	VQFN	14
 SN74AUC02	4-ch, 2-input, 0.8-V to 2.7-V high speed NOR gates	VQFN	14

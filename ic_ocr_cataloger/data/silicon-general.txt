@@ -165,7 +165,7 @@ SG305A Pos. Adjustable Voltage Regulator
 SG307 Compensated Operational Amplifier
 SG309 Pos. Fixed Voltage Regulator 5.0V
 SG311 Voltage Comparator
-SG317 Pos. Adjustable Voltage Regulator 
+SG317 Pos. Adjustable Voltage Regulator
 SG317A Pos. Adjustable Voltage Regulator
 SG317AHV Pos. Adjustable High Voltage Regulator
 SG317HV Pos. Adjustable High Voltage Regulator
@@ -188,12 +188,12 @@ SG340-15 Pos. Fixed Voltage Regulator 15V
 SG340-18 Pos. Fixed Voltage Regulator 18V
 SG340-24 Pos. Fixed Voltage Regulator 24V
 SG340-5 Pos. Fixed Voltage Regulator 5.0V
-SG340-6 Dual High Current Output Driver 
-SG340-6 Pos. Fixed Voltage Regulator 6.0V 
+SG340-6 Dual High Current Output Driver
+SG340-6 Pos. Fixed Voltage Regulator 6.0V
 SG340-8 Pos. Fixed Voltage Regulator 8.0V
 SG340A-12 Pos. Fixed Voltage Regulator 12V
 SG340A-15 Pos. Fixed Voltage Regulator 15V
-SG340A-5 Pos. Fixed Voltage Regulator 5.0V 
+SG340A-5 Pos. Fixed Voltage Regulator 5.0V
 SG343 High Voltage Operational Amplifier
 SG350 3A Positive Adjustable Regulator
 SG350A 3A Positive Adjustable Regulator
@@ -390,36 +390,36 @@ SG7815A Pos. Fixed Voltage Regulator 15V
 SG7815AC Pos. Fixed Voltage Regulator 15V
 SG55327 Quad Source Memory Driver
 SG554508 Dual Peripheral Positive - AND Driver
-SG7818 Pos. Fixed Voltage Regulator 18V 
-SG554518 Dual Peripheral Positive - AND Driver 
-SG7818C Pos. Fixed Voltage Regulator 18V 
-SG554528 Dual Peripheral Positive - NAND Driver 
-SG7818A Pos. Fixed Voltage Regulator 18V 
-SG554538 Dual Peripheral Positive - OR Driver 
-SG7818AC Pos. Fixed Voltage Regulator 18V 
-SG554548 Dual Peripheral Positive - NOR Driver 
-SG7820 Pos. Fixed Voltage Regulator 20V 
-SG55460 Dual Peripheral Positive - AND Driver 
-SG7820C Pos. Fixed Voltage Regulator 20V 
-SG55461 Dual Peripheral Positive - AND Driver 
-SG7820A Pos. Fixed Voltage Regulator 20V 
-SG55462 Dual Peripheral Positive - NAND Driver 
-SG7820AC Pos. Fixed Voltage Regulator 20V 
-SG55463 Dual Peripheral Positive - OR Driver 
-SG7824 Pos. Fixed Voltage Regulator 24V 
-SG55464 Dual Peripheral Positive - NOR Driver 
-SG7824C Pos. Fixed Voltage Regulator 24V 
-SG55470 Dual Peripheral Positive - AND Driver 
-SG7824A Pos. Fixed Voltage Regulator 24V 
-SG55471 Dual Peripheral Positive - AND Driver 
+SG7818 Pos. Fixed Voltage Regulator 18V
+SG554518 Dual Peripheral Positive - AND Driver
+SG7818C Pos. Fixed Voltage Regulator 18V
+SG554528 Dual Peripheral Positive - NAND Driver
+SG7818A Pos. Fixed Voltage Regulator 18V
+SG554538 Dual Peripheral Positive - OR Driver
+SG7818AC Pos. Fixed Voltage Regulator 18V
+SG554548 Dual Peripheral Positive - NOR Driver
+SG7820 Pos. Fixed Voltage Regulator 20V
+SG55460 Dual Peripheral Positive - AND Driver
+SG7820C Pos. Fixed Voltage Regulator 20V
+SG55461 Dual Peripheral Positive - AND Driver
+SG7820A Pos. Fixed Voltage Regulator 20V
+SG55462 Dual Peripheral Positive - NAND Driver
+SG7820AC Pos. Fixed Voltage Regulator 20V
+SG55463 Dual Peripheral Positive - OR Driver
+SG7824 Pos. Fixed Voltage Regulator 24V
+SG55464 Dual Peripheral Positive - NOR Driver
+SG7824C Pos. Fixed Voltage Regulator 24V
+SG55470 Dual Peripheral Positive - AND Driver
+SG7824A Pos. Fixed Voltage Regulator 24V
+SG55471 Dual Peripheral Positive - AND Driver
 SG7824AC Pos. Fixed Voltage Regulator 24V
-SG55472 Dual Peripheral Positive - NAND Driver 
-SG7905 Neg. Fixed Voltage Regulator 5.0V 
-SG55473 Dual Peripheral Positive - OR Driver 
-SG7905C Neg. Fixed Voltage Regulator 5.0V 
-SG55474 Dual Peripheral Positive - NOR Driver 
-SG7905A Neg. Fixed Voltage Regulator 5.0V 
-SG75325 Memory Driver 
+SG55472 Dual Peripheral Positive - NAND Driver
+SG7905 Neg. Fixed Voltage Regulator 5.0V
+SG55473 Dual Peripheral Positive - OR Driver
+SG7905C Neg. Fixed Voltage Regulator 5.0V
+SG55474 Dual Peripheral Positive - NOR Driver
+SG7905A Neg. Fixed Voltage Regulator 5.0V
+SG75325 Memory Driver
 SG7905AC Neg. Fixed Voltage Regulator 5.0V
 SG75326 Memory Driver
 SG7905.2 Neg. Fixed Voltage Regulator 5.2V
@@ -450,27 +450,27 @@ SG74471 Dual Peripheral Positive - AND Driver
 SG75472 Dual Peripheral Positive - NAND Driver
 SG75473 Dual Peripheral Positive - OR Driver
 SG75474 Dual Peripheral Positive - NOR Driver
-SM600 Switching Regulator Power Output Stages 
-SM601 Switching Regulator Power Output Stages 
-SM602 Switching Regulator Power Output Stages 
-SM610 Switching Regulator Power Output Stages 
-SM6ll Switching Regulator Power Output Stages 
-SM612 Switching Regulator Power Output Stages 
-SM625 Switching Regulator Power Output Stages 
-SM626 Switching Regulator Power Output Stages 
-SM627 Switching Regulator Power Output Stages 
-SM635 Switching Regulator Power Output Stages 
-SM636 Switching Regulator Power Output Stages 
-SM637 Switching Regulator Power Output Stages 
-SM645 Switching Regulator Power Output Stages 
-SM646 Switching Regulator Power Output Stages 
-SM647 Switching Regulator Power Output Stages 
-SM655 Switching Regulator Power Output Stages 
-SM656 Switching Regulator Power Output Stages 
-SM657 Switching Regulator Power Output Stages 
-SM660 Switching Regulator Power Output Stages 
-SM661 Switching Regulator Power Output Stages 
-SM662 Switching Regulator Power Output Stages 
-SM670 Switching Regulator Power Output Stages 
-SM671 Switching Regulator Power Output Stages 
-SM672 Switching Regulator Power Output Stages 
+SM600 Switching Regulator Power Output Stages
+SM601 Switching Regulator Power Output Stages
+SM602 Switching Regulator Power Output Stages
+SM610 Switching Regulator Power Output Stages
+SM6ll Switching Regulator Power Output Stages
+SM612 Switching Regulator Power Output Stages
+SM625 Switching Regulator Power Output Stages
+SM626 Switching Regulator Power Output Stages
+SM627 Switching Regulator Power Output Stages
+SM635 Switching Regulator Power Output Stages
+SM636 Switching Regulator Power Output Stages
+SM637 Switching Regulator Power Output Stages
+SM645 Switching Regulator Power Output Stages
+SM646 Switching Regulator Power Output Stages
+SM647 Switching Regulator Power Output Stages
+SM655 Switching Regulator Power Output Stages
+SM656 Switching Regulator Power Output Stages
+SM657 Switching Regulator Power Output Stages
+SM660 Switching Regulator Power Output Stages
+SM661 Switching Regulator Power Output Stages
+SM662 Switching Regulator Power Output Stages
+SM670 Switching Regulator Power Output Stages
+SM671 Switching Regulator Power Output Stages
+SM672 Switching Regulator Power Output Stages

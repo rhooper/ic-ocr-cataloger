@@ -170,4 +170,4 @@ DS5000TK Time Micro Evaluation Kit
 DS5001FP 128K Micro Chip
 O55002FP Secure Micro Chip
 DS5311FP 68HC11 Softener Chip
-DS534OFP V40 Softener Chip 
+DS534OFP V40 Softener Chip
