@@ -654,11 +654,6 @@ LP365	Micropower Programmable Quad Comparator
 LP2902	Micropower Quad Operational Amplifier
 LP2950	5V Adjustable Micropower Voltage Regulator
 LP2951	Adjustable Micropower Voltage Regulator
-MF4	4th Order Switched Capacitor Butterworth Lowpass Filter
-MF5	Universal Monolithic Switched Capacitor Filter
-MF6	6th Order Switched Capacitor Butterworth Lowpass Filter
-MFB	4th Order Switched Capacitor Bandpass Filter
-MF10	Universal Monolithic Dual Switched Capacitor Filter
 MM54HC4016	Quad Analog Switch
 MM54HC4051	8-Channel Analog Multiplexer
 MM54HC4052	Dual 4-Channel Analog Multiplexer

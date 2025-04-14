@@ -16532,3 +16532,4 @@ XTR116	4-20-mA current loop transmitter with 4.096-V reference and 200-μA power
 XTR117	XTR117 4-20mA Current Loop Transmitter	VSON,VSSOP	8
 XTR300	Industrial Analog Current/Voltage Output Driver	VQFN	20
 XTR305	Industrial analog current to voltage output driver	VQFN	20
+74AS885	8-bit magnitude comparators	DIP,AS	24

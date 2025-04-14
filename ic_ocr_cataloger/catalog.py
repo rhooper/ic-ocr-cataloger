@@ -517,6 +517,9 @@ class Catalog:
             expanded.extend(d.glob("*.txt"))
             expanded.extend(d.glob("*.tsv"))
         for p in expanded:
+            if p.name in ("prefixes.json", "families.tsv"):
+                logging.info("Skipping %s", p)
+                continue
             logger.info("Parse %s", p)
             try:
                 stats["file"] += 1

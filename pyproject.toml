@@ -11,7 +11,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ic-ocr-catalogger"
-version = "0.1.0"
+version = "0.2.0"
 description = "An python OpenCV UI that performs live OCR chips, with an integrated catalog."
 authors = [
     { name = "Rose Hooper", email = "rose@rosehooper.com" }
@@ -43,3 +43,6 @@ packages = ["ic_ocr_cataloger"]
 
 [project.scripts]
 "icocr" = "ic_ocr_cataloger.__main__:main"
+
+[tool.isort]
+profile = "black"

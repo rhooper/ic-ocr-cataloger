@@ -383,7 +383,7 @@ MC14024B	7-Stage Ripple Counter
 MC14025B	Triple 3-input NOR Gate
 MC14025UB	Triple 3-input NOR Gate
 MC14027B	Dual J-K Flip-Flop
-MC14028B	BCD-to-DecimaIiBinary-to-Octal Decoder
+MC14028B	BCD-to-Decimal/Binary-to-Octal Decoder		16
 MC14029B	Presettable Binary/BCD Up/Down Counter
 MC1403,A	Precision Low-Voltage Reference
 MC14032B	Triple Serial Adder (Positive Logic)

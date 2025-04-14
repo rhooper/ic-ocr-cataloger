@@ -1,0 +1,81 @@
+# Part	Description				Flags	Pins
+HEF4053B	triple 2-channel analogue multiplexer/demultiplexer		16
+HEF4059B	programmable divide-by-n counter		24
+HEF4060B	14-stage ripple-carry binary counter/divider and oscillator		16
+HEF4066B	quadruple bilateral switches		14
+HEF4067B	16-channel analogue multiplexer/demultiplexer		24
+HEF4068B	8-input NAND gate		14
+HEF4069UB	hex inverter		14
+HEF4070B	quadruple EXCLUSIVE-OR gate		14
+HEF4071B	quadruple 2-input OR gate		14
+HEF4072B	dual 4-input OR gate		14
+HEF4073B	triple 3-input AND gate		14
+HEF4075B	triple 3-input OR gate		14
+HEF4076B	quadruple D-type register with 3-state outputs 		16
+HEF4077B	quadruple EXCLUSIVE-NOR gate		14
+HEF4078B	8-input NOR gate		14
+HEF4081B	quadruple 2-input AND gate		14
+HEF4082B	dual 4 input AND gate		14
+HEF4085B	dual 2-wide 2-input AND-OR-invert gate		14
+HEF4086B	4-wide 2-input AND-OR-invert gate		14
+HEF4093B	quadruple 2-input NAND Schmitt trigger 		14
+HEF4094B	8-stage shift-and-store bus register		16
+HEF4104B	quadruple low to high voltage translator; 3-state		16
+HEF4502B	strobed hex inverter/buffer		16
+HEF4505B	64-bit static read/write RAM		14
+HEF4508B	dual 4-bit latch		24
+HEF4510B	BCD up/down counter		16
+HEF4511B	BCD to 7-segment latch/decoder/driver		16
+HEF4512B	8- input multiplexer with 3-state output		16
+HEF4514B	1-of-16 decoder/demultiplexer with input latches		24
+HEF4515B	1-of-16 decoder/demultiplexer with input latches		24
+HEF4516B	binary up/down counter		16
+HEF4517B	dual 64-bit static shift register		16
+HEF4518B	dual BCD counter		16
+HEF4519B	quadruple 2-input multiplexer		16
+HEF4520B	dual binary counter		16
+HEF4521B	24-stage frequency divider		16
+HEF4522B	programmable 4-bit BCD down counter		16
+HEF4526B	programmable 4-bit binary down counter		16
+HEF4527B	BCD rate multiplier		16
+HEF4528B	dual monostable multivibrator		16
+HEF4531B	13-input parity checker/generator		16
+HEF4532B	8-input priority encoder		16
+HEF4534B	real time 5-decade counter		24
+HEF4538B	dual precision monostable multivibrator		16
+HEF4539B	dual 4-input multiplexer		16
+HEF4541B	programmable timer		14
+HEF4543B	BCD to 7-segment latch/decoder/driver		16
+HEF4555B	dual 1-of-4 decoder/demultiplexer		16
+HEF4556B	dual 1-of-4 decoder/demultiplexer		16
+HEF4557B	1-to-64 bit variable length shift register		16
+HEF4585B	4 bit magnitude comparator		16
+HEF4720B,V	256-bit, 1-bit per word RAM		16
+HEF4724B	8-bit addressable latch		16
+HEF4731B,V	quadruple 64-bit static shift register		14
+HEF4737B,V	quadruple static decade counters 		18
+HEF4738V	IEC/IEEE bus interface  		40
+HEF4750V	frequency synthesizer 		28
+HEF4751V	universal divider 		28
+HEF4752V	a.c. motor control circuit		28
+HEF4753B	universal timer module		18
+HEF4754V	18-element bar graph LCD driver		28
+HEF4755V	transceiver for serial data communication		28
+HEF40097B	3-state hex non-inverting buffer		16
+HEF40098B	3-state hex inverting buffer		16
+HEF40106B	hex inverting Schmitt trigger		14
+HEF40160B	4-bit synchronous decade counter; asynchronous reset		16
+HEF40161B	4-bit synchronous binary counter; asynchronous reset		16
+HEF40162B	4-bit synchronous decade counter; synchronous reset		16
+HEF40163B	4-bit synchronous binary counter; synchronous reset		16
+HEF40174B	hex D-type flip-flop		16
+HEF40175B	quadruple D-type flip-flop		16
+HEF40192B	4-bit up/down decade counter		16
+HEF40193B	4-bit up/down binary counter		16
+HEF40194B	4-bit bidirectional universal shift register		16
+HEF40195B	4-bit universal shift register		16
+HEF40240B	octal buffers with 3-state outputs		20
+HEF40244B	octal buffers with 3-state outputs		20
+HEF40245B	octal bus transceiver with 3-state outputs		20
+HEF40373B	octal transparent latch with 3-state outputs		20
+HEF40374B	octal D-type flip-flop with 3-state outputs		20
