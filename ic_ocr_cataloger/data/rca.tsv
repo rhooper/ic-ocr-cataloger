@@ -378,8 +378,8 @@ CD4502B	Strobed Hex Inverter/Buffer
 CD4508B	Dual 4-Bit latch
 CD4510B	4-Bit BCD Up/Down Counter
 CD4511B	BCD-to-Seven-Segment latch Decoder Driver
-CD4514B	4-Bit latch/4-to-16 Line Decoder (Outputs Higll)
-CD4515B	4 Bit latch/4-to-16 Line Decoder (Outputs Low) ,
+CD4514B	4-Bit latch/4-to-16 Line Decoder (Outputs High)
+CD4515B	4 Bit latch/4-to-16 Line Decoder (Outputs Low)
 CD4516B	4-Bit Binary Up/Down Counter
 CD4518B	Dual BCD Up Counter
 CD4520B	Dual Binary Up Counter
