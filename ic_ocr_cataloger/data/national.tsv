@@ -388,7 +388,7 @@ LM268	Precision Voltage Reference
 LM285	Adjustable Micropower Voltage References
 LM285-1.2	Micropower Voltage Reference Diode
 LM285-2.5	Micropower Voltage Reference Diode
-LM292	Low Power Operational Amplifier /Voltage Comparator
+LM292	Low Power Operational Amplifier/Voltage Comparator
 LM293	Low Power Low Offset Voltage Dual Comparator
 LM295	Ultra Reliable Power Transistors
 LM299	Precision Reference
@@ -696,7 +696,7 @@ LM1889	TV Video Modulator
 MA1002	LED Display Digital Electronic Clock Module
 MA1003	12 Voe Automotive/Instrument Clock Module
 MA1010	LED Display Digital Electronic Clock Module
-MA1012	LED Display Digitai Electronic Clock Module
+MA1012	LED Display Digital Electronic Clock Module
 MA1013	LED Display Digital Electronic Clock Module
 MM5303	Universal Fully Asynchronous Receiver/Transmitter
 MM5307	Baud Rate Generator/Programmable Divider
@@ -776,7 +776,7 @@ MM5880	LED Watch Circuit
 MM5885	Direct Drive L_ED Watch
 MM5886	Direct Drive LED Watch
 MM5889	RC Circuit
-MM5890	LCD Chronograph Ci_rcuit
+MM5890	LCD Chronograph Circuit
 MM5891	MOS Top Octane Frequency Generator
 MM5899	RC Circuit
 MM53100	Programmable TV Timer
@@ -820,8 +820,8 @@ MM54C923	20-Key Encoder
 MM74C915	7-Segment-to-BCD Converter
 MM74C922	16-Key Encoder
 MM74C923	20-Key Encoder
-DP7304B	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
-DP7308	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
+DP7304B	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting)
+DP7308	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting)
 DP7310	Octal Latched Peripheral Driver
 DP7311	Octal Latched Peripheral Driver
 DP8212	8-Bit Input/Output Port
@@ -833,12 +833,12 @@ DP8226	4-Bit Bidirectional Bus Transceiver
 DP8226M	4-Bit Bidirectional Bus Transceiver
 DP8228	System Controller and Bus Driver
 DP8228M	System Controller and Bus Driver
-DP8238	System Controller and Bus Driver .... _._
+DP8238	System Controller and Bus Driver
 DP8238M	System Controller and Bus Driver
-DP8303A	8-Bit TRI-STATE Bidirectional Transceiver (Inverting
-DP8304B	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
-DP8307	A 8-Bit TRI-STATE Bidirectional Transceiver (Inverting
-DP8308	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting
+DP8303A	8-Bit TRI-STATE Bidirectional Transceiver (Inverting))
+DP8304B	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting))
+DP8307	A 8-Bit TRI-STATE Bidirectional Transceiver (Inverting)
+DP8308	8-Bit TRI-STATE Bidirectional Transceiver (Non-Inverting)
 DP8310	Octal Latched Peripheral Driver
 DP8311	Octal Latched Peripheral Driver
 DP8480A	1 Ok EGL-to-TTL Level Translator with Latch
@@ -847,7 +847,7 @@ DP8482A	1 OOk EGL to TTL Level Translator with Latch
 DP8483	TTL-to-1 OOk EGL Level Translator with Latch
 DP84240	Octal TRI-STATE MOS Driver
 DP84244	Octal TRI-STATE MOS Driver
-DS0025C	Two Phase MOS Clock Driver ................................ : .................... 5-1 O
+DS0025C	Two Phase MOS Clock Driver
 DS0026	5 MHz Two Phase MOS Clock Driver
 DS0056	5 MHz Two Phase MOS Clock Driver
 DS1488	Quad Line Driver
@@ -940,14 +940,14 @@ DS3695AT	Multipoint R8-485/RS-422 Transceiver
 DS36F95	R8-485/R8-422 Differential Bus Transceiver
 083696	Multipoint R8-485/R8-422 Transceiver/Repeater
 083696A	Multipoint R8-485/R8-422 Transceiver
-083696AT	Multipoint R8-485/ RS-422 Transoeiver
-083696T	Multipoint R8-485/R8-422 Transceiver /Repeater
+083696AT	Multipoint R8-485/ RS-422 Transceiver
+083696T	Multipoint R8-485/R8-422 Transceiver/Repeater
 083697	Multipoint R8-485/R8-422 Transceiver/Repeater
 083698	Multipoint R8-485/RS-422 Transceiver/Repeater
 DS3862	Octal High Speed Trapezoidal Bus Transceiver
 DS3890	BTL Octal Trapezoidal Driver
 DS3892	BTL Octal TRI-STATE Repeater
-DS3893A	BTL Turbotransceiver ....................... 2-7 4
+DS3893A	BTL Turbo transceiver
 DS3896	BTL Trapezoidal Transceiver
 DS3897	BTL Trapezoidal Transceiver
 DS3898	BTL Octal Trapezoidal Repeater
@@ -984,7 +984,7 @@ DS8641	Quad Unified Bus Transceiver
 DS8654	8-output Display Driver (LED, VF, Thermal Printer
 DS8669	2-Digit BCD to ?-Segment Decoder/Driver
 DS8673	Low Power VHF/UHF Prescaler
-DS8674	Low Power VHF /UHF Prescaler
+DS8674	Low Power VHF/UHF Prescaler
 DS8800	Dual Voltage Level Translator
 DS88L12	Hex TTL-MOS Inverter/Interface Gate
 DS8820	Dual Line Receiver
@@ -1001,7 +1001,7 @@ DS8835	Quad TRI-STATE Bus Transceiver
 DS8836	Quad NOR Unified Bus Receiver
 DS8837	Hex United Bus Receiver
 DS8838	Quad Unified Bus Transceiver
-DS8839	Quad TRI-STATE Bus Transceiver ............ 2-11 O
+DS8839	Quad TRI-STATE Bus Transceiver
 DS8863	MOS-to-LED 8-Digit Driver
 DS8870	Hex LED Digit Driver
 DS8874	9-Digit Shift Input LED Driver
@@ -1085,15 +1085,15 @@ DS75208	Dual Line Receiver
 DS75325	Memory Driver
 DS75361	Dual TTL-to-MOS Driver
 DS75365	Quad TTL-to-MOS Driver
-DS75450	Series Dual Peripheral Driver
-DS75451	Series Dual Peripheral Driver
-DS75452	Series Dual Peripheral Driver
-DS75453	Series Dual Peripheral Driver
-DS75454	Series Dual Peripheral Driver
-DS75461	Series Dual Peripheral Driver
-DS75462	Series Dual Peripheral Driver
-DS75463	Series Dual Peripheral Driver
-DS75464	Series Dual Peripheral Driver
+DS75450	Dual AND Peripheral Driver
+DS75451	Dual AND Peripheral Driver
+DS75452	Dual NAND Peripheral Driver
+DS75453	Dual OR Peripheral Driver
+DS75454	Dual NOR Peripheral Driver
+DS75461	Dual AND Peripheral Driver
+DS75462	Dual NAND Peripheral Driver
+DS75463	Dual OR Peripheral Driver
+DS75464	Dual NOR Peripheral Driver
 DS75491	MOS-to-LED Quad Segment Driver
 DS75492	MOS-to-LED Hex Digit Driver
 DS75493	Quad LED Segment Driver
@@ -1157,7 +1157,7 @@ DP8409A	Multi-Mode Dynamic RAM Controller/Driver
 DP8417	64k Dynamic RAM Controller/Driver
 DP8418	64k Dynamic RAM Controller/Driver
 DP8419	256k Dynamic RAM Controller/Driver
-DP8419X	256k Dynamic RAM Controller /Driver
+DP8419X	256k Dynamic RAM Controller/Driver
 DP8420A	microCMOS Programmable 256k Dynamic RAM Controller/Driver
 DP8421A	microCMOS Programmable 1 M Dynamic RAM Controller/Driver
 DP8422A	microCMOS Programmable 4M Dynamic RAM Controller/Driver

@@ -163,7 +163,7 @@ class OCR:
             noted_prefix = ""
             for value, confidence, position in result:
                 value = value.strip()
-                if value in ("LM", "LN", "TL"):
+                if value in ("LM", "LN", "TL", "DS"):
                     noted_prefix = value
                     continue
                 value = re.sub(r"[^a-zA-Z0-9/-]", "", value)
