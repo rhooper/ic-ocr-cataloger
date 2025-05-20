@@ -30,7 +30,7 @@ AM592	Differential Video Amplifier
 AM685	Voltage Comparator
 AM686	Voltage Comparator
 AM687	Dual Voltage Comparator
-DAC-08	8-Bit High Speed Multiplying D/ A Converter
+DAC-08	8-Bit High Speed Multiplying D/A Converter
 DM7820	Dual Differential Line Receiver
 DM7820A	Dual Differential Line Receiver
 DM7830	Dual Differential Line Driver
@@ -98,7 +98,7 @@ LM201	Operational Amplifier
 LM201A	Operational Amplifier
 LM202	Voltage Follower
 LM205	Voltage Regulator
-LM206	Voltage Comparaotr/Buffer
+LM206	Voltage Comparator/Buffer
 LM207	Frequency Compensated Operational Amplifier
 LM208	Operational Amplifier
 LM208A	Operational Amplifier
@@ -115,7 +115,7 @@ LM239	Low Offset Voltage Quad Comparator
 LM239A	Low Offset Voltage Quad Comparator
 LM248	Quad 741 Operational Amplifier
 LM249	Quad 741 Operational Amplifier
-LM301	Operational' Amplifier
+LM301	Operational Amplifier
 LM301A	Operational Amplifier
 LM302	Voltage Follower
 LM305	Voltage Regulator
@@ -461,7 +461,7 @@ Am74S244	Octal Buffer/Line Driver/Line Receiver with Three-State Outputs
 Am74S251	Eight-Input Multiplexers
 Am74S253	Dual 4-Line to 1-Line Data Selector/Multiplexer
 Am74S257	Quadruple 2-Line to 1-Line Data
-Am74S258	Quadruple 2-Line to 1 ·Line Data
+Am74S258	Quadruple 2-Line to 1-Line Data
 Am74S350	Four-Bit Shifter with Three-State Output
 Am74S373	Octal Latch with Three-State Outputs
 Am74S374	8-Bit Register with Three-State Outputs
