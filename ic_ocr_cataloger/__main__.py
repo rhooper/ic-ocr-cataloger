@@ -1,7 +1,10 @@
+import argparse
 import asyncio
 import configparser
 import logging
 import multiprocessing
+import sys
+from configparser import ConfigParser
 from pathlib import Path
 
 from .app import App
@@ -11,8 +14,7 @@ logging.basicConfig(
 )
 
 
-def get_args():
-    import argparse
+def get_args() -> argparse.Namespace:
 
     parser = argparse.ArgumentParser(description="IC OCR Cataloger")
     parser.add_argument(
@@ -33,12 +35,17 @@ def read_config(path: Path):
 
 def main():
     args = get_args()
-    config = read_config(args.config)
+    config: ConfigParser = read_config(args.config)
     ocr_res_queue = multiprocessing.Queue(maxsize=2)
     ocr_req_queue = multiprocessing.Queue(maxsize=4)
     app = App(args, config, ocr_req_queue, ocr_res_queue)
-    asyncio.gather(asyncio.run(app.main_loop()))
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(app.main_loop())
+    loop.stop()
+    loop.close()
+    logging.info("Done")
 
 
 if __name__ == "__main__":
     main()
+    sys.exit(0)

@@ -32,7 +32,15 @@ dependencies = [
     "numpy~=2.2.4",
     "pillow~=11.1.0",
     "more-itertools~=10.6.0",
-    "ocrmac~=1.0.0"
+    "ocrmac>=1.0.0",
+    "pytesseract>=0.3.13",
+]
+[project.optional-dependencies]
+ocrmac = [
+    "ocrmac~=1.0.0",
+]
+tesseract = [
+    "pytesseract~=0.3.10",
 ]
 
 [tool.setuptools]

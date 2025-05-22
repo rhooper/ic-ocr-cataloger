@@ -1,5 +1,3 @@
-import cv2
-
 from ic_ocr_cataloger.fonts import SMALL_FONT
 from ic_ocr_cataloger.keyhandler import KeyEvent
 from ic_ocr_cataloger.ocr import STICKY
@@ -18,11 +16,7 @@ class MainQuitKey(KeyEvent):
 
     async def triggered(self, key):
         self.app.add_flash_message("Quitting", delay=1, color=(255, 0, 0))
-        self.app.cam.release()
-        cv2.destroyAllWindows()
-        self.app.ocr.stop()
-        self.app.ocr.stop()
-        raise KeyboardInterrupt()
+        await self.app.shutdown()
 
 
 class MainReimportKey(KeyEvent):
@@ -102,7 +96,7 @@ class MainForceLockKey(KeyEvent):
 
     async def triggered(self, key):
         self.app.add_flash_message("Force Lock", 2, font=SMALL_FONT)
-        await self.app.ocr.force_lock()
+        await self.app.ocr_next_queue_item.force_lock()
 
 
 class MainSearchKey(KeyEvent):

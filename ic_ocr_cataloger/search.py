@@ -154,8 +154,8 @@ class ResultEnterKey(KeyEvent):
                 family="",
             ): 1
         }
-        context.app.ocr.locked_parts = save_me
-        context.app.ocr.best_match = save_me
+        context.app.ocr_next_queue_item.locked_parts = save_me
+        context.app.ocr_next_queue_item.best_match = save_me
         await self.app.save_part(save_me, context.cur_image)
         asyncio.get_event_loop().call_later(2, context.clear_search)
 

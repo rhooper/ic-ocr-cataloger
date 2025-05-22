@@ -55,7 +55,7 @@ class KeyEvent(abc.ABC):
                         names.append(f"'{char}'")
         return ", ".join(f"<{name}>" for name in names)
 
-    def __init__(self, app: "App", context):
+    def __init__(self, app, context):
         self.context = context
         self.app = app
 

@@ -2,9 +2,11 @@ import asyncio
 import itertools
 import json
 import logging
+import multiprocessing
 from asyncio import Event, TimerHandle
 from collections import Counter, deque
 from collections.abc import Callable
+from configparser import ConfigParser
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -104,7 +106,15 @@ class App:
 
     """
 
-    def __init__(self, args, config, ocr_req_queue, ocr_res_queue):
+    def __init__(
+        self,
+        args,
+        config: ConfigParser,
+        ocr_req_queue: multiprocessing.Queue,
+        ocr_res_queue: multiprocessing.Queue,
+    ):
+        self._tasks = []
+        self.shutdown_pending: Event = Event()
         self.default_key_handler = KeyMap(
             MainResetKey(self, None),
             MainQuitKey(self, None),
@@ -150,6 +160,9 @@ class App:
         self.ocr = OCR(self, ocr_req_queue, ocr_res_queue)
         self.search = Search(self, self.catalog)
 
+    async def shutdown(self):
+        self.shutdown_pending.set()
+
     async def set_flag(
         self, flag: str, timeout: int = 15, timeout_callback: Callable | None = None
     ) -> None:
@@ -187,6 +200,7 @@ class App:
     async def ui_task(self):
         cv2.namedWindow("UI", cv2.WINDOW_NORMAL)
         ui = np.zeros((1080, 1920, 3), dtype=np.uint8)
+        cv2.imshow("UI", ui)
 
         cv2.putText(
             ui,
@@ -200,7 +214,7 @@ class App:
 
         cv2.imshow("UI", ui)
 
-        while not asyncio.current_task().cancelled():
+        while not self.shutdown_pending.is_set():
             await asyncio.sleep(0)
 
             if self.cam.frame_ready.is_set():
@@ -212,6 +226,7 @@ class App:
             key = cv2.waitKey(1)
 
             await self.key_handler.press(key)
+        logging.info("Exiting UI task")
 
     async def handle_save(self):
         ui = self.cam.cur_image.copy()
@@ -485,8 +500,12 @@ class App:
     async def main_loop(self):
         lv = asyncio.create_task(self.cam.live_video(), name="live_video")
         ui = asyncio.create_task(self.ui_task(), name="ui_task")
-        self.ocr.run()
-        ocr = asyncio.create_task(self.ocr.ocr_task(), name="ocr_task")
+        self.ocr.start_workers()
+        ocr_result_handler = asyncio.create_task(
+            self.ocr.ocr_result_loop(), name="ocr_task"
+        )
+        self._tasks.extend([ui, lv, ocr_result_handler])
+
         if len(self.catalog.parts) == 0:
             self.add_flash_message(
                 "No parts found in catalog.  Press r to load catalog",
@@ -495,16 +514,25 @@ class App:
                 font=BIG_FONT,
             )
 
-        await ui
+        await self.supervise_things()
 
         # Shutdown initiated
-        ocr.cancel()
-        lv.cancel()
-        await ocr
-        await lv
-        await self.cam.release()
-        await self.ocr.stop()
+        wait_for = []
+        for task in asyncio.all_tasks():
+            if not task == asyncio.current_task():
+                task.cancel()
+                wait_for.append(task)
+
+        self.ocr.stop()
+        self.cam.release()
+        for task in wait_for:
+            try:
+                await task
+            except asyncio.CancelledError:
+                pass
+        logging.info("Kill Windows")
         cv2.destroyAllWindows()
+        logging.info("Exiting main loop")
 
     def save_part(self, locked_parts, ui: Image.Image):
         self.previous_save = self.ocr.locked_parts
@@ -542,3 +570,17 @@ class App:
 
     def activate_keymap(self, keymap: KeyMap):
         self.key_handler = keymap
+
+    async def supervise_things(self):
+        this_task = asyncio.current_task()
+
+        while True:
+            await asyncio.sleep(0.1)
+            if self.shutdown_pending.is_set():
+                return
+
+            try:
+                for oops in asyncio.as_completed(self._tasks, timeout=1):
+                    await oops
+            except asyncio.TimeoutError:
+                continue
