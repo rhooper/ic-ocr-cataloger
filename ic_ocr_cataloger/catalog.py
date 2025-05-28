@@ -15,6 +15,11 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
 
+# Transform Rules
+# Fairchild 96xx:
+#       96xxyyZ -> 96xx where yy is package code, suffix Z is optional
+
+
 class PartInfo(NamedTuple):
     part_no: str
     description: str
@@ -101,7 +106,7 @@ class Catalog:
         self.load_prefixes()
         self.parts = {}
         self.parts.update(self.load_parts_db())
-        self.recent_lookups = deque(maxlen=40)
+        self.recent_lookups = deque(maxlen=30)
         self.families: list[dict] = list(
             csv.DictReader((self.data_dir / "families.tsv").open("rt"), delimiter="\t")
         )
@@ -111,7 +116,7 @@ class Catalog:
         src: Generator[PartInfo, None, None],
     ) -> Generator[PartInfo, None, None]:
         family_re = re.compile(
-            r"^(A-Z){0,4}(74|54|64)(|"
+            r"^(A-Z){0,4}(74|54|64|93|96)(|"
             + "|".join(family["code"][2:] for family in self.families)
             + r")(\d{2,5})([A-Z]*[0-9]?)$"
         )
@@ -277,6 +282,17 @@ class Catalog:
         #     series.append("54")
         if series_in == "54":
             series.append("74")
+        if number.startswith("ALS"):
+            number = number[3:]
+            family = "ALS"
+            series.append("74")
+        if number.startswith("F") and len(number) == 4:
+            number = number[1:]
+            family = "F"
+            series.append("74")
+        if number.startswith("FUC9"):  # Fairchild 96xx
+            prefix = "UC"
+            number = number[3:-2]
         possibilities = set()
         for series_no in series:
             possibilities |= {

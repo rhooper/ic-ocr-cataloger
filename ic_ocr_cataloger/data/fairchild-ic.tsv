@@ -133,6 +133,7 @@
 75491A	Quad MOS-to-LED Segment Drivers
 75492	HEX MOS-to-LED Digit Drivers
 75492A	HEX MOS-to-LED Digit Drivers
+9602	Dual Retriggerable/Non-retriggerable One-Shot
 9612	Dual Differential Line Driver
 9612A	Dual Differential Line Driver
 9612E	Dual Differential Line Driver
@@ -165,132 +166,158 @@
 29F01	4-Bit Bipolar Microprocessor Slice
 29F10	Microprogram Controller
 29F705	16-Word by 4-Bit, 2-Port Random Access Memory
-54F/74F00	Quad 2-input NAND Gate
-54F/74F02	Quad 2-input NOR Gate
-54F/74F04	Hex Inverter
-54F/74F08	Quad 2-input AND Gate
-54F/74F10	Triple 3-input NAND Gate
-54F/74F11	Triple 3-input AND Gate
-54F/74F20	Dual 4-input NAND Gate
-54F/74F32	Quad 2-input OR Gate
-54F/74F64	4-2-3-2-input AND OR-Invert Gate
-54F/74F74	Dual D-Type Positive Edge-Triggered Flip-Flop
-54F/74F86	Quad 2-input Exclusive-OR Gate
-54F/74F109	Dual JK Positive Edge-Triggered Flip-Flop
-54F/74F112	Dual JK Negative Edge-Triggered Flip-Flop
-54F/74F113	Dual JK Edge-Triggered Flip-Flop
-54F/74F114	Dual JK Negative Edge-Triggered Flip-Flop
-54F/74F138	1-of-8 Decoder/Demultiplexer
-54F/74F139	Dual 1-of-4 Decoder
-54F/74F148	8-Line to 3-Line Priority Encoder
-54F/74F151	8-input Multiplexer
-54F/74F153	Dual 4-input Multiplexer
-54F/74F157	Quad 2-input Multiplexer
-54F/74F158	Quad 2-input Multiplexer
-54F/74F160	Synchronous Presettable BCD Decade Counter
-54F/74F161	Synchronous Presettable Binary Counter
-54F/74F162	Synchronous Presettable BCD Decade Counter
-54F/74F163	Synchronous Presettable Binary Counter
-54F/74F164	Serial-In Parallel-Out Shift Register
-54F/74F168	4-Stage Synchronous Bidirectional Counter
-54F/74F169	4-Stage Synchronous Bidirectional Counter
-54F/74F174	Hex D Flip-Flop
-54F/74F175	Quad D Flip-Flip
-54F/74F181	4-Bit Arithmetic Logic Unit
-54F/74F182	Carry Lookahead Generator
-54F/74F189	64-Bit Random Access Memory
-54F/74F190	Up/Down Decade Counter
-54F/74F191	Up/Down Binary Counter
-54F/74F192	Up/Down Decade Counter
-54F/74F193	Up/Down Binary Counter
-54F/74F194	4-Bit Bidirectional Universal Shift Register
-54F/74F211	144-Bit Random Access Memory
-54F/74F212	144-Bit Random Access Memory
-54F/74F213	192-Bit Random Access Memory
-54F/74F219	64-Bit Random Access Memory
-54F/74F240	Octal Buffer/Line Driver
-54F/74F241	Octal Buffer/Line Driver
-54F/74F242	Quad Bus Transceiver
-54F/74F243	Quad Bus Transceiver
-54F/74F244	Octal Buffer/Line Driver
-54F/74F245	Octal Bidirectional Transceiver
-54F/74F251	8-input Multiplexer
-54F/74F253	Dual 4-input Multiplexer
-54F/74F257	Quad 2-input Multiplexer
-54F/74F258	Quad 2-input Multiplexer
-54F/74F269	8-Bit Bidirectional Binary Counter
-54F/74F280	9-Bit Parity Generator/Checker
-54F/74F283	4-Bit Binary Full Adder
-54F/74F289	64-Bit Random Access Memory
-54F/74F299	8-input Universal Shift/Storage Register
-54F/74F311	144-Bit Random Access Memory
-54F/74F312	144-Bit Random Access Memory
-54F/74F313	192-Bit Random Access Memory
-54F/74F319	64-Bit Random Access Memory
-54F/74F322	8-Bit Serial/Parallel Register
-54F/74F323	8-Bit Universal Shift/Storage Register
-54F/74F350	4-Bit Shifter
-54F/74F352	Dual 4-input Multiplexer
-54F/74F353	Dual 4-input Multiplexer
-54F/74F373	Octal Transparent Latch
-54F/74F374	Octal D-Type Flip-Flop
-54F/74F378	Parallel D Register
-54F/74F379	Quad Parallel Register
-54F/74F381	4-Bit Arithmetic Logic Unit
-54F/74F382	4-Bit Arithmetic Logic Unit
-54F/74F384	8-Bit Serial/Parallel Twos Complement Multiplier
-54F/74F385	Quad Serial Adder/Subtractor
-54F/74F398	Quad 2-Port Register
-54F/74F399	Quad 2-Port Register
-54F/74F401	Cyclic Redundancy Check Generator/Checker
-54F/74F402	Expandable Cyclic Redundancy Check Generator/Checker
-54F/74F403	16 X 4 First-In First-Out Buffer Memory
-54F/74F412	Multi-mode Buffered Latch
-54F/74F413	64 X 4 First-In First-Out Buffer Memory
-54F/74F416	16-Bit Memory Error Detection And Correction Circuit
-54F/74F418	32-Bit Memory Error Detection And Correction Circuit
-54F/74F430	Cyclic Redundancy Checker/Corrector
-54F/74F432	Multi-mode Buffered Latch
-54F/74F433	64 X 4 First-In First-Out Buffer Memory
-54F/74F500	6-Bit Analog-to-Digital Converter
-54F/74F505	8-Bit Analog-to-Digital Converter
-54F/74F521	8-Bit Identity Comparator
-54F/74F524	8-Bit Registered Comparator
-54F/74F525	16-Stage Programmable Counter/Timer
-54F/74F533	Octal Transparent Latch
-54F/74F534	Octal D-Type Flip-Flop
-54F/74F537	1-of-10 Decoder
-54F/74F538	1-of-8 Decoder Dual
-54F/74F539	1-of-4 Decoder
-54F/74F543	Octal Registered Transceiver
-54F/74F544	Octal Registered Transceiver
-54F/74F545	Octal Bidirectional Transceiver
-54F/74F547	Octal Decoder/Demultiplexer
-54F/74F548	Octal Decoder/Demultiplexer
-54F/74F550	Octal Registered Transceiver
-54F/74F551	Octal Registered Transceiver
-54F/74F557	8-Bit By 8-Bit Multiplier
-54F/74F558	8-Bit By 8-Bit Multiplier
-54F/74F559	Expandable 8-Bit Twos Complement Multiplier/Divider
-54F/74F568	4-Bit Bidirectional Counter
-54F/74F569	4-Bit Bidirectional Counter
-54F/74F579	8-Bit Bidirectional Binary Counter
-54F/74F582	4-Bit BCD Arithmetic Logic Unit
-54F/74F583	4-Bit BCD Adder
-54F/74F588	Octal Bidirectional Transceiver
-54F/74F604	Dual Octal Register
-54F/74F605	Dual Octal Register
-54F/74F606	Dual Octal Register
-54F/74F607	Dual Octal Register
-54F/74F610	Memory Mapper
-54F/74F611	Memory Mapper
-54F/74F612	Memory Mapper
-54F/74F613	Memory Mapper
-54F/74F630	16-Bit Error Detection And Correction Circuit
-54F/74F631	16-Bit Error Detection And Correction Circuit
-54F/74F673	16-Bit Shift Register
-54F/74F674	16-Bit Shift Register
-54F/74F675	16-Bit Shift Register
-54F/74F676	16-Bit Shift Register
-54F/74F779	8-Bit Bidirectional Binary Counter
-54F/74F784	8-Bit Serial/Parallel Multiplier
+74F00	Quad 2-input NAND Gate
+74F02	Quad 2-input NOR Gate
+74F04	Hex Inverter
+74F08	Quad 2-input AND Gate
+74F10	Triple 3-input NAND Gate
+74F11	Triple 3-input AND Gate
+74F20	Dual 4-input NAND Gate
+74F32	Quad 2-input OR Gate
+74F64	4-2-3-2-input AND OR-Invert Gate
+74F74	Dual D-Type Positive Edge-Triggered Flip-Flop
+74F86	Quad 2-input Exclusive-OR Gate
+74F109	Dual JK Positive Edge-Triggered Flip-Flop
+74F112	Dual JK Negative Edge-Triggered Flip-Flop
+74F113	Dual JK Edge-Triggered Flip-Flop
+74F114	Dual JK Negative Edge-Triggered Flip-Flop
+74F138	1-of-8 Decoder/Demultiplexer
+74F139	Dual 1-of-4 Decoder
+74F148	8-Line to 3-Line Priority Encoder
+74F151	8-input Multiplexer
+74F153	Dual 4-input Multiplexer
+74F157	Quad 2-input Multiplexer
+74F158	Quad 2-input Multiplexer
+74F160	Synchronous Presettable BCD Decade Counter
+74F161	Synchronous Presettable Binary Counter
+74F162	Synchronous Presettable BCD Decade Counter
+74F163	Synchronous Presettable Binary Counter
+74F164	Serial-In Parallel-Out Shift Register
+74F168	4-Stage Synchronous Bidirectional Counter
+74F169	4-Stage Synchronous Bidirectional Counter
+74F174	Hex D Flip-Flop
+74F175	Quad D Flip-Flip
+74F181	4-Bit Arithmetic Logic Unit
+74F182	Carry Lookahead Generator
+74F189	64-Bit Random Access Memory
+74F190	Up/Down Decade Counter
+74F191	Up/Down Binary Counter
+74F192	Up/Down Decade Counter
+74F193	Up/Down Binary Counter
+74F194	4-Bit Bidirectional Universal Shift Register
+74F211	144-Bit Random Access Memory
+74F212	144-Bit Random Access Memory
+74F213	192-Bit Random Access Memory
+74F219	64-Bit Random Access Memory
+74F240	Octal Buffer/Line Driver
+74F241	Octal Buffer/Line Driver
+74F242	Quad Bus Transceiver
+74F243	Quad Bus Transceiver
+74F244	Octal Buffer/Line Driver
+74F245	Octal Bidirectional Transceiver
+74F251	8-input Multiplexer
+74F253	Dual 4-input Multiplexer
+74F257	Quad 2-input Multiplexer
+74F258	Quad 2-input Multiplexer
+74F269	8-Bit Bidirectional Binary Counter
+74F280	9-Bit Parity Generator/Checker
+74F283	4-Bit Binary Full Adder
+74F289	64-Bit Random Access Memory
+74F299	8-input Universal Shift/Storage Register
+74F311	144-Bit Random Access Memory
+74F312	144-Bit Random Access Memory
+74F313	192-Bit Random Access Memory
+74F319	64-Bit Random Access Memory
+74F322	8-Bit Serial/Parallel Register
+74F323	8-Bit Universal Shift/Storage Register
+74F350	4-Bit Shifter
+74F352	Dual 4-input Multiplexer
+74F353	Dual 4-input Multiplexer
+74F373	Octal Transparent Latch
+74F374	Octal D-Type Flip-Flop
+74F378	Parallel D Register
+74F379	Quad Parallel Register
+74F381	4-Bit Arithmetic Logic Unit
+74F382	4-Bit Arithmetic Logic Unit
+74F384	8-Bit Serial/Parallel Twos Complement Multiplier
+74F385	Quad Serial Adder/Subtractor
+74F398	Quad 2-Port Register
+74F399	Quad 2-Port Register
+74F401	Cyclic Redundancy Check Generator/Checker
+74F402	Expandable Cyclic Redundancy Check Generator/Checker
+74F403	16 X 4 First-In First-Out Buffer Memory
+74F412	Multi-mode Buffered Latch
+74F413	64 X 4 First-In First-Out Buffer Memory
+74F416	16-Bit Memory Error Detection And Correction Circuit
+74F418	32-Bit Memory Error Detection And Correction Circuit
+74F430	Cyclic Redundancy Checker/Corrector
+74F432	Multi-mode Buffered Latch
+74F433	64 X 4 First-In First-Out Buffer Memory
+74F500	6-Bit Analog-to-Digital Converter
+74F505	8-Bit Analog-to-Digital Converter
+74F521	8-Bit Identity Comparator
+74F524	8-Bit Registered Comparator
+74F525	16-Stage Programmable Counter/Timer
+74F533	Octal Transparent Latch
+74F534	Octal D-Type Flip-Flop
+74F537	1-of-10 Decoder
+74F538	1-of-8 Decoder Dual
+74F539	1-of-4 Decoder
+74F543	Octal Registered Transceiver
+74F544	Octal Registered Transceiver
+74F545	Octal Bidirectional Transceiver
+74F547	Octal Decoder/Demultiplexer
+74F548	Octal Decoder/Demultiplexer
+74F550	Octal Registered Transceiver
+74F551	Octal Registered Transceiver
+74F557	8-Bit By 8-Bit Multiplier
+74F558	8-Bit By 8-Bit Multiplier
+74F559	Expandable 8-Bit Twos Complement Multiplier/Divider
+74F568	4-Bit Bidirectional Counter
+74F569	4-Bit Bidirectional Counter
+74F579	8-Bit Bidirectional Binary Counter
+74F582	4-Bit BCD Arithmetic Logic Unit
+74F583	4-Bit BCD Adder
+74F588	Octal Bidirectional Transceiver
+74F604	Dual Octal Register
+74F605	Dual Octal Register
+74F606	Dual Octal Register
+74F607	Dual Octal Register
+74F610	Memory Mapper
+74F611	Memory Mapper
+74F612	Memory Mapper
+74F613	Memory Mapper
+74F630	16-Bit Error Detection And Correction Circuit
+74F631	16-Bit Error Detection And Correction Circuit
+74F673	16-Bit Shift Register
+74F674	16-Bit Shift Register
+74F675	16-Bit Shift Register
+74F676	16-Bit Shift Register
+74F779	8-Bit Bidirectional Binary Counter
+74F784	8-Bit Serial/Parallel Multiplier
+909459	Dual J-K Flip-Flop
+9624	TTL-MOS Level Translator
+9314/93L14	4-Bit RS Latch
+9308/93L08	Dual 4-Bit D Latch
+9334 	8-Bit Addr. Latch
+93L34	8-Bit Addr. Latch
+9002	Quad 2-Input NAND Gate
+L94659	DTµL Quad 2-Input NAND Gate
+L93059	DTµL DUAL GATE
+L93259	DTµL DUAL BUFFER
+L94459	DTµL DUAL POWER GATE
+L93359	DTµL DUAL EXTENDER 3NO
+L93159	DTµL CLOCKED FLIP-FLOP
+930059	MSI 4-BIT SHIFT REGISTER
+L96259	DTµL 4-Input NAND Gate (?)
+µA702/U6A7702393	WIDEBAND DC AMPLIFIER
+934259	CARRY LOOKAHEAD
+934859	12-INPUT PARITY CHECKER/GENERATOR
+L93659	Hex Inverter
+SN74L98	D Flip-flop
+962DC	Triple 3 Gate (NAND?)
+960059	Monostable Multivibrator Retriggerable, Resettable		14
+960159	Monostable Multivibrator Retriggerable		14
+960259	Dual Monostable Multivibrator Retriggerable, Resettable		16
+93559	DTL Hex Inverter (Schmitt Trigger)
+9601 	TTµL Retriggerable Monostable Multivibrator

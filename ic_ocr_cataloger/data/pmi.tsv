@@ -1,0 +1,116 @@
+OP01	Inverting High-Speed Operational Amplifier
+OP02	General-Purpose Operational Amplifier
+OP04/OP14	Dual Matched High-Performance Operational Amplifiers
+OP05	Instrumentation Operational Amplifier
+OP06	High-Gain Instrumentation Operational Amplifier
+OP07	Ultra-Low Offset Voltage Operational Amplifier
+OP08	Precision Low-Input-Current Operational Amplifier
+OP09/OP11	Quad Matched 741-Type Operational Amplifiers
+OP10	Dual Matched Instrumentation Operational Amplifier
+OP12	Precision Low-Input-Current Operational Amplifier
+OP15/OP16/OP17	Precision JFET-Input Operational Amplifiers
+OP20	Micropower Operational Amplifier
+OP21	Low-Power Operational Amplifier
+OP22	Programmable Micropower Operational Amplifier
+OP220	Dual Micropower Operational Amplifier
+OP27	Low-Noise Precision Operational Amplifier
+OP32	High-Speed Programmable Micropower Operational Amplifier
+OP37	Low-Noise Precision High-Speed Operational Amplifier
+OP41	Low-Bias-Current JFET Operational Amplifier
+OP43	Low-Bias-Current, Fast JFET Operational Amplifier
+OP50	High-Output-Current Operational Amplifier
+OP77	Next Generation OP07 (Ultra-Low Offset Voltage Operational Amplifier)
+OP90	Low-Voltage Micropower Operational Amplifier
+OP207	Dual Ultra-Low Vas Matched Operational Amplifier
+OP215	Dual Precision JFET-Input Operational Amplifier
+OP220	Dual Low-Power Operational Amplifier
+OP227	Dual Low-Noise Low-Offset Instrumentation Operational Amplifier
+OP400	Quad Low-Offset Low-Power Operational Amplifier
+OP420	Quad Micropower Operational Amplifier
+OP421	Quad Low-Power Operational Amplifier
+PM108,A	Low-Input-Current Operational Amplifiers
+PM208,A	Low-Input-Current Operational Amplifiers
+PM308,A	Low-Input-Current Operational Amplifiers
+PM2108,A	Low-Input-Current Operational Amplifiers
+PM146/PM246	Programmable Quad Operational Amplifiers
+PM155,A	Monolithic JFET-Input Operational Amplifiers
+PM156,A	Monolithic JFET-Input Operational Amplifiers
+PM355A 	Monolithic JFET-Input Operational Amplifiers
+PM356A 	Monolithic JFET-Input Operational Amplifiers
+PM157,A	Monolithic JFET-Input Operational Amplifiers
+PM357A 	Monolithic JFET-Input Operational Amplifiers
+PM725  	Instrumentation Operational Amplifier
+PM741	Compensated Operational Amplifier
+PM747	Dual Compensated Operational Amplifier
+JM38510/JM10104	JAN Single Low-Input-Current Operational Amplifier
+JM38510/JM10106	JAN Dual Low-Input-Current Operational Amplifier
+JM38510/JM11004	JAN Quad 741-Type Operational Amplifier
+JM38510/JM11401/JM11402/JM11403/JM11404/JM11405/JM11406	JAN JFET-Input Operational Amplifiers
+JM38510/JM13501/JM13502	Ultra-Low Offset Voltage Operational Amplifiers
+JM38510/JM13503	Low-Noise Precision Operational Amplifier
+AMP01	Low-Noise Precision Instrumentation Amplifier
+AMP05	Fast-Settling JFET Instrumentation Amplifier
+BUF03	High-Speed Voltage Follower/Buffer
+CMP01	Fast Precision Comparator
+CMP02	Low-Input-Current Precision Comparator
+CMP04	Quad Low-Power Precision Comparator
+CMP05	High-Speed Precision Comparator
+CMP07	Very High-Speed Comparator
+CMP404	Quad Low-Power Precision Comparator
+PM111/PM211	Precision Voltage Comparators
+PM119/PM219/PM319	Dual Comparators
+PM139/PM139A/PM339A	Quad Low-Power Voltage Comparators
+MAT01	Matched Monolithic Dual Transistor
+MAT02	Low-Noise, Matched Dual Monolithic Transistor
+MAT04	Matched Monolithic Quad Transistor
+REF01	1OV Precision Voltage Reference
+REF02	5V Precision Voltage Reference/Temperature Transducer
+REF03	+2.5V Precision Voltage Reference
+REF05	+5V Precision Voltage Reference
+REF10	+10V Precision Voltage Reference
+DAC01	6-Bit Voltage-Output D/ A Converter
+DAC02/DAC03/DAC05	10-Bit-Plus-Sign Voltage-Output
+DAC06	Two's-Complement 10-Bit Voltage-Output D/ A Converter
+DAC08	8-Bit High-Speed Multiplying D/A Converter
+DAC10	10-Bit High-Speed Multiplying D/A Converter
+DAC20	2-Digit BCD High-Speed Multiplying D/A Converter
+DAC86	COMDAC Companding D/A Converter
+DAC88	COMDAC Companding D/A Converter
+DAC89	COMDAC Companding D/A Converter
+DAC100	10-Bit Current-Output D/A Converter
+PM7226	Quad 8-Bit CMOS D/ A Converter With Voltage Output
+DAC208	9-Bit Voltage-Output D/ A Converter
+DAC210	11-Bit Voltage-Output D/A Converter
+PM7524	CMOS 8-Bit Buffered Multiplying D/ A Converter
+PM7528	Dual 8-Bit Buffered Multiplying CMOS D/ A Converter
+DAC312	12-Bit High-Speed Multiplying D/A Converter
+DAC888	BYTEDAC® 8-Bit High-Speed "Microprocessor Compatible" Multiplying D/ A Converter
+PM7533	CMOS Low Cost 10-Bit Multiplying D/ A Converter
+PM7541	CMOS 12-Bit Monolithic Multiplying D/ A Converter
+DAC1508A/1408A	8-Bit Multiplying D/ A Converters
+PM7542	12-Bit Multiplying CMOS D/A Converter
+DAC8012	CMOS 12-Bit Multiplying D/ A Converter "With Memory"
+PM7543	12-Bit Serial-Input Multiplying CMOS D/A Converter
+DAC8212	Dual 12-Bit Buffered Multiplying CMOS D/ A Converter
+PM7545/PM7645	12-Bit Buffered Multiplying CMOS D/A Converters
+DAC8408	Quad 8-Bit Multiplying CMOS D/A Converter With Memory
+PM7548	12-Bit Multiplying CMOS D/A Converter
+PM562	12-Bit Multiplying Current-Output D/ A Converter
+PM565A	Complete High-Speed 12-Bit Monolithic D/ A Converter
+IM38510/IM11301/IM11302	JAN 8-Bit Multiplying D/ A Converters
+ADC910	High-Speed "MicroprocessorCompatible" A/D Converter
+ADC8208	Microprocessor-Compatible 8-Bit CMOS A/D Converter
+SW01/SW02	Quad SPST JFET Analog Switches
+SW05	Dual SPST JFET Analog Switch
+SW06	Quad SPST JFET Analog Switch
+SW201/SW202	Quad SPST JFET Analog Switches
+SW7510/SW7511	Quad SPST JFET Analog Switches
+MUX08/MUX24	8-Channel/Dual 4-Channel JFET Analog Multiplexers
+MUX16/MUX28	16-Channel/Dual 8-Channel JFET Analog Multiplexers
+MUX08	8-Channel Analog Multiplexer For PCM CODECs
+DMX88	8-Channel Analog De-Multiplexer
+SMP10/SMP11	Low-Droop-Rate/Accurate Sample-and-Hold Amplifiers
+SMP81	Telecommunications Sample-and-Hold Amplifier
+GAP01	General-Purpose Analog Signal Processing Subsystem
+PKD01	Monolithic Peak Detector
+RPT82/RPT83	PCM Repeaters

@@ -66,7 +66,7 @@ class SearchSelectKeyMap(KeyMap):
         )
 
     async def press(self, key: int = None):
-        result = super().press(key)
+        result = await super().press(key)
         context = self.context
         if isinstance(result, KeyMap):
             context.context.set_mode("search_select")
@@ -84,7 +84,7 @@ class ResultUpDownKey(KeyEvent):
     keys = (0, 1)
 
     async def triggered(self, key):
-        context = self.context
+        context = self.context.context
         if key == 0:
             context.current_search_pick -= 1
         else:
@@ -99,7 +99,7 @@ class ResultLeftRightKey(KeyEvent):
     keys = (2, 3)
 
     async def triggered(self, key):
-        context = self.context
+        context = self.context.context
         pg = context.search_result_page
         if (
             len(context.search_results) < NUM_SEARCH_RESULTS
@@ -121,10 +121,11 @@ class ResultEscapeKey(KeyEvent):
     keys = 27
 
     async def triggered(self, key):
-        context = self.context
+        context = self.context.context
         context.active_keymap = context.search_keymap
         context.current_search_pick = 0
         context.search_result_page = 0
+        context.clear_search()
 
 
 class ResultSelectKey(KeyEvent):
@@ -140,7 +141,7 @@ class ResultEnterKey(KeyEvent):
     keys = (13, 10)
 
     async def triggered(self, key):
-        context = self.context
+        context = self.context.context
         if not context.current_search_pick:
             return
         pick = context.search_results[context.current_search_pick - 1][1]
@@ -154,9 +155,11 @@ class ResultEnterKey(KeyEvent):
                 family="",
             ): 1
         }
-        context.app.ocr_next_queue_item.locked_parts = save_me
-        context.app.ocr_next_queue_item.best_match = save_me
-        await self.app.save_part(save_me, context.cur_image)
+        # context.app.ocr_next_queue_item.locked_parts = save_me
+        # context.app.ocr_next_queue_item.best_match = save_me
+        self.app.ocr.best_match = save_me
+        self.app.ocr.locked_parts = save_me
+        await self.app.handle_save()
         asyncio.get_event_loop().call_later(2, context.clear_search)
 
 
@@ -337,14 +340,18 @@ class SearchArrowKey(KeyEvent):
 
     async def triggered(self, key):
         self.context.set_mode(SearchMode.ACTION)
-        self.context.select_keymap.press(key)
+        await self.context.select_keymap.press(key)
 
 
 class SearchDelBackspace(KeyEvent):
     keys = (8, 127)  # DEL, BACKSPACE
 
     async def triggered(self, key):
-        self.context.search_string = self.context.search_string[:-1]
+        if hasattr(self.context, "context"):
+            context = self.context.context
+        else:
+            context = self.context
+        context.search_string = context.search_string[:-1]
 
 
 class SearchSquareLeft(KeyEvent):

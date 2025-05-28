@@ -121,7 +121,8 @@ TDA2030	14W Hi-Fi amplifier		5
 74154	4 Line to 16 Line Decoder Demultiplexer		24
 74155	Dual 2 to 4 Demultiplexer		18
 74156	Dual 2 to 4 Demultiplexer (OC)		16
-74157	Quad 2 Input Multiplexer (9322)		16
+74157	Quad 2 Input Multiplexer		16
+9322DC	Quad 2 Input Multiplexer		16
 74158	Quad 2 Input Data Selector/Multiplexer		16
 74159	4 to 16 Line Decoder		24
 74160	Synchronous 4 Bit Decade Counter		16
@@ -300,3 +301,16 @@ TDA2030	14W Hi-Fi amplifier		5
 74992	9-Bit D-type read-back latch 3-state		24
 74994	10-Bit D-type read-back latch		24
 74996	Octal D-type read-back latch		24
+2240CP	Exar XR-2240 Programmable Timer	exar	16
+LT1010	Fast +- 150mA Power Buffer		8
+TC4420	6A HIGH-SPEED MOSFET DRIVERS	telecom	8
+SW708-2P	(see MC953) Dual J-K Flip-Flop (separate clock and SD, No CD)		14
+MCA255	Photodarlington Optocouplers		6
+VS10P05	Protek TVS Array	SIP	10
+ECL-100K-LDM-36	ECL Logic Delay Module	DIP	24
+DAN803	High Speed switching Diode Array	SIP	9
+FSTDL015B	Delay line	technitrol,DIP	14
+DT14CB101	Delay line	kappa,DIP	14
+FD02-101G	10BaseT Filter & Transformer Module	halo,DIP	16
+TD01-756K	AUI Isolation Transformer	halo,DIP	16
+ACS-712T-ELC-20A	Current Sensor, 20A		8

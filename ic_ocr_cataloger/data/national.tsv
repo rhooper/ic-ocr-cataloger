@@ -1194,3 +1194,25 @@ MM58274C	MicroprocessorCompatible Real Time Clock
 MM58174A	Microprocessor Compatible Real Time Clock
 MM58167B	Microprocessor Real Time Clock
 NS32FX211	Microprocessor Compatible Real Time Clock
+DM74H78	Dual JK Flip Flop with Preset and Clear Inputs
+DM74S571 	(512 x 4) 2048-Bit TTL PROM
+INS8080A	8-Bit Microprocessor
+INS8224	Clock Generator and Driver
+INS8228/INS8238	System Controller and Bus Driver
+INS8202	TRI-STATE® 8-Bit Bus Driver
+INS8203	TRI-STATE 8-Bit Bus Driver (Inverting)
+INS8208	8-Bit Bidirectional Bus Driver
+INS8212	8-Bit I/O Port
+INS8216	4-Bit Bidirectional Bus Driver
+INS8226	4-Bit Bidirectional Bus Driver (Inverting)
+INS8255	Programmable Peripheral Interface
+DP8350	Series Programmable CRT Controller
+INS1771-1	Floppy Disk Formatter/Controller
+INS8253	Programmable Timer
+INS8254	Programmable 16-Bit Addressable Peripheral Interface
+INS8257	Programmable DMA Controller
+INS8259	Programmable Interrupt Controller
+INS8298E	LLL BASIC Interpreter
+INS1671	ASTRO Communications Interface
+INS8250	Asynchronous Communications Element (ACE)
+INS8251	Programmable Communications Interface

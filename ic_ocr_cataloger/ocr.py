@@ -60,6 +60,37 @@ class OCRMacEngine(OCREngine):
         ).recognize(px=True)
 
 
+class TesseractOcrEngine:
+    def __init__(self):
+        try:
+            import pytesseract
+        except ImportError:
+            raise ImportError(
+                "Tesseract OCR engine not found. Please install pytesseract."
+            )
+
+        self.engine = pytesseract
+
+    def recognize(self, image) -> tuple:
+        res = self.engine.image_to_data(
+            image, config="--psm 12", lang="eng", output_type=self.engine.Output.DICT
+        )
+        return [
+            (
+                res["text"][i],
+                res["conf"][i],
+                (
+                    res["left"][i],
+                    res["top"][i],
+                    res["left"][i] + res["width"][i],
+                    res["left"][i] + res["height"][i],
+                ),
+            )
+            for word, left, top, width, left in zip()
+            if int(res["conf"][i]) > 0
+        ]
+
+
 class OCR:
     def __init__(self, app, ocr_req_queue, ocr_res_queue):
         self.ocr_pool = None
@@ -71,7 +102,7 @@ class OCR:
         self.last_ocr_result_timestamp = 0
         self.ocr_stable = Event()
         self.raw_text: str = ""
-        self.recently_found: deque[dict[FoundPart, int]] = deque(maxlen=25)
+        self.recently_found: deque[dict[FoundPart, int]] = deque(maxlen=50)
         self.ocr_req_queue: multiprocessing.Queue = ocr_req_queue
         self.bounding_boxes: list[BoundingBox] = []
         self.best_match: dict[FoundPart, int] | None = None
@@ -307,8 +338,8 @@ class OCRWorker(multiprocessing.Process):
         logging.info("%s", f"OCR Worker no {self.n} ready")
 
         match self.engine_name:
-            # case "tesseract":
-            #     engine = TesseractOcrEngine()
+            case "tesseract":
+                self._engine = TesseractOcrEngine()
             case "ocrmac" | _:
                 self._engine = OCRMacEngine(
                     frame_width=self.frame_width, frame_height=self.frame_height

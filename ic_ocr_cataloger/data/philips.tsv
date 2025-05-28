@@ -79,3 +79,5 @@ HEF40244B	octal buffers with 3-state outputs		20
 HEF40245B	octal bus transceiver with 3-state outputs		20
 HEF40373B	octal transparent latch with 3-state outputs		20
 HEF40374B	octal D-type flip-flop with 3-state outputs		20
+ECG9367 	Quad Schmitt Trigger (Active Pull-Up)		16
+ECG9302	HLL Quad 2-Input NAND Buffer Gate oc

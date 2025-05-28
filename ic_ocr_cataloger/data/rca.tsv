@@ -217,6 +217,7 @@ CA3100	wide-band operational amplifier
 CA3100T	 Wide-Band Operational Amplifier
 CA3102	dual differential amplifier
 CA311	voltage comparator
+CA3140	MOS Operational Amplifiers With MOS/FET Input
 CA3118	high-voltage transistor array In-p-n)
 CA3118A	high-voltage transistor array (n-p-n)
 CA3118AT	 High-Voltage Transistor Array
@@ -281,8 +282,8 @@ CD2503	BCD-to-7-segment decoder/driver
 CD4000A	Dual 3-input NOR Gate Plus Inverter
 CD4001A	Quad 2-input NOR Gate
 CD4002A	Dual 4-input NOR Gate
-CD4006A	18-Stage Static Shift Register
-CD4007A	Dual Complementary Pair Plus Inverter
+CD4006B	18-Stage Static Shift Register
+CD4007A,C	Dual Complementary Pair Plus Inverter
 CD4008A	4-Bit Full Adder With Parallel Carry-out
 CD4009A	Hex Buffer/Converter (Inverting Type)
 CD40100	32-Bit Left/Right Shift Register
@@ -319,7 +320,7 @@ CD4025A	Triple 3-input NOR Gate
 CD4026A	Decade Counter/Divider
 CD4027A	Dual J-K Master-Slave Flip-Flop With Set/Reset Capability
 CD4028A	BCD-TO-Decimal Decoder
-CD4029A	Presettable Up/Down Counter
+CD4029A,B	Presettable Up/Down Counter
 CD4030A	Quad Exclusive-OR Gate
 CD4031A	64-Stage Static Shift Register
 CD4033A	Decade Counter/Divider

@@ -1,0 +1,53 @@
+# # HEF4000B    dual 3-input NOR gate and inverter gates 14 D, P, T 113
+# HEF4001B
+# HEF4001UB
+# quadruple quadruple 2-input 2-input NOR
+# NOR gate gate; unbuffered gates 14 D, P, T 117
+# HEF4002B    dual 4-input NOR gate      gates gates 14 14 D, D,P,T P, T 119 127
+# HEF4006B    18-stage static shift register MSI 14 D, P, T 129
+# HEF4007UB   dual complementary pair and inverter gates 14 D, P, T 133
+# HEF4008B
+# HEF4011B
+# 4-bit quadruple binary full 2-input adder
+# NAND gate MSI gates 16 14 D, D, P, P, T T 141 145
+# HEF4011UB   quadruple 2-input NAND gate; unbuffered gates 14 D,P,T 147
+# HEF4012B    dual 4-input NAND gate     gates     14    D,P,T   155
+# HEF4013B
+# HEF4014B
+# dual 8-bit D-type static flip-flop
+# shift register flip-flops MSI 14 16 D, D,P, P, T T 157 163
+# HEF4015B    dual 4-bit static shift register MSI 16 D,P, T 169
+# HEF4016B    quadruple bilateral switches gates 14 D, P, T 173
+# HEF4017B
+# HEF4018B
+# 5-stage presettable Johnson divide-by-n counter counter MSI 16 D, P, T 181
+# HEF4019B    quadruple 2-input multiplexer MSI MSI 16 16 D,P,T D, P, T 189 195
+# HEF4020B    14-stage binary counter    MS!      16     D,    P, T 199
+# HEF4021
+# HEF4022B
+# B 8-bit 4-stage static divide-by-8 shift register Johnson counter MSI MSI 16 16 D, D, P, P, T T 205 211
+# HEF4023B    triple 3-input NAND gate   gates   14 D, P, T 219
+# HEF4024B    7-stage binary counter     MSI       14      D,     P,   T   221
+# HEF4025B
+# HEF4027B
+# triple dual JK 3-input flip-flop NOR gate gates flip-flops 14 16 D, D, P, P, T T 225 227
+# HEF4028B    1-of-1 0 decoder           MSI             16            D,           P,         T         233
+# HEF4029B    synchronous up/down - binary/decade counter MSI 16 D, P, T 237
+# HEF4030B
+# HEF4031B
+# quadruple EXCLUSIVE-OR gate gates 14 D, P, T 249
+# HEF4035B    64-stage 4-bit universal static shift shift register register MSI MSI 16 16 D, D, P, P, T T 251 257
+# HEF4040B    12-stage binary counter    MSI     16     D,    P, T 265
+# HEF4041B    quadruple true/complement buffer buffers 14 D, P, T 269
+# HEF4042B
+# HEF4043B
+# quadruple quadruple D-latch R/S latch with 3-state outputs MSI MSI 16 16 D, D, P, P, T T 271 277
+# HEF4044B    quadruple R/S latch with 3-state outputs MSI 16 D, P, T 281
+# HEF4046B    phase-locked loop          MSI           16           D,          P,        T        285
+# HEF4047B
+# HEF4049B
+# monostable/astable hex inverting buffers multivibrator MSI buffers 14 16 D, D, P, P, T T 299 313
+# HEF4050B    hex non-inverting buffers buffers 16 D, P, T 315
+# HEF4051B    8-channel analogue multiplexer/demultiplexer MSI 16 D, P, T 317
+# HEF4052B    dual 4-channel analogue multiplexer/demultiplexer MSI 16 D, P, T 325
+#

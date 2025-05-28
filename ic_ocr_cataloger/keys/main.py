@@ -92,11 +92,11 @@ class MainStickyKey(KeyEvent):
 
 
 class MainForceLockKey(KeyEvent):
-    keys = b"!"
+    keys = b"!+"
 
     async def triggered(self, key):
         self.app.add_flash_message("Force Lock", 2, font=SMALL_FONT)
-        await self.app.ocr_next_queue_item.force_lock()
+        await self.app.ocr.force_lock()
 
 
 class MainSearchKey(KeyEvent):

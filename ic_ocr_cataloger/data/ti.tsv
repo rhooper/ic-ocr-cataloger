@@ -1294,9 +1294,8 @@ CC430F6135	20 MHz MCU with 16KB Flash, 2KB SRAM, Sub-1 GHz radio, AES-128, 12-bi
 CC430F6147	20 MHz MCU with 32KB Flash, 4KB SRAM, Sub-1 GHz radio, AES-128, 10-bit ADC, I2C/SPI/UART, 96 seg	VQFN	64
 CD14538B	CMOS Dual Precision Monostable Multivibrator (125 C Operation)	PDIP,SOIC,SOP,TSSOP	16
 CD4001B	4-ch, 2-input, 3-V to 18-V NOR gates	PDIP,SOIC,SOP,TSSOP	14
-CD4001B-MIL	Military 4-ch, 2-input, 3-V to 18-V NOR gates	CDIP	14
 CD4001UB	4-ch, 2-input, 3-V to 18-V NOR gates	PDIP,SOIC,TSSOP	14
-CD4002B-MIL	Military 2-ch, 4-input, 3-V to 18-V NOR gates	CDIP	14
+CD4002B	2-ch, 4-input, 3-V to 18-V NOR gates	CDIP	14
 CD4007UB	CMOS dual complementary pair plus inverter	PDIP,SOIC,SOP,TSSOP	14
 CD4009UB	CMOS hex inverting buffer/converter	PDIP,SOIC,TSSOP	16
 CD40103B	CMOS 8-Stage Presettable 8-Bit Binary Synchronous Down Counter	PDIP,SOP,TSSOP	16
@@ -1307,101 +1306,68 @@ CD4010B	CMOS Hex Non-Inverting Buffer/Converter	PDIP,SOIC,SOP,TSSOP	16
 CD4010B-Q1	Automotive catalog CMOS hex non-inverting buffer/converter	SOIC	16
 CD4011A	Military 4-ch, 2-input, 3-V to 12-V NAND gates	CDIP,CDIP_SB	14
 CD4011B	4-ch, 2-input, 3-V to 18-V NAND gates	PDIP,SOIC,SOP,TSSOP	14
-CD4011B-MIL	Military 4-ch, 2-input, 3-V to 18-V NAND gates	CDIP	14
 CD4011UB	4-ch, 2-input, 3-V to 18-V NAND gates	PDIP,SOIC,SOP,TSSOP	14
 CD4012B	2-ch, 4-input, 3-V to 18-V NAND gates	PDIP,SOIC,SOP,TSSOP	14
-CD4012B-MIL	Military 2-ch, 4-input, 3-V to 18-V NAND gates	CDIP	14
 CD4013B	CMOS Dual D-Type Flip Flop	PDIP,SOIC,SOP,TSSOP	14
-CD4013B-MIL	CMOS Dual D-Type Flip Flop	CDIP	14
 CD40147B	10-Line to 4-Line BCD Priority Encoder	PDIP,SOIC	16
 CD4014B	CMOS 8-Stage Static Shift Register	PDIP,SOIC,TSSOP	16
 CD4015B	CMOS Dual 4-Stage Static Shift Register	PDIP,SOIC,TSSOP	16
 CD4016B	4-channel analog switch 100-pA on-state leakage current, 20-V, 1:1 (SPST)	PDIP,SOIC,SOP,TSSOP	14
-CD4016B-MIL	CMOS Quad Bilateral Switch	CDIP	14
 CD40174B	CMOS Hex D-Type Flip-Flop	PDIP,SOIC,SOP,TSSOP	16
 CD40175B	CMOS Quad D-Type Flip-Flop	PDIP,SOIC,SOP,TSSOP	16
 CD4017B	CMOS Decade Counter with 10 Decoded Outputs	PDIP,SOIC,SOP,TSSOP	16
-CD4017B-MIL	CMOS Decade Counter with 10 Decoded Outputs	CDIP	16
-CD4018B-MIL	CMOS Presettable Divide-By-N Counter	CDIP	16
+CD4018B	CMOS Presettable Divide-By-N Counter	CDIP	16
 CD40193B	CMOS Presettable Binary Up/Down Counter (Dual Clock with Reset)	PDIP,SOP,TSSOP	16
 CD4019B	CMOS Quad AND/OR Select Gate	PDIP,SOIC,SOP,TSSOP	16
-CD4019B-MIL	CMOS Quad AND/OR Select Gate	CDIP	16
 CD4020B	CMOS 14-Stage Ripple-Carry Binary Counter/Divider	PDIP,SOP,TSSOP	16
-CD4020B-MIL	CMOS 14-Stage Ripple-Carry Binary Counter/Divider	CDIP	16
 CD4021B	CMOS 8-Stage Static Shift Register	PDIP,SOIC,TSSOP	16
-CD4021B-MIL	CMOS 8-Stage Static Shift Register	CDIP	16
 CD4021B-Q1	Automotive Catalog CMOS 8-Stage Static Shift Register	SOIC	16
 CD4022B	CMOS Octal Counter with 8 Decoded Outputs	PDIP,SOP,TSSOP	16
 CD4023B	Three-channel 3-input 3V-to-18V NAND gate	PDIP,SOIC,SOP,TSSOP	14
 CD4024B	CMOS 7-Stage Ripple-Carry Binary Counter/Divider	PDIP,SOIC,SOP,TSSOP	14
-CD4024B-MIL	CMOS 7-Stage Ripple-Carry Binary Counter/Divider	CDIP	14
 CD40257B	CMOS Quad 2-Line-to-1-Line Data Selector/Multiplexer	PDIP,SOIC	16
 CD4025B	3-ch, 3-input, 3-V to 18-V NOR gates	PDIP,SOIC,SOP,TSSOP	14
-CD4025B-MIL	Military 3-ch, 3-input, 3-V to 18-V NOR gates	CDIP	14
 CD4026B	CMOS Decade Counter/Divider with Decoded 7-Segment Display Outputs and Display Enable	PDIP,SOP,TSSOP	16
 CD4027B	CMOS Dual J-K Master-Slave Flip-Flop	PDIP,SOIC,SOP,TSSOP	16
-CD4027B-MIL	CMOS Dual J-K Master-Slave Flip-Flop	CDIP	16
 CD4028B	CMOS BCD-to-Decimal or Binary-to-Octal Decoders/Drivers	PDIP,SOIC,SOP,TSSOP	16
-CD4029B-MIL	CMOS Presettable Up/Down Counter	CDIP	16
 CD4030B	Quadruple 2-input 3-V to 18-V XOR (exclusive OR) gates	PDIP,SOIC,SOP,TSSOP	14
-CD4030B-MIL	Military Quadruple 2-input 3-V to 18-V XOR (exclusive OR) gates	CDIP	14
-CD4035B-MIL	CMOS 4-Stage Parallel In/Parallel Out Shift Register	CDIP	16
+CD4035B	CMOS 4-Stage Parallel In/Parallel Out Shift Register	CDIP	16
 CD4040B	CMOS 12-Stage Ripple-Carry Binary Counter/Divider	PDIP,SOIC,SOP,TSSOP	16
 CD4042B	CMOS Quad Clocked 'D' Latch	PDIP,SOIC,SOP,TSSOP	16
 CD4043B	CMOS Quad NOR R/S Latch with 3-State Outputs	PDIP,SOIC,SOP,TSSOP	16
 CD4044B	CMOS Quad NAND R/S Latch with 3-State Outputs	PDIP,SOIC,SOP,TSSOP	16
 CD4046B	CMOS Micropower Phase-Locked Loop	PDIP,SOP,TSSOP	16
-CD4046B-MIL	CMOS Micropower Phase-Locked Loop	CDIP	16
 CD4047B	CMOS Low-Power Monostable/Astable Multivibrator	PDIP,SOIC,SOP,TSSOP	14
-CD4047B-MIL	CMOS Low-Power Monostable/Astable Multivibrator	CDIP,CDIP_SB	14
 CD4049UB	6-ch, 3-V to 18-V inverters	PDIP,SOIC,SOP,TSSOP	16
-CD4049UB-MIL	Military 6-ch, 3-V to 18-V inverters	CDIP	16
 CD4050B	6-ch, 3-V to 18-V buffers	PDIP,SOIC,SOP,TSSOP	16
-CD4050B-MIL	Military 6-ch, 3-V to 18-V buffers	CDIP	16
 CD4051B	20-V, 8:1, 1-channel analog multiplexer with logic-level conversion	PDIP,SOIC,SOP,TSSOP	16
 CD4051B-Q1	Automotive 20-V, 8:1, 1-channel analog multiplexer with logic-level conversion	TSSOP	16
 CD4052B	20-V, 4:1, 2-channel general-purpose multiplexer	PDIP,SOIC,SOP,TSSOP	16
-CD4052B-MIL	CMOS Differential 4-Channel Analog Multiplexer/Demultiplexer with Logic-Level Conversion	CDIP	16
 CD4053B	20-V, 2:1 (SPDT), 3-channel analog multiplexer with logic-level conversion	PDIP,SOIC,SOP,TSSOP	16
-CD4053B-MIL	CMOS Triple 2-Channel Analog Multiplexer/Demultiplexer with Logic-Level Conversion	CDIP	16
 CD4056B	CMOS BCD To 7-Segment LCD Decoder/Driver with Strobed-Latch Function	PDIP,SOIC,TSSOP	16
 CD4059A	CMOS Programmable Divide-by-N Counter	SOIC	24
 CD4060B	CMOS 14-Stage Ripple-Carry Binary Counter/Divider and Oscillator	PDIP,SOIC,SOP,TSSOP	16
 CD4063B	4-Bit Magnitude Comparators	PDIP,SOIC,SOP	16
 CD4066B	10-pA on-state leakage current, 20-V, 1:1 (SPST), 4-channel analog switch	PDIP,SOIC,SOP,TSSOP	14
-CD4066B-MIL	CMOS quad bilateral switch	CDIP	14
 CD4067B	20-V, 16:1 single-ended, 1-channel analog multiplexer	SOIC,TSSOP	24
 CD4068B	CMOS 8-Input NAND/AND Gate	PDIP,SOIC,SOP,TSSOP	14
 CD4069UB	6-ch, 3-V to 18-V inverters	PDIP,SOIC,SOP,TSSOP	14
-CD4069UB-MIL	Military 6-ch, 3-V to 18-V inverters	CDIP	14
 CD4070B	4-ch, 2-input, 3-V to 18-V XOR (exclusive OR) gates	PDIP,SOIC,SOP,TSSOP	14
-CD4070B-MIL	Military 4-ch, 2-input, 3-V to 18-V XOR (exclusive OR) gates	CDIP	14
 CD4071B	4-ch 2-input 3-V to 18-V OR gate	PDIP,SOIC,SOP,TSSOP	14
-CD4071B-MIL	Military, 4-ch 2-input 3-V to 18-V OR gate	CDIP	14
 CD4072B	2-ch 4-input 3-V to 18-V OR gate	PDIP,SOIC,SOP,TSSOP	14
-CD4072B-MIL	Military, 2-ch 4-input 3-V to 18-V OR gate	CDIP	14
 CD4073B	3-ch 3-input 3-V to 18-V AND gate	PDIP,SOIC,SOP,TSSOP	14
-CD4073B-MIL	Military, 3-ch 3-input 3-V to 18-V AND gate	CDIP	14
 CD4075B	3-ch 3-input 3-V to 18-V OR gate	PDIP,SOIC,SOP,TSSOP	14
-CD4075B-MIL	Military, 3-ch 3-input 3-V to 18-V OR gate	CDIP	14
 CD4077B	4-ch, 4-input, 3-V to 18-V XNOR (exclusive NOR) gates	PDIP,SOIC,SOP,TSSOP	14
 CD4078B	CMOS 8-Input NOR/OR Gate	PDIP,SOIC,SOP,TSSOP	14
-CD4078B-MIL	CMOS 8-Input NOR/OR Gate	CDIP	14
 CD4081B	4-ch 2-input 3-V to 18-V AND gate	PDIP,SOIC,SOP,TSSOP	14
-CD4081B-MIL	Military, 4-ch 2-input 3-V to 18-V AND gate	CDIP	14
 CD4082B	2-ch 4-input 3-V to 18-V AND gate	PDIP,SOIC,SOP,TSSOP	14
-CD4082B-MIL	Military, 2-ch 4-input 3-V to 18-V AND gate	CDIP	14
 CD4089B	CMOS Binary Rate Multiplier	PDIP,SOP,TSSOP	16
 CD4093B	4-ch, 2-input, 3-V to 18-V NAND gates with Schmitt-Trigger inputs	PDIP,SOIC,SOP,TSSOP	14
-CD4093B-MIL	Military 4-ch, 2-input, 3-V to 18-V NAND gates with Schmitt-Trigger inputs	CDIP	14
 CD4093B-Q1	Automotive 4-ch, 2-input, 3-V to 18-V NAND gates with Schmitt-Trigger inputs	SOIC	14
 CD4094B	CMOS 8-Stage Shift-and-Store Bus Register	PDIP,SOP,TSSOP	16
-CD4094B-MIL	CMOS 8-Stage Shift-and-Store Bus Register	CDIP	16
 CD4098B	CMOS Dual Monostable Multivibrator	PDIP,SOIC,TSSOP	16
-CD4098B-MIL	CMOS Dual Monostable Multivibrator	CDIP	16
-CD4099B-MIL	CMOS 8-Bit Addressable Latch	CDIP	16
+CD4099B	CMOS 8-Bit Addressable Latch	CDIP	16
 CD4502B	6-ch, 3-V to 18-V inverters	PDIP,SOIC,SOP,TSSOP	16
-CD4502B-MIL	Military 6-ch, 3-V to 18-V inverters	CDIP	16
 CD4503B	6-ch, 3-V to 18-V buffers	PDIP,SOIC,SOP,TSSOP	16
 CD4504B	CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS Operation	PDIP,SOIC,TSSOP	16
 CD4504B-EP	CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS Operation	TSSOP	16
@@ -1409,20 +1375,17 @@ CD4511B	CMOS BCD-to-7-Segment LED Latch Decoder Drivers	PDIP,SOP,TSSOP	16
 CD4512B	CMOS 8-Channel Data Selector	PDIP,SOIC,SOP,TSSOP	16
 CD4514B	CMOS 4-Bit Latch/4-to-16 Line Decoder with Output 'High' on Select	SOIC	24
 CD4515B	CMOS 4-Bit Latch/4-to-16 Line Decoder	SOIC	24
-CD4515B-MIL	CMOS 4-Bit Latch/4-to-16 Line Decoder	CDIP	24
 CD4516B	CMOS Presettable Binary Up/Down Counter	PDIP,SOP,TSSOP	16
 CD4517B	CMOS Dual 64-Stage Static Shift Register	PDIP	16
 CD4518B	CMOS Dual BCD Up-Counter	PDIP,SOIC,SOP,TSSOP	16
 CD4520B	CMOS Dual Binary Up-Counter	PDIP,SOIC,SOP,TSSOP	16
-CD4520B-MIL	CMOS Dual Binary Up-Counter	CDIP	16
 CD4521B	CMOS 24-Stage Frequency Divider	PDIP,SOIC,SOP,TSSOP	16
 CD4532B	CMOS 8-Bit Priority Encoder	PDIP,SOIC,SOP,TSSOP	16
 CD4536B	CMOS Programmable Timer	PDIP,SOIC,SOP,TSSOP	16
 CD4541B	CMOS Programmable Timer - High Voltage Type (20V Rating)	PDIP,SOIC,SOP,TSSOP	14
 CD4543B	CMOS BCD-to-Seven-Segment Latch/Decoder/Driver for Liquid-Crystal Displays	PDIP,SOIC,SOP,TSSOP	16
 CD4555B	CMOS Dual Binary to 1-of-4 Decoder/Demultiplexer with Outputs High on Select	PDIP,SOIC,SOP,TSSOP	16
-CD4555B-MIL	CMOS Dual Binary to 1-of-4 Decoder/Demultiplexer with Outputs High on Select	CDIP	16
-CD4556B-MIL	CMOS Dual Binary to 1-of-4 Decoder/Demultiplexer with Outputs Low on Select	CDIP	16
+CD4556B	CMOS Dual Binary to 1-of-4 Decoder/Demultiplexer with Outputs Low on Select	CDIP	16
 CD4572UB	CMOS Hex Gate (with 4 Inverters, One 2-Input NOR Gate, and One 2-Input NAND Gate)	PDIP,SOIC,SOP,TSSOP	16
 CD4585B	4-Bit Magnitude Comparators	PDIP,SOP,TSSOP	16
 CD54ACT05	Military 6-ch, 4.5-V to 5.5-V inverters	CDIP	14
@@ -3062,7 +3025,6 @@ DS90LV012A	400-Mbps LVDS single high-speed differential receiver	SOT-23	5
 DS90LV017A	Single high speed differential driver	SOIC	8
 DS90LV018A	3-V LVDS single CMOS differential line receiver	SOIC	8
 DS90LV019	3.3-V or 5-V LVDS driver and receiver	SOIC,TSSOP	14
-DS90LV019-MIL	3.3-V or 5-V LVDS driver and receiver	DIESALE	0
 DS90LV027	LVDS dual high speed differential driver	SOIC	8
 DS90LV027A	600-Mbps LVDS dual high speed differential driver	SOIC	8
 DS90LV027AH	High temperature LVDS dual differential driver	SOIC	8
@@ -3751,20 +3713,17 @@ LF347B	Quad, 36-V, 3-MHz, high slew rate (13-V/µs), 5-mV offset voltage, In to 
 LF353	Dual, 36-V, 3-MHz, high slew rate (13-V/µs), In to V+, JFET-input operational amplifier	PDIP,SOIC	8
 LF353-N	Dual, 36-V, 4-MHz, high slew rate (13-V/µs), In to V+, JFET-input op amp	PDIP,SOIC	8
 LF356	Single, 36-V, 5-MHz, high slew rate (12-V/µs), In to V+, JFET-input operational amplifier	PDIP,SOIC	8
-LF356-MIL	Military-grade, single, 30-V, 5-MHz, FET-input operational amplifier	TO-CAN,WAFERSALE	0,8
 LF398-N	Monolithic sample and hold circuit (10-µs acquisition, 7-mV offset)	PDIP,SOIC	8,14
 LF411	Single, 36-V, 3-MHz, high slew rate (13-V/µs), 2-mV offset voltage, JFET-input op amp	PDIP,SOIC	8
 LF411QML-SP	Space-grade, single, 30-V, 3-MHz, low-offset operational amplifier	CFP	10
 LF412	Dual, 36-V, 3-MHz, high slew rate (13-V/µs), 3-mV offset voltage, JFET-input op amp	PDIP,SOIC	8
 LF412-N	Dual, 44-V, 4-MHz, high slew rate (15-V/µs), In to V+, JFET-input op amp	PDIP	8
-LF412-N-MIL	Military-grade, dual, 30-V, 3-MHz, FET-input operational amplifier	TO-CAN	8
 LF412QML	Military-grade, dual, 30-V, 4-MHz, FET-input operational amplifier	CDIP,DIESALE,TO-CAN	0,8
-LF442-MIL	Military-grade, dual, 30-V, 1-MHz, low-power operational amplifier	TO-CAN,WAFERSALE	0,8
+LF442	Military-grade, dual, 30-V, 1-MHz, low-power operational amplifier	TO-CAN,WAFERSALE	0,8
 LF444	Quad, 36-V, 1-MHz, In to V+, JFET-input operational amplifier	PDIP,SOIC	14
 LF444QML	Military-grade, quad, 30-V, 1-MHz, low-power operational amplifier	CDIP_SB	14
 LL7712ACD	Supply Supervisor
 LM10	Single, 45-V, 50-kHz operational amplifier with an integrated voltage reference	PDIP,SOIC	8,14
-LM10-MIL	Military-grade, single, 40-V, 240-kHz operational amplifier with integrated voltage reference	TO-CAN	8
 LM10000	AVS System Controller	WSON	14
 LM10010	6-Bit VID Voltage Programmer for Point of Load Regulator	WSON	10
 LM10011	1% Accuracy 4/6-Bit VID Voltage Programmer for Point of Load Regulator w/ Adj Start-Up Current	WSON	10
@@ -3820,10 +3779,8 @@ LM137JAN-SP	Space grade -4.2-V to -40-V, 1.5-A adjustable output negative linear
 LM137QML-SP	Radiation-tolerant QMLV, -4.2-V to -40-V, 1.5-A adjustable negative linear regulator	TO-CAN	3
 LM138	5A Adjustable Output Linear Regulator / LDO in hermetic package	TO-CAN	2
 LM139	Quad differential comparator, military grade	SOIC	14
-LM139-MIL	Quad Differential Comparator	CDIP,CFP,LCCC	14,20
 LM139-N	Low Power Low Offset Voltage Quad Comparator	CDIP	14
 LM139A	Precision quad differential comparator, military grade	SOIC	14
-LM139A-MIL	Quad Differential Comparator	CDIP,CFP,LCCC	14,20
 LM139AQML	Low Power Low Offset Voltage Quad Comparator	CDIP,CFP,DIESALE,LCCC	0,14,20
 LM139AQML-SP	Low Power Low Offset Voltage Quad Comparator	CDIP,CFP,DIESALE	0,14
 LM139JAN	Low Power Low Offset Voltage Quad Comparator	CFP	14
@@ -3863,7 +3820,6 @@ LM1881	Video Sync Separator	PDIP,SOIC	8
 LM1894	Stereo dynamic noise reduction system	SOIC	14
 LM19	Analog Output Temperature Sensor in TO-92	TO-92	3
 LM193	Dual military grade standard comparator	SOIC	8
-LM193-MIL	Dual Differential Comparator	CDIP,LCCC	8,20
 LM193-N	Low Power Low Offset Voltage Dual Comparator	TO-CAN	8
 LM193JAN	Low Power Low Offset Voltage Dual Comparator	TO-CAN	8
 LM193QML	Low Power Low Offset Voltage Dual Comparator	CDIP,DIESALE,TO-CAN	0,8
@@ -4214,16 +4170,15 @@ LM2991	1-A, negative, adjustable low-dropout voltage regulator with enable	TO-22
 LM2991QML	Negative Low Dropout Adjustable Regulator	CFP,DIESALE,WAFERSALE	0,16
 LM3000	3.3-V to 18.5-V, dual-ouptut current mode synchronous buck controller	WQFN	32
 LM3017	High Efficiency Low-Side Controller with True Shutdown	WQFN	10
-LM301A-N-MIL	Military-grade, single, 36-V, 1-MHz operational amplifier	TO-CAN	8
+LM301A	Military-grade, single, 36-V, 1-MHz operational amplifier	TO-CAN	8
 LM309	1A 5V output linear regulator / LDO in hermetic packages	TO-CAN	2,3
 LM3100	Synchronous 1MHz 1.5A Step-Down Voltage Regulator	HTSSOP	20
 LM3102	Synchronous 1MHz 2.5A Step-Down Voltage  Regulator	DSBGA,HTSSOP	20,28
 LM3102-Q1	Synchronous 1MHz 2.5A Step-Down Voltage  Regulator	HTSSOP	20
 LM3103	Synchronous 1MHz 0.75A Step-Down Voltage  Regulator	HTSSOP	16
 LM311	High Speed, 30V, Differential Comparator With Strobes	PDIP,SOIC,SOP,TSSOP	8
-LM311-MIL	Differential Comparator With Strobes	WAFERSALE	0
+LM311	Differential Comparator With Strobes	WAFERSALE	0
 LM311-N	Precision, high voltage, floating output comparator	PDIP,SOIC	8
-LM311-N-MIL	Voltage Comparator	TO-CAN	8
 LM3150	6V to 42V Synchronous Step-Down Controller with Adjustable Output Voltage	HTSSOP	14
 LM3151	42V Synchronous Step-Down Controller with 3.3V Output and Adjustable Switching Frequency	HTSSOP	14
 LM3152	42V Synchronous Step-Down Controller with 3.3V Output and 500kHz Switching Frequency	HTSSOP	14
@@ -4247,7 +4202,6 @@ LM3224	615kHz/1.25MHz Step-up PWM DC/DC Converter	VSSOP	8
 LM323-N	3A 5V Fixed Output Linear Regulator	TO-CAN	2
 LM324	Quad 30-V 1.2-MHz operational amplifier	PDIP,SOIC,SOP,TSSOP	14
 LM324-N	Quad 32-V 1-MHz operational amplifier	PDIP,SOIC,TSSOP	14
-LM324-N-MIL	Military, quad 32-V 1-MHz operational amplifier	CDIP	14
 LM3241	6MHz, 750mA Miniature, Adjustable, Step-Down DC-DC Converter for RF Power Amplifiers	DSBGA	6
 LM3242	6MHz, 750mA Miniature, Adjustable, Step-Down DC-DC Converter with Bypass	DSBGA	9
 LM3243	2.7MHz, 2.5A Step-Down DC-DC Converter with Analog Bypass Mode for 2G/3G/4G PAs	DSBGA	16
@@ -4282,7 +4236,6 @@ LM3370	Dual Synchronous Step-Down DC-DC Converter with Dynamic Voltage Scaling F
 LM337L	100-mA, negative, adjustable linear voltage regulator	SOIC,TO-92	3,8
 LM338	5-A, 40-V, low-IQ, adjustable linear voltage regulator	TO-220	3
 LM339	Quad differential comparator	PDIP,SOIC,SOP,SSOP,TSSOP	14
-LM339-MIL	Quad Differential Comparator	CDIP	14
 LM339-N	Low Power Low Offset Voltage Quad Comparator	PDIP,SOIC	14
 LM339A	Precision quad differential comparator, commercial grade	PDIP,SOIC,SOP,SSOP,TSSOP	14
 LM339B	36-V, -40°C to 85°C quad standard comparator	SOIC,TSSOP,WQFN	14,16
@@ -4710,7 +4663,7 @@ LM51581	1.5-A, 85-V, 2.2-MHz wide VIN boost, flyback, & SEPIC converter with dua
 LM51581-Q1	1.5-A, 85-V, 2.2-MHz wide VIN boost, flyback, & SEPIC converter with dual random spread spectrum	WQFN	16
 LM5160	LM5160 wide input 65V, 2A synchronous buck/Fly-Buck™ converter	WSON	12
 LM5160-Q1	Wide Input 65V, 2A Synchronous Buck / Fly-Buck™ Converter	HTSSOP	14
-LM5160A	LM5160A Wide Input 65V, 2A Synchronous Buck / Fly-Buck™ Converter	WSON	12
+LM5160A,B	LM5160A Wide Input 65V, 2A Synchronous Buck / Fly-Buck™ Converter	WSON	12
 LM5161	Wide Input 4.5-V to 100-V, 1-A Synchronous Buck / Fly-Buck Converter	HTSSOP	14
 LM5161-Q1	Wide Input 4.5-V to 100-V, 1-A Synchronous Buck / Fly-Buck Converter	HTSSOP	14
 LM5163	100-V input, 0.5-A synchronous buck DC/DC converter with ultra-low IQ	HSOIC	8
@@ -4753,7 +4706,6 @@ LM53603-Q1	Automotive 3.5-V to 36-V, 3-A synchronous step-down converter	HTSSOP	
 LM53625-Q1	2.5-A, 36-V synchronous, 2.1-MHz, automotive step-down DC-DC converter	VQFN-HR	22
 LM53635-Q1	3.5-A, 36-V synchronous, 2.1-MHz, automotive step-down DC-DC converter	VQFN-HR	22
 LM555	Highly Stable 555 Timer	PDIP,SOIC,VSSOP	8
-LM555-MIL	Highly Stable 555 Timer	WAFERSALE	0
 LM555QML	Timer	CDIP,TO-CAN	8
 LM5574	75V, 0.5A Step-Down Switching Regulator	TSSOP	16
 LM5574-Q1	75V, 0.5A Step-Down Switching Regulator	TSSOP	16
@@ -4852,7 +4804,6 @@ LM73606	3.5V to 36V, 6A Synchronous Step-Down Voltage Converter	WQFN	30
 LM73606-Q1	Automotive qualified 3.5-V to 36-V, 6-A synchronous step-down voltage converter	WQFN	30
 LM74	±1.25°C Temperature Sensor with SPI Interface	DSBGA,SOIC	5,8
 LM741	Single, 44-V, 1-MHz operational amplifier	PDIP,WAFERSALE	0,8
-LM741-MIL	Military-grade, single, 44-V, 1-MHz operational amplifier	CDIP,TO-CAN	8
 LM741QML	Military-grade, single, 44-V, 1-MHz operational amplifier	CDIP,DIESALE,TO-CAN	0,8
 LM74202-Q1	4.2-V to 40-V, 2.2A 300uA IQ automotive ideal diode with Integrated FET	HTSSOP	16
 LM74500-Q1	Reverse polarity protection controller	SOT-23-THN	8
@@ -7302,12 +7253,11 @@ OPT8320	3D time-of-flight (ToF) sensor and controller	COG	56
 OPT9221	Time-of-Flight (ToF) Controller for OPT8241	NFBGA	256
 P82B715	2-bit bidirectional 3- to 12-V 400-kHz I2C/SMBus buffer/cable extender	PDIP,SOIC	8
 P82B96	2-bit bidirectional 2- to 15-V 400-kHz I2C/SMBus buffer/cable extender	PDIP,SOIC,TSSOP,VSSOP	8
-PAL16L8A-2M	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
-PAL16L8AM	Standard High-Speed PAL<R> Circuits	CDIP,CFP,LCCC	20
-PAL16R4A-2M	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
-PAL16R4AM	Standard High-Speed PAL<R> Circuits	CDIP,CFP,LCCC	20
-PAL16R6AM	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
-PAL16R8AM	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
+PAL16L8,A	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
+PAL16R4,A	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
+PAL16R4,AM	Standard High-Speed PAL<R> Circuits	CDIP,CFP,LCCC	20
+PAL16R6,AM	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
+PAL16R8,AM	Standard High-Speed PAL<R> Circuits	CDIP,LCCC	20
 PCA9306	2-bit bidirectional 400-kHz I2C/SMBus voltage level translator	DSBGA,SSOP,VSSOP,X2SON	8
 PCA9306-Q1	Automotive 2-bit bidirectional 400-kHz I2C/SMBus voltage level translator	VSSOP	8
 PCA9515B	2-bit bidirectional 2.3- to 3.6-V 400-kHz I2C/SMBus buffer	VSSOP	8
@@ -10363,6 +10313,7 @@ SN75157	Dual Differential Line Receiver	PDIP,SOIC,SOP	8
 SN75158	Dual Differential Line Driver	PDIP,SOIC,SOP	8
 SN75160B	Octal General-Purpose Interface Bus Transceiver	PDIP,SOIC	20
 SN75161B	Octal General-Purpose Interface Bus Transceiver	PDIP,SOIC	20
+SN75162B	IEEE-488 GPIB Transceiver	PDIP
 SN751701	Line Driver and Receiver	PDIP,SOP	8
 SN75172	Quadruple Differential Line Driver	PDIP,SOIC	16,20
 SN75173	Quadruple Differential Line Receiver	PDIP,SOIC,SOP	16
@@ -10947,15 +10898,13 @@ THVD4431	Dual-protocol RS-232(3T/5R)/RS-485(1T/1R) transceiver	VQFN	40
 THVD8000	RS-485 transceiver with OOK modulation for power line communication	SOT-23-THN	8
 THVD8010	RS-485 transceiver with OOK modulation for power line communication	SOT-23-THN	8
 THVD9491-SEP	Radiation-tolerant 3V to 5.5V RS-485 transceiver with flexible I/O supply and IEC ESD	SOIC	14
-TIBPAL16L8-20M	High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
-TIBPAL16L8-30M	Low-Power High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
-TIBPAL16R4-20M	High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
-TIBPAL16R4-30M	Low-Power High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
-TIBPAL16R6-30M	Low-Power High-Performance Impact<TM> PAL<R> Circuits	CDIP,LCCC	20
-TIBPAL16R8-30M	Low-Power High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
-TIBPAL20L8-20M	High-Performance Impact<TM> PAL<R> Circuits	CDIP,LCCC	24,28
-TIBPAL20R4-20M	High-Performance Impact<TM> PAL<R> Circuits	CDIP,LCCC	24,28
-TIBPAL20R8-20M	High-Performance Impact<TM> PAL<R> Circuits	CDIP	24
+TIBPAL16L8	High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
+TIBPAL16R4	High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
+TIBPAL16R6	Low-Power High-Performance Impact<TM> PAL<R> Circuits	CDIP,LCCC	20
+TIBPAL16R8	Low-Power High-Performance Impact<TM> PAL<R> Circuits	CDIP,CFP,LCCC	20
+TIBPAL20L8	High-Performance Impact<TM> PAL<R> Circuits	CDIP,LCCC	24,28
+TIBPAL20R4	High-Performance Impact<TM> PAL<R> Circuits	CDIP,LCCC	24,28
+TIBPAL20R8	High-Performance Impact<TM> PAL<R> Circuits	CDIP	24
 TIC10024-Q1	Automotive 35-V multi-switch detection interface (MSDI) with SPI	HTSSOP	38
 TIC12400	24-input sensor monitor with integrated 1:1 (SPST), 10-channel ADC & SPI	HTSSOP	38
 TIC12400-Q1	Automotive 35-V multi-switch detection interface (MSDI) with SPI & integrated ADC	HTSSOP	38
@@ -16539,3 +16488,8 @@ SN74ALS1032A	quadruple 2-input positive-OR buffer	DIP	14
 SN74AS1032A	quadruple 2·input positive-OR driver	DIP	14
 SN74AS1000A	quadruple 2-input positive-AND driver	DIP	14
 SN74ALS1000A	quadruple 2-input positive-AND buffer	DIP	14
+SN75176B	EIA STANDARD RS-422-A AND EIA STANDARD RS-485 SINGLE-ENDED DIFFERENTIAL		8
+SN74278	4-BIT CASCADABLE PRIORITY REGISTERS	DIP	14
+SN74178 	4-BIT UNIVERSAL SHIFT REGISTER
+1820-0579	SN74123N multivibrator for HP devices	DIP	16
+SN74193	synchronous presettable up/down 4-bit binary counter, clear	DIP	16

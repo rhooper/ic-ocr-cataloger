@@ -24,7 +24,6 @@ from .fonts import (
     HUGE_FONT,
     MAIN_FONT,
     MATCH_FONT,
-    MEDIUM_FONT,
     SMALL_FONT,
 )
 from .keyhandler import KeyEvent, KeyMap
@@ -85,7 +84,7 @@ class App:
     - c: Contrast up
     - C: Contrast down
     - x: Reset filters
-    - !: Force lock
+    - !+: Force lock
     - >: Save unknown
     - `: Reset OCR
     - /: Search
@@ -338,15 +337,15 @@ class App:
 
         use = self.ocr.locked_parts or self.ocr.best_match
         if self.ocr.locked_parts:
-            color = (255, 255, 255)
+            color = (192, 255, 192)
         else:
-            color = (128, 128, 128)
-        top = 50
+            color = (199, 255, 255)
+        top = 20
         args = dict(
-            xy=(50, top),
+            xy=(20, top),
             font=MATCH_FONT,
             anchor="la",
-            stroke_width=1,
+            stroke_width=0.6,
         )
         for n, (part, n_occ) in enumerate(use.items()):
             # try:
@@ -358,7 +357,7 @@ class App:
             # del size_args["fill"]
             size = drawer.multiline_textbbox(**args, text=text)
             drawer.multiline_text(**args, text=text, fill=color)
-            args["xy"] = (50, 2 + size[3])
+            args["xy"] = (20, size[3] - 2)
 
     def draw_status_bar(self, drawer):
         # Status line
@@ -400,6 +399,7 @@ class App:
             {
                 "x": 1400,
                 "text": f"MAT {count_matches(self.ocr.recently_found):3d}",
+                "fill": (0, 255, 0) if self.ocr.recently_found else (255, 0, 0),
             },
             {"x": 1500, "text": f"BUF {len(self.ocr.recently_found):03d}"},
             {"x": 1700, "text": f"{self.counter['frame']:06d}"},
@@ -439,12 +439,12 @@ class App:
         bboxes = self.get_drawable_bboxes()
         for box in bboxes:
             match box:
-                case BoundingBox(confidence, _, _, True) if confidence < 0.5:
-                    color = (128, 0, 0)
+                case BoundingBox(confidence, _, _, True) if confidence > 0.9:
+                    color = (0, 0, 192)
                 case BoundingBox(confidence, _, _, True) if 0.5 <= confidence < 1:
-                    color = (192, 192, 192)
+                    color = (0, 192, 192)
                 case BoundingBox(_, _, _, True):
-                    color = (96, 128, 96)
+                    color = (128, 192, 128)
                 case BoundingBox(confidence, _, _, False) if confidence < 0.5:
                     color = (64, 0, 0, 64)
                 case BoundingBox(confidence, _, _, False) if confidence < 0.8:
@@ -452,15 +452,15 @@ class App:
                 case BoundingBox(_, _, _, False):
                     color = (128, 0, 0, 128)
                 case _:
-                    color = (0, 32, 32)
+                    color = (0, 64, 64)
             drawer.rectangle(box.position, outline=color, width=1 + int(box.matched))
             drawer.text(
                 (box.position[0] + 3, box.position[1]),
                 f"{box.text.strip()}",
                 (255, 255, 255, 128 if box.matched else 255),
-                MEDIUM_FONT,
+                SMALL_FONT,
                 anchor="lb",
-                stroke_width=0.8,
+                stroke_width=0,
             )
             drawer.text(
                 (box.position[2], box.position[3] + 2),
@@ -468,7 +468,7 @@ class App:
                 color,
                 SMALL_FONT,
                 anchor="rt",
-                stroke_width=0.4,
+                stroke_width=0,
             )
 
     def get_drawable_bboxes(self):
@@ -550,7 +550,7 @@ class App:
         # Save with bounding boxes and text in a CSV
         fn = self.later_path / f"{datetime.now().strftime('%Y%m%d-%H%M%S')}.png"
         self.cam.cur_image.save(fn, "PNG")
-        with (self.later_path / "try_later/index.json").open("a") as f:
+        with (self.later_path / "index.json").open("a") as f:
             f.writelines(
                 [
                     json.dumps(

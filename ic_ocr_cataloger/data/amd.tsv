@@ -216,7 +216,7 @@ S8T28	Schottky Three-State Quad Bus Driver/Receiver
 8226	4-Bit Parallel Bidirectional Bus
 8228	System.Controller and Bus Driver
 8238	System Controller and Bus Driver
-9614	Differential Line Driver
+9614,DC	Differential Line Driver
 9615	Dual Differential Line Receiver
 9616	Triple E IA RS-232C/M I L-STD-188C Line Driver
 9617	RS-232C Line Receiver
@@ -292,8 +292,6 @@ Am25LS2569	Four-Bit Binary Up-Down Counter; Three-State Outputs
 Am26LS29	Quad Driver RS-423, Three State
 Am26LS30	Quad Driver
 Am26LS31	Quad Driver RS-422, High-Speed
-Am26LS32	Quad Differential Line Receiver
-Am26LS33	Quad Differential Line Receiver, High Common Mode
 Am2905	Quad Two-Input OC Bus Transceiver with Three-State Receiver
 Am2906	Quad Two-Input OC Bus Transceiver with Parity
 Am2907	Quad Bus Transceiver with Three-State Receiver and Parity
